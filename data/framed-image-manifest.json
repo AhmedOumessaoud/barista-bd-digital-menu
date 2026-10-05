@@ -1,0 +1,767 @@
+{
+  "tiramisu-cream-cold-brew": {
+    "image": "assets/generated/framed/tiramisu-cream-cold-brew.webp",
+    "box": [
+      30.840726027397256,
+      36.05060291545189,
+      41.5541095890411,
+      38.74612244897959
+    ],
+    "crop": [
+      65,
+      5,
+      211,
+      250
+    ]
+  },
+  "black-forest-matcha": {
+    "image": "assets/generated/framed/black-forest-matcha.webp",
+    "box": [
+      30.85038323353293,
+      40.72426728110599,
+      41.03802395209581,
+      34.75238709677419
+    ],
+    "crop": [
+      49,
+      4,
+      216,
+      252
+    ]
+  },
+  "vanilla-matcha-tiramisu-cream": {
+    "image": "assets/generated/framed/vanilla-matcha-tiramisu-cream.webp",
+    "box": [
+      33.839236111111106,
+      40.95136164736165,
+      38.24166666666667,
+      37.94645045045045
+    ],
+    "crop": [
+      57,
+      38,
+      201,
+      260
+    ]
+  },
+  "spanish-iced-latte-tiramisu-cream": {
+    "image": "assets/generated/framed/spanish-iced-latte-tiramisu-cream.webp",
+    "box": [
+      34.20555923694779,
+      35.10523006310958,
+      36.390750000000004,
+      35.39277108433735
+    ],
+    "crop": [
+      33,
+      0,
+      199,
+      249
+    ]
+  },
+  "coconut-water-cinnamon-iced-matcha": {
+    "image": "assets/generated/framed/coconut-water-cinnamon-iced-matcha.webp",
+    "box": [
+      40.047441666666664,
+      45.797815873015864,
+      31.459999999999997,
+      27.243318518518514
+    ],
+    "crop": [
+      30,
+      0,
+      210,
+      270
+    ]
+  },
+  "banana-vanilla-oreo-iced-latte-tiramisu-cream": {
+    "image": "assets/generated/framed/banana-vanilla-oreo-iced-latte-tiramisu-cream.webp",
+    "box": [
+      29.32317554240631,
+      51.194497354497344,
+      33.9991124260355,
+      32.99964444444444
+    ],
+    "crop": [
+      8,
+      0,
+      177,
+      270
+    ]
+  },
+  "vanilla-oreo-pink-iced-latte-tiramisu-cream": {
+    "image": "assets/generated/framed/vanilla-oreo-pink-iced-latte-tiramisu-cream.webp",
+    "box": [
+      35.28015753424658,
+      30.69577142857143,
+      43.05306164383561,
+      32.142784
+    ],
+    "crop": [
+      58,
+      0,
+      204,
+      250
+    ]
+  },
+  "strawberry-pistachio-mocha": {
+    "image": "assets/generated/framed/strawberry-pistachio-mocha.webp",
+    "box": [
+      26.62154270833333,
+      27.904116222760287,
+      41.262271875,
+      38.57674576271187
+    ],
+    "crop": [
+      44,
+      39,
+      204,
+      275
+    ]
+  },
+  "white-chocolate-strawberry-mocha": {
+    "image": "assets/generated/framed/white-chocolate-strawberry-mocha.webp",
+    "box": [
+      28.778793103448272,
+      31.596020779220776,
+      38.62344827586207,
+      38.734036363636356
+    ],
+    "crop": [
+      45,
+      55,
+      190,
+      275
+    ]
+  },
+  "espresso-cold-tiramisu-cream": {
+    "image": "assets/generated/framed/espresso-cold-tiramisu-cream.webp",
+    "box": [
+      34.12234848484848,
+      30.502704761904763,
+      36.887522727272724,
+      31.131733333333333
+    ],
+    "crop": [
+      69,
+      0,
+      179,
+      255
+    ]
+  },
+  "oreo-coconut-espresso-tiramisu-cream": {
+    "image": "assets/generated/framed/oreo-coconut-espresso-tiramisu-cream.webp",
+    "box": [
+      32.39285714285714,
+      36.73609898762654,
+      37.893214285714286,
+      31.63659842519685
+    ],
+    "crop": [
+      65,
+      0,
+      191,
+      254
+    ]
+  },
+  "iced-latte": {
+    "image": "assets/generated/framed/iced-latte.webp",
+    "box": [
+      31.64827898550724,
+      32.485934391534386,
+      36.91550815217391,
+      32.99964444444444
+    ],
+    "crop": [
+      28,
+      0,
+      212,
+      270
+    ]
+  },
+  "iced-mocha": {
+    "image": "assets/generated/framed/iced-mocha.webp",
+    "box": [
+      36.237280701754386,
+      33.804782749326144,
+      35.44176315789474,
+      31.78910188679245
+    ],
+    "crop": [
+      26,
+      0,
+      197,
+      265
+    ]
+  },
+  "strawberry-tiramisu-cream-mocha": {
+    "image": "assets/generated/framed/strawberry-tiramisu-cream-mocha.webp",
+    "box": [
+      23.818516007532956,
+      34.688847241867045,
+      47.44858757062147,
+      50.00103960396039
+    ],
+    "crop": [
+      28,
+      75,
+      205,
+      277
+    ]
+  },
+  "coconut-water-honey-matcha": {
+    "image": "assets/generated/framed/coconut-water-honey-matcha.webp",
+    "box": [
+      32.06864285714285,
+      33.22498979591836,
+      40.92142857142857,
+      36.74064285714285
+    ],
+    "crop": [
+      16,
+      33,
+      170,
+      257
+    ]
+  },
+  "oat-milk-english-tea-tiramisu-cream": {
+    "image": "assets/generated/framed/oat-milk-english-tea-tiramisu-cream.webp",
+    "box": [
+      34.59174117647059,
+      38.27967479674797,
+      38.18943529411765,
+      32.27069918699187
+    ],
+    "crop": [
+      50,
+      24,
+      220,
+      270
+    ]
+  },
+  "black-tea-iced-mocha": {
+    "image": "assets/generated/framed/black-tea-iced-mocha.webp",
+    "box": [
+      37.38208333333333,
+      39.74695345104333,
+      34.377873563218394,
+      29.732554307116107
+    ],
+    "crop": [
+      18,
+      0,
+      192,
+      267
+    ]
+  },
+  "black-tea-matcha-cream": {
+    "image": "assets/generated/framed/black-tea-matcha-cream.webp",
+    "box": [
+      37.24903779069767,
+      47.08898796441653,
+      39.418078488372096,
+      32.63701098901099
+    ],
+    "crop": [
+      17,
+      5,
+      189,
+      278
+    ]
+  },
+  "iced-strawberry-black-tea": {
+    "image": "assets/generated/framed/iced-strawberry-black-tea.webp",
+    "box": [
+      38.25035668789809,
+      40.25037362637362,
+      38.35414012738853,
+      35.48184615384615
+    ],
+    "crop": [
+      64,
+      30,
+      221,
+      251
+    ]
+  },
+  "white-chocolate-caramel-black-tea": {
+    "image": "assets/generated/framed/white-chocolate-caramel-black-tea.webp",
+    "box": [
+      30.590131578947364,
+      24.115329583802026,
+      39.26691447368422,
+      36.22633070866142
+    ],
+    "crop": [
+      68,
+      4,
+      220,
+      258
+    ]
+  },
+  "thai-iced-tea-mocha": {
+    "image": "assets/generated/framed/thai-iced-tea-mocha.webp",
+    "box": [
+      31.308968637992827,
+      37.930731384445664,
+      38.048924731182794,
+      35.52698069498069
+    ],
+    "crop": [
+      28,
+      10,
+      214,
+      269
+    ]
+  },
+  "banana-salted-caramel-black-tea": {
+    "image": "assets/generated/framed/banana-salted-caramel-black-tea.webp",
+    "box": [
+      34.3841862745098,
+      35.74751085714286,
+      35.76702941176471,
+      35.251200000000004
+    ],
+    "crop": [
+      24,
+      20,
+      194,
+      270
+    ]
+  },
+  "orange-iced-black-tea": {
+    "image": "assets/generated/framed/orange-iced-black-tea.webp",
+    "box": [
+      36.422916666666666,
+      32.10654023705552,
+      37.05,
+      37.63577292576419
+    ],
+    "crop": [
+      68,
+      20,
+      212,
+      249
+    ]
+  },
+  "vanilla-black-tea-dark-chocolate-sundae": {
+    "image": "assets/generated/framed/vanilla-black-tea-dark-chocolate-sundae.webp",
+    "box": [
+      31.867468063872256,
+      35.19043913285159,
+      36.497452095808384,
+      32.77864591439689
+    ],
+    "crop": [
+      14,
+      0,
+      181,
+      257
+    ]
+  },
+  "biscoff-iced-matcha-mocha": {
+    "image": "assets/generated/framed/biscoff-iced-matcha-mocha.webp",
+    "box": [
+      25.78174603174603,
+      41.2679766330324,
+      40.42559523809524,
+      38.90004460966542
+    ],
+    "crop": [
+      29,
+      0,
+      197,
+      269
+    ]
+  },
+  "banana-iced-mocha": {
+    "image": "assets/generated/framed/banana-iced-mocha.webp",
+    "box": [
+      27.368991379310344,
+      39.79648143982002,
+      37.013818965517245,
+      34.69606299212599
+    ],
+    "crop": [
+      30,
+      15,
+      204,
+      269
+    ]
+  },
+  "strawberry-mango-iced-matcha": {
+    "image": "assets/generated/framed/strawberry-mango-iced-matcha.webp",
+    "box": [
+      22.47104142011834,
+      36.137451737451734,
+      38.72614792899409,
+      36.63423423423423
+    ],
+    "crop": [
+      45,
+      45,
+      214,
+      267
+    ]
+  },
+  "oat-milk-mango-iced-latte": {
+    "image": "assets/generated/framed/oat-milk-mango-iced-latte.webp",
+    "box": [
+      28.973692982456132,
+      34.26340961408259,
+      40.23157894736842,
+      28.41562085308057
+    ],
+    "crop": [
+      32,
+      34,
+      203,
+      245
+    ]
+  },
+  "lemon-cream-cold-brew": {
+    "image": "assets/generated/framed/lemon-cream-cold-brew.webp",
+    "box": [
+      36.506666666666675,
+      56.61483863504916,
+      29.278700000000004,
+      25.453473684210522
+    ],
+    "crop": [
+      100,
+      0,
+      220,
+      247
+    ]
+  },
+  "iced-latte-matcha-tiramisu-cream": {
+    "image": "assets/generated/framed/iced-latte-matcha-tiramisu-cream.webp",
+    "box": [
+      33.10230769230769,
+      41.41663113006397,
+      33.79504615384615,
+      31.433253731343285
+    ],
+    "crop": [
+      25,
+      0,
+      220,
+      268
+    ]
+  },
+  "blue-iced-black-tea": {
+    "image": "assets/generated/framed/blue-iced-black-tea.webp",
+    "box": [
+      33.84790142276422,
+      28.23078272425249,
+      37.3664481707317,
+      33.76089302325581
+    ],
+    "crop": [
+      27,
+      24,
+      191,
+      239
+    ]
+  },
+  "lemon-cream-strawberry-matcha": {
+    "image": "assets/generated/framed/lemon-cream-strawberry-matcha.webp",
+    "box": [
+      32.754569892473114,
+      36.46728509585653,
+      36.73548387096774,
+      33.945835497835496
+    ],
+    "crop": [
+      40,
+      27,
+      195,
+      258
+    ]
+  },
+  "strawberry-ube-oat-milk-latte": {
+    "image": "assets/generated/framed/strawberry-ube-oat-milk-latte.webp",
+    "box": [
+      35.529387755102036,
+      30.459353010625737,
+      35.0204081632653,
+      31.599206611570246
+    ],
+    "crop": [
+      51,
+      8,
+      198,
+      250
+    ]
+  },
+  "orange-matcha-lemon-cream": {
+    "image": "assets/generated/framed/orange-matcha-lemon-cream.webp",
+    "box": [
+      33.37258620689655,
+      48.738808163265304,
+      30.015951724137928,
+      28.436767346938773
+    ],
+    "crop": [
+      70,
+      7,
+      215,
+      252
+    ]
+  },
+  "coconut-water-matcha-lemon-cream": {
+    "image": "assets/generated/framed/coconut-water-matcha-lemon-cream.webp",
+    "box": [
+      38.13989380530973,
+      39.94117050691244,
+      34.6947610619469,
+      32.010451612903225
+    ],
+    "crop": [
+      110,
+      18,
+      223,
+      266
+    ]
+  },
+  "blue-vanilla-iced-latte": {
+    "image": "assets/generated/framed/blue-vanilla-iced-latte.webp",
+    "box": [
+      20.442999999999998,
+      33.367923126201156,
+      42.13026,
+      38.64839461883408
+    ],
+    "crop": [
+      32,
+      24,
+      207,
+      247
+    ]
+  },
+  "ube-strawberry-iced-matcha": {
+    "image": "assets/generated/framed/ube-strawberry-iced-matcha.webp",
+    "box": [
+      35.574100938967135,
+      34.36462585034014,
+      32.77316197183099,
+      28.05838961038961
+    ],
+    "crop": [
+      12,
+      4,
+      154,
+      235
+    ]
+  },
+  "vanilla-mint-mocha": {
+    "image": "assets/generated/framed/vanilla-mint-mocha.webp",
+    "box": [
+      29.689134032634026,
+      35.41647895672792,
+      33.35370279720279,
+      30.118639004149376
+    ],
+    "crop": [
+      50,
+      19,
+      193,
+      260
+    ]
+  },
+  "blue-mint-latte": {
+    "image": "assets/generated/framed/blue-mint-latte.webp",
+    "box": [
+      29.913508571428576,
+      31.323972350230413,
+      37.88763428571429,
+      36.71012903225807
+    ],
+    "crop": [
+      25,
+      17,
+      200,
+      265
+    ]
+  },
+  "apple-cold-brew-lemon-cream": {
+    "image": "assets/generated/framed/apple-cold-brew-lemon-cream.webp",
+    "box": [
+      28.752666666666663,
+      38.51616364855801,
+      44.089301886792455,
+      24.50043192488263
+    ],
+    "crop": [
+      27,
+      64,
+      186,
+      277
+    ]
+  },
+  "oreo-matcha-tiramisu-cream": {
+    "image": "assets/generated/framed/oreo-matcha-tiramisu-cream.webp",
+    "box": [
+      27.952777777777776,
+      47.42144726301735,
+      44.9455625,
+      26.200971962616816
+    ],
+    "crop": [
+      19,
+      52,
+      187,
+      266
+    ]
+  },
+  "oat-milk-ube-oreo-latte": {
+    "image": "assets/generated/framed/oat-milk-ube-oreo-latte.webp",
+    "box": [
+      29.282567204301074,
+      35.7472,
+      38.95729838709677,
+      36.805952000000005
+    ],
+    "crop": [
+      4,
+      15,
+      190,
+      265
+    ]
+  },
+  "oat-milk-caramel-iced-latte": {
+    "image": "assets/generated/framed/oat-milk-caramel-iced-latte.webp",
+    "box": [
+      36.84170400728597,
+      49.9368746776689,
+      30.60327868852459,
+      23.39887364620938
+    ],
+    "crop": [
+      34,
+      0,
+      217,
+      277
+    ]
+  },
+  "caramel-americano-lemon-cream": {
+    "image": "assets/generated/framed/caramel-americano-lemon-cream.webp",
+    "box": [
+      29.09501124744376,
+      36.432879120879115,
+      37.240819018404906,
+      33.51063247863248
+    ],
+    "crop": [
+      28,
+      42,
+      191,
+      276
+    ]
+  },
+  "coconut-water-matcha-cream": {
+    "image": "assets/generated/framed/coconut-water-matcha-cream.webp",
+    "box": [
+      32.13529411764706,
+      42.14128784648187,
+      36.79150326797386,
+      22.372
+    ],
+    "crop": [
+      48,
+      0,
+      201,
+      268
+    ]
+  },
+  "honey-cold-brew-honey-cream": {
+    "image": "assets/generated/framed/honey-cold-brew-honey-cream.webp",
+    "box": [
+      32.021118012422356,
+      50.37104053156146,
+      40.488916149068324,
+      27.435311627906977
+    ],
+    "crop": [
+      30,
+      62,
+      191,
+      277
+    ]
+  },
+  "strawberry-dalgona-coffee": {
+    "image": "assets/generated/framed/strawberry-dalgona-coffee.webp",
+    "box": [
+      28.965626506024087,
+      47.56870669427191,
+      48.087385542168676,
+      31.311536231884055
+    ],
+    "crop": [
+      22,
+      70,
+      188,
+      277
+    ]
+  },
+  "caramel-cold-brew-choco-cream": {
+    "image": "assets/generated/framed/caramel-cold-brew-choco-cream.webp",
+    "box": [
+      35.91781397849462,
+      43.421793493635086,
+      38.04519677419355,
+      34.49013861386138
+    ],
+    "crop": [
+      25,
+      76,
+      180,
+      278
+    ]
+  },
+  "strawberry-iced-matcha-lemon-cream": {
+    "image": "assets/generated/framed/strawberry-iced-matcha-lemon-cream.webp",
+    "box": [
+      39.20336419753086,
+      39.74695345104333,
+      35.17250000000001,
+      24.27523595505618
+    ],
+    "crop": [
+      29,
+      0,
+      191,
+      267
+    ]
+  },
+  "espresso-lemon-coconut-water-honey-cream": {
+    "image": "assets/generated/framed/espresso-lemon-coconut-water-honey-cream.webp",
+    "box": [
+      22.402852404643447,
+      36.836451578384164,
+      39.47014925373134,
+      25.729977528089886
+    ],
+    "crop": [
+      13,
+      0,
+      214,
+      267
+    ]
+  },
+  "dalgona-honey-matcha": {
+    "image": "assets/generated/framed/dalgona-honey-matcha.webp",
+    "box": [
+      29.174673220973784,
+      49.057151138716364,
+      33.22668539325843,
+      30.52214492753623
+    ],
+    "crop": [
+      30,
+      0,
+      208,
+      276
+    ]
+  }
+}

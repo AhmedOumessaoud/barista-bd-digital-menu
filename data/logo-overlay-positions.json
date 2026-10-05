@@ -1,0 +1,651 @@
+{
+  "tiramisu-cream-cold-brew": [
+    40.833,
+    33.571,
+    36.25,
+    32.5
+  ],
+  "black-forest-matcha": [
+    38.333,
+    37.857,
+    36.25,
+    29.286
+  ],
+  "vanilla-matcha-tiramisu-cream": [
+    41.25,
+    46.429,
+    30.0,
+    28.571
+  ],
+  "spanish-iced-latte-tiramisu-cream": [
+    34.583,
+    31.429,
+    32.083,
+    30.0
+  ],
+  "coconut-water-cinnamon-iced-matcha": [
+    40.833,
+    44.643,
+    30.0,
+    24.643
+  ],
+  "banana-vanilla-oreo-iced-latte-tiramisu-cream": [
+    18.75,
+    50.0,
+    32.5,
+    30.357
+  ],
+  "vanilla-oreo-pink-iced-latte-tiramisu-cream": [
+    41.667,
+    27.5,
+    38.333,
+    27.143
+  ],
+  "strawberry-pistachio-mocha": [
+    32.083,
+    37.5,
+    34.583,
+    31.071
+  ],
+  "white-chocolate-strawberry-mocha": [
+    32.5,
+    44.643,
+    30.0,
+    28.929
+  ],
+  "espresso-cold-tiramisu-cream": [
+    37.5,
+    27.857,
+    33.333,
+    26.786
+  ],
+  "oreo-coconut-espresso-tiramisu-cream": [
+    37.5,
+    33.571,
+    34.167,
+    27.143
+  ],
+  "iced-latte": [
+    32.5,
+    31.429,
+    35.417,
+    30.357
+  ],
+  "iced-mocha": [
+    33.75,
+    32.143,
+    33.333,
+    28.571
+  ],
+  "strawberry-tiramisu-cream-mocha": [
+    29.167,
+    51.786,
+    35.0,
+    35.714
+  ],
+  "coconut-water-honey-matcha": [
+    24.583,
+    38.571,
+    32.5,
+    27.857
+  ],
+  "oat-milk-english-tea-tiramisu-cream": [
+    42.917,
+    42.5,
+    33.333,
+    26.786
+  ],
+  "black-tea-iced-mocha": [
+    32.083,
+    38.214,
+    32.5,
+    26.786
+  ],
+  "black-tea-matcha-cream": [
+    30.833,
+    48.214,
+    38.333,
+    30.357
+  ],
+  "iced-strawberry-black-tea": [
+    50.417,
+    42.857,
+    30.0,
+    26.429
+  ],
+  "white-chocolate-caramel-black-tea": [
+    42.5,
+    23.214,
+    35.417,
+    31.429
+  ],
+  "thai-iced-tea-mocha": [
+    33.333,
+    38.929,
+    35.0,
+    31.429
+  ],
+  "banana-salted-caramel-black-tea": [
+    31.667,
+    39.286,
+    31.667,
+    30.0
+  ],
+  "orange-iced-black-tea": [
+    47.5,
+    33.571,
+    30.0,
+    29.286
+  ],
+  "vanilla-black-tea-dark-chocolate-sundae": [
+    24.167,
+    32.5,
+    33.333,
+    28.571
+  ],
+  "biscoff-iced-matcha-mocha": [
+    23.75,
+    40.0,
+    38.75,
+    36.071
+  ],
+  "banana-iced-mocha": [
+    28.333,
+    41.786,
+    33.333,
+    30.0
+  ],
+  "strawberry-mango-iced-matcha": [
+    32.083,
+    45.0,
+    30.417,
+    27.5
+  ],
+  "oat-milk-mango-iced-latte": [
+    33.333,
+    38.214,
+    30.0,
+    19.643
+  ],
+  "lemon-cream-cold-brew": [
+    55.0,
+    50.714,
+    25.417,
+    20.714
+  ],
+  "iced-latte-matcha-tiramisu-cream": [
+    35.0,
+    40.0,
+    32.083,
+    28.571
+  ],
+  "blue-iced-black-tea": [
+    33.333,
+    30.357,
+    28.333,
+    24.286
+  ],
+  "lemon-cream-strawberry-matcha": [
+    35.0,
+    40.0,
+    30.0,
+    26.429
+  ],
+  "strawberry-ube-oat-milk-latte": [
+    39.583,
+    29.286,
+    30.0,
+    25.714
+  ],
+  "orange-matcha-lemon-cream": [
+    45.0,
+    45.714,
+    25.833,
+    23.214
+  ],
+  "coconut-water-matcha-lemon-cream": [
+    59.167,
+    42.143,
+    30.417,
+    26.786
+  ],
+  "blue-vanilla-iced-latte": [
+    26.25,
+    35.357,
+    33.333,
+    29.286
+  ],
+  "ube-strawberry-iced-matcha": [
+    22.917,
+    30.0,
+    26.667,
+    21.429
+  ],
+  "vanilla-mint-mocha": [
+    33.333,
+    37.5,
+    28.333,
+    24.286
+  ],
+  "blue-mint-latte": [
+    29.167,
+    33.929,
+    33.333,
+    31.071
+  ],
+  "apple-cold-brew-lemon-cream": [
+    28.333,
+    52.5,
+    33.333,
+    16.786
+  ],
+  "oreo-matcha-tiramisu-cream": [
+    26.25,
+    55.357,
+    34.167,
+    18.214
+  ],
+  "oat-milk-ube-oreo-latte": [
+    22.083,
+    37.5,
+    34.583,
+    31.429
+  ],
+  "oat-milk-caramel-iced-latte": [
+    39.583,
+    50.0,
+    30.0,
+    21.429
+  ],
+  "caramel-americano-lemon-cream": [
+    28.333,
+    45.714,
+    30.833,
+    26.429
+  ],
+  "coconut-water-matcha-cream": [
+    35.0,
+    40.714,
+    35.0,
+    19.643
+  ],
+  "honey-cold-brew-honey-cream": [
+    32.5,
+    61.429,
+    30.833,
+    19.286
+  ],
+  "strawberry-dalgona-coffee": [
+    28.333,
+    60.714,
+    35.417,
+    21.429
+  ],
+  "caramel-cold-brew-choco-cream": [
+    32.917,
+    58.929,
+    27.083,
+    23.214
+  ],
+  "strawberry-iced-matcha-lemon-cream": [
+    35.833,
+    38.214,
+    33.333,
+    21.429
+  ],
+  "espresso-lemon-coconut-water-honey-cream": [
+    20.833,
+    35.357,
+    37.5,
+    22.857
+  ],
+  "dalgona-honey-matcha": [
+    29.167,
+    48.929,
+    32.5,
+    28.571
+  ],
+  "taro-iced-matcha": [
+    34.167,
+    35.714,
+    25.833,
+    22.143
+  ],
+  "blue-frappuccino": [
+    33.333,
+    38.929,
+    26.667,
+    22.857
+  ],
+  "thai-tea-white-mocha": [
+    33.75,
+    29.643,
+    37.5,
+    35.0
+  ],
+  "thai-tea-pink-mocha": [
+    26.667,
+    29.286,
+    39.167,
+    35.714
+  ],
+  "thai-tea-taro-mocha": [
+    26.667,
+    28.214,
+    39.167,
+    33.214
+  ],
+  "matcha-frappuccino": [
+    38.75,
+    45.714,
+    30.833,
+    18.929
+  ],
+  "mango-frappuccino": [
+    28.333,
+    46.071,
+    30.0,
+    19.286
+  ],
+  "strawberry-frappuccino": [
+    25.833,
+    43.929,
+    20.833,
+    20.357
+  ],
+  "biscoff-iced-matcha": [
+    37.5,
+    43.571,
+    26.25,
+    22.857
+  ],
+  "oreo-iced-matcha": [
+    31.25,
+    44.286,
+    26.25,
+    22.857
+  ],
+  "butterfly-pea-tea-iced-matcha": [
+    37.917,
+    28.571,
+    25.417,
+    18.214
+  ],
+  "thai-tea-iced-matcha": [
+    36.667,
+    28.571,
+    25.833,
+    18.571
+  ],
+  "iced-cappuccino": [
+    26.667,
+    34.286,
+    33.333,
+    29.286
+  ],
+  "brown-sugar-oreo-matcha-latte": [
+    40.417,
+    24.286,
+    27.083,
+    23.929
+  ],
+  "orange-espresso-iced-latte": [
+    40.0,
+    24.286,
+    27.083,
+    23.929
+  ],
+  "banana-vanilla-frappuccino": [
+    34.167,
+    28.571,
+    29.167,
+    17.857
+  ],
+  "thai-tea-frappuccino": [
+    39.583,
+    28.571,
+    27.083,
+    17.857
+  ],
+  "nutella-matcha-iced-latte": [
+    37.5,
+    27.5,
+    29.167,
+    25.357
+  ],
+  "pink-nutella-iced-latte": [
+    33.333,
+    27.5,
+    30.0,
+    25.714
+  ],
+  "oreo-iced-latte": [
+    33.333,
+    30.0,
+    33.333,
+    28.571
+  ],
+  "biscoff-vanilla-iced-latte": [
+    33.75,
+    30.0,
+    33.333,
+    28.571
+  ],
+  "matcha-vanilla-iced-latte": [
+    32.5,
+    10.714,
+    32.083,
+    28.571
+  ],
+  "iced-irish-latte": [
+    32.5,
+    10.714,
+    32.083,
+    28.571
+  ],
+  "iced-cinnamon-cappuccino": [
+    36.25,
+    28.929,
+    22.917,
+    17.857
+  ],
+  "oreo-pink-iced-latte": [
+    39.583,
+    29.643,
+    21.25,
+    17.857
+  ],
+  "coconut-water-americano": [
+    39.167,
+    28.571,
+    26.667,
+    22.857
+  ],
+  "coconut-water-iced-matcha": [
+    37.5,
+    28.571,
+    26.667,
+    22.857
+  ],
+  "coconut-water-espresso-tonic": [
+    33.333,
+    28.571,
+    30.0,
+    22.857
+  ],
+  "coconut-water-vanilla-latte": [
+    34.167,
+    28.571,
+    26.667,
+    22.857
+  ],
+  "tiramisu-frappuccino": [
+    43.75,
+    42.857,
+    27.5,
+    24.286
+  ],
+  "nutella-frappuccino": [
+    34.583,
+    44.643,
+    30.0,
+    23.571
+  ],
+  "lotus-biscoff-frappuccino": [
+    30.0,
+    44.643,
+    30.0,
+    23.571
+  ],
+  "iced-americano": [
+    37.5,
+    16.786,
+    30.0,
+    25.714
+  ],
+  "butterscotch-pink-iced-latte": [
+    30.833,
+    13.929,
+    28.333,
+    28.571
+  ],
+  "blue-coconut-water-iced-matcha": [
+    29.167,
+    0.0,
+    41.25,
+    29.286
+  ],
+  "espresso-coconut-water": [
+    22.5,
+    0.0,
+    37.5,
+    32.143
+  ],
+  "iced-coffee": [
+    25.0,
+    42.857,
+    33.333,
+    32.857
+  ],
+  "caramel-latte": [
+    26.667,
+    40.357,
+    33.333,
+    28.571
+  ],
+  "vanilla-latte": [
+    25.0,
+    40.357,
+    33.333,
+    28.571
+  ],
+  "hazelnut-coffee": [
+    33.333,
+    36.786,
+    35.0,
+    30.0
+  ],
+  "irish-coffee": [
+    26.667,
+    15.357,
+    35.417,
+    28.571
+  ],
+  "dalgona-coffee": [
+    17.917,
+    33.571,
+    33.333,
+    28.571
+  ],
+  "vanilla-pink-iced-latte": [
+    19.167,
+    33.571,
+    37.5,
+    28.929
+  ],
+  "lemon-mint-smoothie": [
+    39.583,
+    50.357,
+    27.083,
+    25.714
+  ],
+  "taro-salted-caramel-iced-latte": [
+    32.5,
+    35.714,
+    35.833,
+    28.571
+  ],
+  "iced-matcha-coffee": [
+    50.0,
+    26.786,
+    31.667,
+    24.286
+  ],
+  "matcha-coffee-frappuccino": [
+    36.667,
+    30.357,
+    26.667,
+    26.786
+  ],
+  "sugar-iced-cappuccino": [
+    33.333,
+    28.929,
+    35.0,
+    27.857
+  ],
+  "honey-soda": [
+    31.667,
+    46.429,
+    41.667,
+    28.571
+  ],
+  "honey-lime-soda": [
+    29.167,
+    47.5,
+    41.667,
+    27.857
+  ],
+  "orange-espresso-soda": [
+    22.5,
+    47.5,
+    37.5,
+    27.857
+  ],
+  "orange-americano": [
+    13.75,
+    46.429,
+    37.5,
+    27.143
+  ],
+  "iced-caramel-chocolate-coffee": null,
+  "nutella-iced-latte": [
+    25.0,
+    28.929,
+    20.833,
+    15.0
+  ],
+  "black-forest-frappe": [
+    40.833,
+    45.714,
+    30.0,
+    25.714
+  ],
+  "tiramisu-frappe": [
+    33.333,
+    44.643,
+    30.0,
+    25.714
+  ],
+  "ovaltine-frappe": [
+    30.833,
+    45.0,
+    30.0,
+    25.714
+  ],
+  "oreo-mocha": [
+    35.417,
+    33.571,
+    28.333,
+    23.214
+  ]
+}

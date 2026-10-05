@@ -1,0 +1,16 @@
+{
+  "name": "mall-al-dikka-menu",
+  "version": "1.0.0",
+  "description": "Static Arabic QR café menu",
+  "scripts": {
+    "test": "node scripts/qa.cjs",
+    "start": "python -m http.server 8080"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.63.0"
+  }
+}

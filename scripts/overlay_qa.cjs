@@ -1,0 +1,21 @@
+const {chromium}=require('@playwright/test');
+(async()=>{
+ const browser=await chromium.launch();const page=await browser.newPage({viewport:{width:390,height:844}});
+ await page.goto('http://127.0.0.1:8080');
+ const branded=await page.evaluate(()=>MENU_DATA.find(d=>d.brandOverlay));
+ await page.locator('#search').fill(branded.name);
+ const card=page.locator('.card').filter({has:page.getByRole('heading',{name:branded.name,exact:true})}).first();
+ if(await card.locator('.brand-badge').count()!==1)throw Error('Missing card logo');
+ await card.scrollIntoViewIfNeeded();
+ await page.screenshot({path:'assets/generated/audit/logo-overlay-mobile.png'});
+ await card.click();
+ if(await page.locator('.detail-visual .brand-badge').count()!==1)throw Error('Missing detail logo');
+ await page.screenshot({path:'assets/generated/audit/logo-overlay-detail.png'});
+ await page.locator('#close').click();await page.locator('#clear').click();
+ await page.getByRole('button',{name:'شوف تفاصيل Oreo Pink Iced Matcha',exact:true}).click();
+ if(await page.locator('.detail-visual .brand-badge').count())throw Error('Stale detail logo on retained first 30');
+ await page.locator('#close').click();await page.locator('#search').fill('');
+ const counts=await page.evaluate(()=>({expected:MENU_DATA.filter(d=>d.brandOverlay).length,actual:document.querySelectorAll('.card .brand-badge').length}));
+ if(counts.expected!==108||counts.actual!==108)throw Error('Overlay scope');
+ console.log(JSON.stringify({overlays:counts.actual,cardAndDetail:'passed',retainedPhotos:'no extra overlay'}));await browser.close();
+})().catch(e=>{console.error(e);process.exit(1)});

@@ -1,0 +1,3444 @@
+[
+  {
+    "id": "tiramisu-cream-cold-brew",
+    "name": "Tiramisu Cream Cold Brew",
+    "category": "cold",
+    "ingredients": [
+      "كريمة تيراميسو"
+    ],
+    "image": "assets/generated/thumbnails/tiramisu-cream-cold-brew.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 14.37.31.jpeg",
+    "sourceIndex": 19,
+    "imageCrop": {
+      "bounds": [
+        0.2,
+        0.24,
+        0.73,
+        0.79
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": true,
+      "tea": null,
+      "matcha": null,
+      "milk": null
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/generated/studio/tiramisu-cream-cold-brew.png",
+    "cleanPhotoReference": true
+  },
+  {
+    "id": "black-forest-matcha",
+    "name": "Black Forest Matcha",
+    "category": "matcha",
+    "ingredients": [
+      "ماتشا"
+    ],
+    "image": "assets/generated/thumbnails/black-forest-matcha.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 14.37.33 (1).jpeg",
+    "sourceIndex": 20,
+    "imageCrop": {
+      "bounds": [
+        0.4,
+        0.21,
+        0.96,
+        0.79
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": null,
+      "tea": null,
+      "matcha": true,
+      "milk": null
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/generated/studio/black-forest-matcha.png",
+    "cleanPhotoReference": true
+  },
+  {
+    "id": "vanilla-matcha-tiramisu-cream",
+    "name": "Vanilla Matcha Tiramisu Cream",
+    "category": "matcha",
+    "ingredients": [
+      "ماتشا",
+      "كريمة تيراميسو",
+      "فانيلا"
+    ],
+    "image": "assets/generated/thumbnails/vanilla-matcha-tiramisu-cream.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 14.37.33 (2).jpeg",
+    "sourceIndex": 21,
+    "imageCrop": {
+      "bounds": [
+        0.2,
+        0.2,
+        0.72,
+        0.79
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": null,
+      "tea": null,
+      "matcha": true,
+      "milk": null
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/generated/studio/vanilla-matcha-tiramisu-cream.png",
+    "cleanPhotoReference": true
+  },
+  {
+    "id": "spanish-iced-latte-tiramisu-cream",
+    "name": "Spanish Iced Latte Tiramisu Cream",
+    "category": "latte",
+    "ingredients": [
+      "كريمة تيراميسو"
+    ],
+    "image": "assets/generated/thumbnails/spanish-iced-latte-tiramisu-cream.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 14.37.33.jpeg",
+    "sourceIndex": 22,
+    "imageCrop": {
+      "bounds": [
+        0.39,
+        0.29,
+        0.9,
+        0.85
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": true,
+      "tea": null,
+      "matcha": null,
+      "milk": true
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/generated/studio/spanish-iced-latte-tiramisu-cream.png",
+    "cleanPhotoReference": true
+  },
+  {
+    "id": "coconut-water-cinnamon-iced-matcha",
+    "name": "Coconut Water Cinnamon Iced Matcha",
+    "category": "matcha",
+    "ingredients": [
+      "قرفة",
+      "ماتشا",
+      "ماء جوز الهند"
+    ],
+    "image": "assets/generated/thumbnails/coconut-water-cinnamon-iced-matcha.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 14.37.34 (1).jpeg",
+    "sourceIndex": 23,
+    "imageCrop": {
+      "bounds": [
+        0.28,
+        0.28,
+        0.68,
+        0.75
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": null,
+      "tea": null,
+      "matcha": true,
+      "milk": null
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/generated/studio/coconut-water-cinnamon-iced-matcha.png",
+    "cleanPhotoReference": true
+  },
+  {
+    "id": "banana-vanilla-oreo-iced-latte-tiramisu-cream",
+    "name": "Banana Vanilla Oreo Iced Latte Tiramisu Cream",
+    "category": "latte",
+    "ingredients": [
+      "أوريو",
+      "موز",
+      "كريمة تيراميسو",
+      "فانيلا"
+    ],
+    "image": "assets/generated/thumbnails/banana-vanilla-oreo-iced-latte-tiramisu-cream.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 14.37.34.jpeg",
+    "sourceIndex": 24,
+    "imageCrop": {
+      "bounds": [
+        0.3,
+        0.25,
+        0.85,
+        0.79
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": true,
+      "tea": null,
+      "matcha": null,
+      "milk": true
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/generated/studio/banana-vanilla-oreo-iced-latte-tiramisu-cream.png",
+    "cleanPhotoReference": true
+  },
+  {
+    "id": "vanilla-oreo-pink-iced-latte-tiramisu-cream",
+    "name": "Vanilla Oreo Pink Iced Latte Tiramisu Cream",
+    "category": "latte",
+    "ingredients": [
+      "أوريو",
+      "كريمة تيراميسو",
+      "فانيلا"
+    ],
+    "image": "assets/generated/thumbnails/vanilla-oreo-pink-iced-latte-tiramisu-cream.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 14.37.35.jpeg",
+    "sourceIndex": 25,
+    "imageCrop": {
+      "bounds": [
+        0.38,
+        0.24,
+        0.77,
+        0.75
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": true,
+      "tea": null,
+      "matcha": null,
+      "milk": true
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/generated/studio/vanilla-oreo-pink-iced-latte-tiramisu-cream.png",
+    "cleanPhotoReference": true
+  },
+  {
+    "id": "strawberry-pistachio-mocha",
+    "name": "Strawberry Pistachio Mocha",
+    "category": "mocha",
+    "ingredients": [
+      "فراولة",
+      "فستق"
+    ],
+    "image": "assets/generated/thumbnails/strawberry-pistachio-mocha.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 14.37.38 (1).jpeg",
+    "sourceIndex": 26,
+    "imageCrop": {
+      "bounds": [
+        0.22,
+        0.24,
+        0.79,
+        0.78
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": true,
+      "tea": null,
+      "matcha": null,
+      "milk": null
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/generated/studio/strawberry-pistachio-mocha.png",
+    "cleanPhotoReference": true
+  },
+  {
+    "id": "white-chocolate-strawberry-mocha",
+    "name": "White Chocolate Strawberry Mocha",
+    "category": "mocha",
+    "ingredients": [
+      "فراولة",
+      "شوكولاتة"
+    ],
+    "image": "assets/generated/thumbnails/white-chocolate-strawberry-mocha.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 14.37.38.jpeg",
+    "sourceIndex": 27,
+    "imageCrop": {
+      "bounds": [
+        0.2,
+        0.21,
+        0.79,
+        0.79
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": true,
+      "tea": null,
+      "matcha": null,
+      "milk": null
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/generated/studio/white-chocolate-strawberry-mocha.png",
+    "cleanPhotoReference": true
+  },
+  {
+    "id": "espresso-cold-tiramisu-cream",
+    "name": "Espresso Cold Tiramisu Cream",
+    "category": "coffee",
+    "ingredients": [
+      "كريمة تيراميسو"
+    ],
+    "image": "assets/generated/thumbnails/espresso-cold-tiramisu-cream.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 14.37.39 (1).jpeg",
+    "sourceIndex": 28,
+    "imageCrop": {
+      "bounds": [
+        0.42,
+        0.2,
+        0.84,
+        0.8
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": true,
+      "tea": null,
+      "matcha": null,
+      "milk": null
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/generated/studio/espresso-cold-tiramisu-cream.png",
+    "cleanPhotoReference": true
+  },
+  {
+    "id": "oreo-coconut-espresso-tiramisu-cream",
+    "name": "Oreo Coconut Espresso Tiramisu Cream",
+    "category": "coffee",
+    "ingredients": [
+      "أوريو",
+      "كريمة تيراميسو"
+    ],
+    "image": "assets/generated/thumbnails/oreo-coconut-espresso-tiramisu-cream.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 14.37.39 (2).jpeg",
+    "sourceIndex": 29,
+    "imageCrop": {
+      "bounds": [
+        0.42,
+        0.2,
+        0.84,
+        0.8
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": true,
+      "tea": null,
+      "matcha": null,
+      "milk": null
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/generated/studio/oreo-coconut-espresso-tiramisu-cream.png",
+    "cleanPhotoReference": true
+  },
+  {
+    "id": "iced-latte",
+    "name": "Iced Latte",
+    "category": "latte",
+    "ingredients": [],
+    "image": "assets/generated/thumbnails/iced-latte.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 14.37.39.jpeg",
+    "sourceIndex": 30,
+    "imageCrop": {
+      "bounds": [
+        0.21,
+        0.26,
+        0.48,
+        0.59
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [
+      "WhatsApp Image 2026-10-05 at 14.38.43 (1).jpeg",
+      "WhatsApp Image 2026-10-05 at 15.14.55 (2).jpeg",
+      "WhatsApp Image 2026-10-05 at 15.14.57 (1).jpeg",
+      "WhatsApp Image 2026-10-05 at 15.15.04 (1).jpeg",
+      "WhatsApp Image 2026-10-05 at 15.15.16 (1).jpeg",
+      "WhatsApp Image 2026-10-05 at 15.15.21.jpeg"
+    ],
+    "contains": {
+      "coffee": true,
+      "tea": null,
+      "matcha": null,
+      "milk": true
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/generated/studio/iced-latte.png",
+    "cleanPhotoReference": true
+  },
+  {
+    "id": "iced-mocha",
+    "name": "Iced Mocha",
+    "category": "mocha",
+    "ingredients": [],
+    "image": "assets/generated/thumbnails/iced-mocha.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 14.37.39.jpeg",
+    "sourceIndex": 30,
+    "imageCrop": {
+      "bounds": [
+        0.5,
+        0.26,
+        0.77,
+        0.59
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": true,
+      "tea": null,
+      "matcha": null,
+      "milk": null
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 14.37.39.jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "strawberry-tiramisu-cream-mocha",
+    "name": "Strawberry Tiramisu Cream Mocha",
+    "category": "mocha",
+    "ingredients": [
+      "فراولة",
+      "كريمة تيراميسو"
+    ],
+    "image": "assets/generated/thumbnails/strawberry-tiramisu-cream-mocha.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 14.37.40 (1).jpeg",
+    "sourceIndex": 31,
+    "imageCrop": {
+      "bounds": [
+        0.21,
+        0.19,
+        0.82,
+        0.81
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": true,
+      "tea": null,
+      "matcha": null,
+      "milk": null
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 14.37.40 (1).jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "coconut-water-honey-matcha",
+    "name": "Coconut Water Honey Matcha",
+    "category": "matcha",
+    "ingredients": [
+      "عسل",
+      "ماتشا",
+      "ماء جوز الهند"
+    ],
+    "image": "assets/generated/thumbnails/coconut-water-honey-matcha.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 14.37.40.jpeg",
+    "sourceIndex": 33,
+    "imageCrop": {
+      "bounds": [
+        0.45,
+        0.22,
+        0.97,
+        0.76
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": null,
+      "tea": null,
+      "matcha": true,
+      "milk": null
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 14.37.40.jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "oat-milk-english-tea-tiramisu-cream",
+    "name": "Oat Milk English Tea Tiramisu Cream",
+    "category": "tea",
+    "ingredients": [
+      "كريمة تيراميسو",
+      "حليب الشوفان",
+      "شاي إنجليزي"
+    ],
+    "image": "assets/generated/thumbnails/oat-milk-english-tea-tiramisu-cream.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 14.37.41.jpeg",
+    "sourceIndex": 34,
+    "imageCrop": {
+      "bounds": [
+        0.21,
+        0.26,
+        0.77,
+        0.78
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": null,
+      "tea": true,
+      "matcha": null,
+      "milk": true
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 14.37.41.jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "black-tea-iced-mocha",
+    "name": "Black Tea Iced Mocha",
+    "category": "mocha",
+    "ingredients": [
+      "شاي أسود"
+    ],
+    "image": "assets/generated/thumbnails/black-tea-iced-mocha.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 14.37.42.jpeg",
+    "sourceIndex": 35,
+    "imageCrop": {
+      "bounds": [
+        0.23,
+        0.25,
+        0.77,
+        0.79
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": true,
+      "tea": true,
+      "matcha": null,
+      "milk": null
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 14.37.42.jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "black-tea-matcha-cream",
+    "name": "Black Tea Matcha Cream",
+    "category": "matcha",
+    "ingredients": [
+      "ماتشا",
+      "شاي أسود"
+    ],
+    "image": "assets/generated/thumbnails/black-tea-matcha-cream.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 14.38.36 (2).jpeg",
+    "sourceIndex": 37,
+    "imageCrop": {
+      "bounds": [
+        0.29,
+        0.25,
+        0.79,
+        0.79
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": null,
+      "tea": true,
+      "matcha": true,
+      "milk": null
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 14.38.36 (2).jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "iced-strawberry-black-tea",
+    "name": "Iced Strawberry Black Tea",
+    "category": "tea",
+    "ingredients": [
+      "فراولة",
+      "شاي أسود"
+    ],
+    "image": "assets/generated/thumbnails/iced-strawberry-black-tea.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 14.38.36 (3).jpeg",
+    "sourceIndex": 38,
+    "imageCrop": {
+      "bounds": [
+        0.12,
+        0.24,
+        0.66,
+        0.82
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": null,
+      "tea": true,
+      "matcha": null,
+      "milk": null
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 14.38.36 (3).jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "white-chocolate-caramel-black-tea",
+    "name": "White Chocolate Caramel Black Tea",
+    "category": "tea",
+    "ingredients": [
+      "كراميل",
+      "شوكولاتة",
+      "شاي أسود"
+    ],
+    "image": "assets/generated/thumbnails/white-chocolate-caramel-black-tea.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 14.38.36 (4).jpeg",
+    "sourceIndex": 39,
+    "imageCrop": {
+      "bounds": [
+        0.42,
+        0.22,
+        0.95,
+        0.78
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": null,
+      "tea": true,
+      "matcha": null,
+      "milk": null
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 14.38.36 (4).jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "thai-iced-tea-mocha",
+    "name": "Thai Iced Tea Mocha",
+    "category": "mocha",
+    "ingredients": [],
+    "image": "assets/generated/thumbnails/thai-iced-tea-mocha.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 14.38.36 (5).jpeg",
+    "sourceIndex": 40,
+    "imageCrop": {
+      "bounds": [
+        0.24,
+        0.29,
+        0.78,
+        0.81
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": true,
+      "tea": true,
+      "matcha": null,
+      "milk": null
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 14.38.36 (5).jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "banana-salted-caramel-black-tea",
+    "name": "Banana Salted Caramel Black Tea",
+    "category": "tea",
+    "ingredients": [
+      "كراميل",
+      "موز",
+      "شاي أسود"
+    ],
+    "image": "assets/generated/thumbnails/banana-salted-caramel-black-tea.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 14.38.37 (2).jpeg",
+    "sourceIndex": 43,
+    "imageCrop": {
+      "bounds": [
+        0.24,
+        0.29,
+        0.77,
+        0.82
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": null,
+      "tea": true,
+      "matcha": null,
+      "milk": null
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 14.38.37 (2).jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "orange-iced-black-tea",
+    "name": "Orange Iced Black Tea",
+    "category": "tea",
+    "ingredients": [
+      "شاي أسود",
+      "برتقال"
+    ],
+    "image": "assets/generated/thumbnails/orange-iced-black-tea.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 14.38.37 (3).jpeg",
+    "sourceIndex": 44,
+    "imageCrop": {
+      "bounds": [
+        0.14,
+        0.22,
+        0.68,
+        0.8
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": null,
+      "tea": true,
+      "matcha": null,
+      "milk": null
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 14.38.37 (3).jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "vanilla-black-tea-dark-chocolate-sundae",
+    "name": "Vanilla Black Tea Dark Chocolate Sundae",
+    "category": "tea",
+    "ingredients": [
+      "شوكولاتة",
+      "فانيلا",
+      "شاي أسود"
+    ],
+    "image": "assets/generated/thumbnails/vanilla-black-tea-dark-chocolate-sundae.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 14.38.37 (4).jpeg",
+    "sourceIndex": 45,
+    "imageCrop": {
+      "bounds": [
+        0.13,
+        0.28,
+        0.66,
+        0.8
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": null,
+      "tea": true,
+      "matcha": null,
+      "milk": null
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 14.38.37 (4).jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "biscoff-iced-matcha-mocha",
+    "name": "Biscoff Iced Matcha Mocha",
+    "category": "matcha",
+    "ingredients": [
+      "بسكويت لوتس",
+      "ماتشا"
+    ],
+    "image": "assets/generated/thumbnails/biscoff-iced-matcha-mocha.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 14.38.37 (5).jpeg",
+    "sourceIndex": 46,
+    "imageCrop": {
+      "bounds": [
+        0.26,
+        0.24,
+        0.77,
+        0.76
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": true,
+      "tea": null,
+      "matcha": true,
+      "milk": null
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 14.38.37 (5).jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "banana-iced-mocha",
+    "name": "Banana Iced Mocha",
+    "category": "mocha",
+    "ingredients": [
+      "موز"
+    ],
+    "image": "assets/generated/thumbnails/banana-iced-mocha.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 14.38.37.jpeg",
+    "sourceIndex": 47,
+    "imageCrop": {
+      "bounds": [
+        0.26,
+        0.27,
+        0.78,
+        0.81
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": true,
+      "tea": null,
+      "matcha": null,
+      "milk": null
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 14.38.37.jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "strawberry-mango-iced-matcha",
+    "name": "Strawberry Mango Iced Matcha",
+    "category": "matcha",
+    "ingredients": [
+      "فراولة",
+      "مانجو",
+      "ماتشا"
+    ],
+    "image": "assets/generated/thumbnails/strawberry-mango-iced-matcha.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 14.38.38 (1).jpeg",
+    "sourceIndex": 48,
+    "imageCrop": {
+      "bounds": [
+        0.26,
+        0.25,
+        0.79,
+        0.81
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": null,
+      "tea": null,
+      "matcha": true,
+      "milk": null
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 14.38.38 (1).jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "oat-milk-mango-iced-latte",
+    "name": "Oat Milk Mango Iced Latte",
+    "category": "latte",
+    "ingredients": [
+      "مانجو",
+      "حليب الشوفان"
+    ],
+    "image": "assets/generated/thumbnails/oat-milk-mango-iced-latte.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 14.38.38 (3).jpeg",
+    "sourceIndex": 50,
+    "imageCrop": {
+      "bounds": [
+        0.06,
+        0.25,
+        0.59,
+        0.82
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": true,
+      "tea": null,
+      "matcha": null,
+      "milk": true
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 14.38.38 (3).jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "lemon-cream-cold-brew",
+    "name": "Lemon Cream Cold Brew",
+    "category": "cold",
+    "ingredients": [
+      "ليمون"
+    ],
+    "image": "assets/generated/thumbnails/lemon-cream-cold-brew.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 14.38.38 (4).jpeg",
+    "sourceIndex": 51,
+    "imageCrop": {
+      "bounds": [
+        0.24,
+        0.25,
+        0.79,
+        0.82
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": true,
+      "tea": null,
+      "matcha": null,
+      "milk": null
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 14.38.38 (4).jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "iced-latte-matcha-tiramisu-cream",
+    "name": "Iced Latte Matcha Tiramisu Cream",
+    "category": "matcha",
+    "ingredients": [
+      "ماتشا",
+      "كريمة تيراميسو"
+    ],
+    "image": "assets/generated/thumbnails/iced-latte-matcha-tiramisu-cream.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 14.38.38 (5).jpeg",
+    "sourceIndex": 52,
+    "imageCrop": {
+      "bounds": [
+        0.4,
+        0.045,
+        0.91,
+        0.64
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": null,
+      "tea": null,
+      "matcha": true,
+      "milk": true
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 14.38.38 (5).jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "blue-iced-black-tea",
+    "name": "Blue Iced Black Tea",
+    "category": "tea",
+    "ingredients": [
+      "شاي أسود"
+    ],
+    "image": "assets/generated/thumbnails/blue-iced-black-tea.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 14.38.38.jpeg",
+    "sourceIndex": 53,
+    "imageCrop": {
+      "bounds": [
+        0.24,
+        0.27,
+        0.79,
+        0.8
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": null,
+      "tea": true,
+      "matcha": null,
+      "milk": null
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 14.38.38.jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "lemon-cream-strawberry-matcha",
+    "name": "Lemon Cream Strawberry Matcha",
+    "category": "matcha",
+    "ingredients": [
+      "فراولة",
+      "ليمون",
+      "ماتشا"
+    ],
+    "image": "assets/generated/thumbnails/lemon-cream-strawberry-matcha.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 14.38.39 (1).jpeg",
+    "sourceIndex": 54,
+    "imageCrop": {
+      "bounds": [
+        0.39,
+        0.17,
+        0.97,
+        0.78
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": null,
+      "tea": null,
+      "matcha": true,
+      "milk": null
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 14.38.39 (1).jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "strawberry-ube-oat-milk-latte",
+    "name": "Strawberry Ube Oat Milk Latte",
+    "category": "latte",
+    "ingredients": [
+      "فراولة",
+      "حليب الشوفان",
+      "أوبي"
+    ],
+    "image": "assets/generated/thumbnails/strawberry-ube-oat-milk-latte.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 14.38.39 (2).jpeg",
+    "sourceIndex": 55,
+    "imageCrop": {
+      "bounds": [
+        0.36,
+        0.24,
+        0.88,
+        0.77
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": true,
+      "tea": null,
+      "matcha": null,
+      "milk": true
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 14.38.39 (2).jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "orange-matcha-lemon-cream",
+    "name": "Orange Matcha Lemon Cream",
+    "category": "matcha",
+    "ingredients": [
+      "ليمون",
+      "ماتشا",
+      "برتقال"
+    ],
+    "image": "assets/generated/thumbnails/orange-matcha-lemon-cream.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 14.38.39 (3).jpeg",
+    "sourceIndex": 56,
+    "imageCrop": {
+      "bounds": [
+        0.27,
+        0.25,
+        0.84,
+        0.8
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": null,
+      "tea": null,
+      "matcha": true,
+      "milk": null
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 14.38.39 (3).jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "coconut-water-matcha-lemon-cream",
+    "name": "Coconut Water Matcha Lemon Cream",
+    "category": "matcha",
+    "ingredients": [
+      "ليمون",
+      "ماتشا",
+      "ماء جوز الهند"
+    ],
+    "image": "assets/generated/thumbnails/coconut-water-matcha-lemon-cream.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 14.38.39 (4).jpeg",
+    "sourceIndex": 57,
+    "imageCrop": {
+      "bounds": [
+        0.24,
+        0.22,
+        0.8,
+        0.81
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": null,
+      "tea": null,
+      "matcha": true,
+      "milk": null
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 14.38.39 (4).jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "blue-vanilla-iced-latte",
+    "name": "Blue Vanilla Iced Latte",
+    "category": "latte",
+    "ingredients": [
+      "فانيلا"
+    ],
+    "image": "assets/generated/thumbnails/blue-vanilla-iced-latte.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 14.38.39 (5).jpeg",
+    "sourceIndex": 58,
+    "imageCrop": {
+      "bounds": [
+        0.27,
+        0.23,
+        0.8,
+        0.81
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": true,
+      "tea": null,
+      "matcha": null,
+      "milk": true
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 14.38.39 (5).jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "ube-strawberry-iced-matcha",
+    "name": "Ube Strawberry Iced Matcha",
+    "category": "matcha",
+    "ingredients": [
+      "فراولة",
+      "ماتشا",
+      "أوبي"
+    ],
+    "image": "assets/generated/thumbnails/ube-strawberry-iced-matcha.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 14.38.39.jpeg",
+    "sourceIndex": 59,
+    "imageCrop": {
+      "bounds": [
+        0.34,
+        0.24,
+        0.92,
+        0.8
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": null,
+      "tea": null,
+      "matcha": true,
+      "milk": null
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 14.38.39.jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "vanilla-mint-mocha",
+    "name": "Vanilla Mint Mocha",
+    "category": "mocha",
+    "ingredients": [
+      "فانيلا",
+      "نعناع"
+    ],
+    "image": "assets/generated/thumbnails/vanilla-mint-mocha.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 14.38.40 (1).jpeg",
+    "sourceIndex": 60,
+    "imageCrop": {
+      "bounds": [
+        0.23,
+        0.25,
+        0.8,
+        0.81
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": true,
+      "tea": null,
+      "matcha": null,
+      "milk": null
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 14.38.40 (1).jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "blue-mint-latte",
+    "name": "Blue Mint Latte",
+    "category": "latte",
+    "ingredients": [
+      "نعناع"
+    ],
+    "image": "assets/generated/thumbnails/blue-mint-latte.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 14.38.40 (2).jpeg",
+    "sourceIndex": 61,
+    "imageCrop": {
+      "bounds": [
+        0.3,
+        0.25,
+        0.73,
+        0.77
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": true,
+      "tea": null,
+      "matcha": null,
+      "milk": true
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 14.38.40 (2).jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "apple-cold-brew-lemon-cream",
+    "name": "Apple Cold Brew Lemon Cream",
+    "category": "cold",
+    "ingredients": [
+      "ليمون",
+      "تفاح"
+    ],
+    "image": "assets/generated/thumbnails/apple-cold-brew-lemon-cream.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 14.38.40 (3).jpeg",
+    "sourceIndex": 62,
+    "imageCrop": {
+      "bounds": [
+        0.25,
+        0.22,
+        0.82,
+        0.83
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": true,
+      "tea": null,
+      "matcha": null,
+      "milk": null
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 14.38.40 (3).jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "oreo-matcha-tiramisu-cream",
+    "name": "Oreo Matcha Tiramisu Cream",
+    "category": "matcha",
+    "ingredients": [
+      "أوريو",
+      "ماتشا",
+      "كريمة تيراميسو"
+    ],
+    "image": "assets/generated/thumbnails/oreo-matcha-tiramisu-cream.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 14.38.40 (4).jpeg",
+    "sourceIndex": 63,
+    "imageCrop": {
+      "bounds": [
+        0.26,
+        0.2,
+        0.8,
+        0.82
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": null,
+      "tea": null,
+      "matcha": true,
+      "milk": null
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 14.38.40 (4).jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "oat-milk-ube-oreo-latte",
+    "name": "Oat Milk Ube Oreo Latte",
+    "category": "latte",
+    "ingredients": [
+      "أوريو",
+      "حليب الشوفان",
+      "أوبي"
+    ],
+    "image": "assets/generated/thumbnails/oat-milk-ube-oreo-latte.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 14.38.40 (5).jpeg",
+    "sourceIndex": 64,
+    "imageCrop": {
+      "bounds": [
+        0.28,
+        0.24,
+        0.84,
+        0.77
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": true,
+      "tea": null,
+      "matcha": null,
+      "milk": true
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 14.38.40 (5).jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "oat-milk-caramel-iced-latte",
+    "name": "Oat Milk Caramel Iced Latte",
+    "category": "latte",
+    "ingredients": [
+      "كراميل",
+      "حليب الشوفان"
+    ],
+    "image": "assets/generated/thumbnails/oat-milk-caramel-iced-latte.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 14.38.40.jpeg",
+    "sourceIndex": 65,
+    "imageCrop": {
+      "bounds": [
+        0.42,
+        0.21,
+        0.99,
+        0.85
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": true,
+      "tea": null,
+      "matcha": null,
+      "milk": true
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 14.38.40.jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "caramel-americano-lemon-cream",
+    "name": "Caramel Americano Lemon Cream",
+    "category": "coffee",
+    "ingredients": [
+      "كراميل",
+      "ليمون"
+    ],
+    "image": "assets/generated/thumbnails/caramel-americano-lemon-cream.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 14.38.41 (1).jpeg",
+    "sourceIndex": 66,
+    "imageCrop": {
+      "bounds": [
+        0.23,
+        0.23,
+        0.85,
+        0.75
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": true,
+      "tea": null,
+      "matcha": null,
+      "milk": null
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 14.38.41 (1).jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "coconut-water-matcha-cream",
+    "name": "Coconut Water Matcha Cream",
+    "category": "matcha",
+    "ingredients": [
+      "ماتشا",
+      "ماء جوز الهند"
+    ],
+    "image": "assets/generated/thumbnails/coconut-water-matcha-cream.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 14.38.41 (2).jpeg",
+    "sourceIndex": 67,
+    "imageCrop": {
+      "bounds": [
+        0.24,
+        0.25,
+        0.72,
+        0.85
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": null,
+      "tea": null,
+      "matcha": true,
+      "milk": null
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 14.38.41 (2).jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "honey-cold-brew-honey-cream",
+    "name": "Honey Cold Brew Honey Cream",
+    "category": "cold",
+    "ingredients": [
+      "عسل"
+    ],
+    "image": "assets/generated/thumbnails/honey-cold-brew-honey-cream.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 14.38.41 (3).jpeg",
+    "sourceIndex": 68,
+    "imageCrop": {
+      "bounds": [
+        0.23,
+        0.18,
+        0.8,
+        0.8
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": true,
+      "tea": null,
+      "matcha": null,
+      "milk": null
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 14.38.41 (3).jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "strawberry-dalgona-coffee",
+    "name": "Strawberry Dalgona Coffee",
+    "category": "coffee",
+    "ingredients": [
+      "فراولة"
+    ],
+    "image": "assets/generated/thumbnails/strawberry-dalgona-coffee.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 14.38.41 (4).jpeg",
+    "sourceIndex": 69,
+    "imageCrop": {
+      "bounds": [
+        0.24,
+        0.2,
+        0.85,
+        0.81
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": true,
+      "tea": null,
+      "matcha": null,
+      "milk": null
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 14.38.41 (4).jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "caramel-cold-brew-choco-cream",
+    "name": "Caramel Cold Brew Choco Cream",
+    "category": "cold",
+    "ingredients": [
+      "كراميل"
+    ],
+    "image": "assets/generated/thumbnails/caramel-cold-brew-choco-cream.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 14.38.41 (5).jpeg",
+    "sourceIndex": 70,
+    "imageCrop": {
+      "bounds": [
+        0.24,
+        0.16,
+        0.82,
+        0.81
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": true,
+      "tea": null,
+      "matcha": null,
+      "milk": null
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 14.38.41 (5).jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "strawberry-iced-matcha-lemon-cream",
+    "name": "Strawberry Iced Matcha Lemon Cream",
+    "category": "matcha",
+    "ingredients": [
+      "فراولة",
+      "ليمون",
+      "ماتشا"
+    ],
+    "image": "assets/generated/thumbnails/strawberry-iced-matcha-lemon-cream.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 14.38.41.jpeg",
+    "sourceIndex": 71,
+    "imageCrop": {
+      "bounds": [
+        0.24,
+        0.32,
+        0.73,
+        0.88
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": null,
+      "tea": null,
+      "matcha": true,
+      "milk": null
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 14.38.41.jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "espresso-lemon-coconut-water-honey-cream",
+    "name": "Espresso Lemon Coconut Water Honey Cream",
+    "category": "coffee",
+    "ingredients": [
+      "عسل",
+      "ليمون",
+      "ماء جوز الهند"
+    ],
+    "image": "assets/generated/thumbnails/espresso-lemon-coconut-water-honey-cream.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 14.38.42 (1).jpeg",
+    "sourceIndex": 72,
+    "imageCrop": {
+      "bounds": [
+        0.35,
+        0.29,
+        0.74,
+        0.83
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": true,
+      "tea": null,
+      "matcha": null,
+      "milk": null
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 14.38.42 (1).jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "dalgona-honey-matcha",
+    "name": "Dalgona Honey Matcha",
+    "category": "matcha",
+    "ingredients": [
+      "عسل",
+      "ماتشا"
+    ],
+    "image": "assets/generated/thumbnails/dalgona-honey-matcha.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 14.38.42 (2).jpeg",
+    "sourceIndex": 73,
+    "imageCrop": {
+      "bounds": [
+        0.23,
+        0.24,
+        0.82,
+        0.83
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": null,
+      "tea": null,
+      "matcha": true,
+      "milk": null
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 14.38.42 (2).jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "taro-iced-matcha",
+    "name": "Taro Iced Matcha",
+    "category": "matcha",
+    "ingredients": [
+      "ماتشا",
+      "تارو"
+    ],
+    "image": "assets/generated/thumbnails/taro-iced-matcha.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 14.38.46 (4).jpeg",
+    "sourceIndex": 98,
+    "imageCrop": {
+      "bounds": [
+        0.27,
+        0.24,
+        0.52,
+        0.7
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [
+      "WhatsApp Image 2026-10-05 at 15.14.55 (1).jpeg"
+    ],
+    "contains": {
+      "coffee": null,
+      "tea": null,
+      "matcha": true,
+      "milk": null
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 14.38.46 (4).jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "blue-frappuccino",
+    "name": "Blue Frappuccino",
+    "category": "frappe",
+    "ingredients": [],
+    "image": "assets/generated/thumbnails/blue-frappuccino.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 14.38.46 (4).jpeg",
+    "sourceIndex": 98,
+    "imageCrop": {
+      "bounds": [
+        0.5,
+        0.2,
+        0.79,
+        0.7
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [
+      "WhatsApp Image 2026-10-05 at 15.14.55 (1).jpeg",
+      "WhatsApp Image 2026-10-05 at 15.15.04.jpeg",
+      "WhatsApp Image 2026-10-05 at 15.15.17.jpeg"
+    ],
+    "contains": {
+      "coffee": null,
+      "tea": null,
+      "matcha": null,
+      "milk": null
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 14.38.46 (4).jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "thai-tea-white-mocha",
+    "name": "Thai Tea White Mocha",
+    "category": "mocha",
+    "ingredients": [
+      "شاي تايلندي"
+    ],
+    "image": "assets/generated/thumbnails/thai-tea-white-mocha.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 15.14.51.jpeg",
+    "sourceIndex": 100,
+    "imageCrop": {
+      "bounds": [
+        0.025,
+        0.16,
+        0.325,
+        0.47
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": true,
+      "tea": true,
+      "matcha": null,
+      "milk": null
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 15.14.51.jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "thai-tea-pink-mocha",
+    "name": "Thai Tea Pink Mocha",
+    "category": "mocha",
+    "ingredients": [
+      "شاي تايلندي"
+    ],
+    "image": "assets/generated/thumbnails/thai-tea-pink-mocha.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 15.14.51.jpeg",
+    "sourceIndex": 100,
+    "imageCrop": {
+      "bounds": [
+        0.35833333333333334,
+        0.16,
+        0.6583333333333333,
+        0.47
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": true,
+      "tea": true,
+      "matcha": null,
+      "milk": null
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 15.14.51.jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "thai-tea-taro-mocha",
+    "name": "Thai Tea Taro Mocha",
+    "category": "mocha",
+    "ingredients": [
+      "شاي تايلندي",
+      "تارو"
+    ],
+    "image": "assets/generated/thumbnails/thai-tea-taro-mocha.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 15.14.51.jpeg",
+    "sourceIndex": 100,
+    "imageCrop": {
+      "bounds": [
+        0.6916666666666667,
+        0.16,
+        0.9916666666666667,
+        0.47
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": true,
+      "tea": true,
+      "matcha": null,
+      "milk": null
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 15.14.51.jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "matcha-frappuccino",
+    "name": "Matcha Frappuccino",
+    "category": "frappe",
+    "ingredients": [
+      "ماتشا"
+    ],
+    "image": "assets/generated/thumbnails/matcha-frappuccino.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 15.14.52.jpeg",
+    "sourceIndex": 101,
+    "imageCrop": {
+      "bounds": [
+        0.11,
+        0.49,
+        0.32,
+        0.88
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": null,
+      "tea": null,
+      "matcha": true,
+      "milk": null
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 15.14.52.jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "mango-frappuccino",
+    "name": "Mango Frappuccino",
+    "category": "frappe",
+    "ingredients": [
+      "مانجو"
+    ],
+    "image": "assets/generated/thumbnails/mango-frappuccino.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 15.14.52.jpeg",
+    "sourceIndex": 101,
+    "imageCrop": {
+      "bounds": [
+        0.4433333333333333,
+        0.49,
+        0.6533333333333333,
+        0.88
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": null,
+      "tea": null,
+      "matcha": null,
+      "milk": null
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 15.14.52.jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "strawberry-frappuccino",
+    "name": "Strawberry Frappuccino",
+    "category": "frappe",
+    "ingredients": [
+      "فراولة"
+    ],
+    "image": "assets/generated/thumbnails/strawberry-frappuccino.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 15.14.52.jpeg",
+    "sourceIndex": 101,
+    "imageCrop": {
+      "bounds": [
+        0.7766666666666666,
+        0.49,
+        0.9866666666666666,
+        0.88
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": null,
+      "tea": null,
+      "matcha": null,
+      "milk": null
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 15.14.52.jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "biscoff-iced-matcha",
+    "name": "Biscoff Iced Matcha",
+    "category": "matcha",
+    "ingredients": [
+      "بسكويت لوتس",
+      "ماتشا"
+    ],
+    "image": "assets/generated/thumbnails/biscoff-iced-matcha.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 15.14.55.jpeg",
+    "sourceIndex": 105,
+    "imageCrop": {
+      "bounds": [
+        0.045,
+        0.16,
+        0.38,
+        0.54
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": null,
+      "tea": null,
+      "matcha": true,
+      "milk": null
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 15.14.55.jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "oreo-iced-matcha",
+    "name": "Oreo Iced Matcha",
+    "category": "matcha",
+    "ingredients": [
+      "أوريو",
+      "ماتشا"
+    ],
+    "image": "assets/generated/thumbnails/oreo-iced-matcha.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 15.14.55.jpeg",
+    "sourceIndex": 105,
+    "imageCrop": {
+      "bounds": [
+        0.64,
+        0.16,
+        0.96,
+        0.54
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": null,
+      "tea": null,
+      "matcha": true,
+      "milk": null
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 15.14.55.jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "butterfly-pea-tea-iced-matcha",
+    "name": "Butterfly Pea Tea Iced Matcha",
+    "category": "matcha",
+    "ingredients": [
+      "ماتشا"
+    ],
+    "image": "assets/generated/thumbnails/butterfly-pea-tea-iced-matcha.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 15.14.56.jpeg",
+    "sourceIndex": 106,
+    "imageCrop": {
+      "bounds": [
+        0.25,
+        0.25,
+        0.49,
+        0.78
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": null,
+      "tea": true,
+      "matcha": true,
+      "milk": null
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 15.14.56.jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "thai-tea-iced-matcha",
+    "name": "Thai Tea Iced Matcha",
+    "category": "matcha",
+    "ingredients": [
+      "ماتشا",
+      "شاي تايلندي"
+    ],
+    "image": "assets/generated/thumbnails/thai-tea-iced-matcha.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 15.14.56.jpeg",
+    "sourceIndex": 106,
+    "imageCrop": {
+      "bounds": [
+        0.51,
+        0.25,
+        0.77,
+        0.78
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": null,
+      "tea": true,
+      "matcha": true,
+      "milk": null
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 15.14.56.jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "iced-cappuccino",
+    "name": "Iced Cappuccino",
+    "category": "coffee",
+    "ingredients": [],
+    "image": "assets/generated/thumbnails/iced-cappuccino.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 15.14.57 (1).jpeg",
+    "sourceIndex": 107,
+    "imageCrop": {
+      "bounds": [
+        0.57,
+        0.3,
+        0.88,
+        0.6
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": true,
+      "tea": null,
+      "matcha": null,
+      "milk": true
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 15.14.57 (1).jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "brown-sugar-oreo-matcha-latte",
+    "name": "Brown Sugar Oreo Matcha Latte",
+    "category": "matcha",
+    "ingredients": [
+      "أوريو",
+      "ماتشا"
+    ],
+    "image": "assets/generated/thumbnails/brown-sugar-oreo-matcha-latte.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 15.14.57 (2).jpeg",
+    "sourceIndex": 108,
+    "imageCrop": {
+      "bounds": [
+        0.13,
+        0.28,
+        0.45,
+        0.73
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": null,
+      "tea": null,
+      "matcha": true,
+      "milk": true
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 15.14.57 (2).jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "orange-espresso-iced-latte",
+    "name": "Orange Espresso Iced Latte",
+    "category": "latte",
+    "ingredients": [
+      "برتقال"
+    ],
+    "image": "assets/generated/thumbnails/orange-espresso-iced-latte.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 15.14.57 (2).jpeg",
+    "sourceIndex": 108,
+    "imageCrop": {
+      "bounds": [
+        0.53,
+        0.28,
+        0.85,
+        0.73
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": true,
+      "tea": null,
+      "matcha": null,
+      "milk": true
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 15.14.57 (2).jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "banana-vanilla-frappuccino",
+    "name": "Banana Vanilla Frappuccino",
+    "category": "frappe",
+    "ingredients": [
+      "موز",
+      "فانيلا"
+    ],
+    "image": "assets/generated/thumbnails/banana-vanilla-frappuccino.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 15.14.57.jpeg",
+    "sourceIndex": 109,
+    "imageCrop": {
+      "bounds": [
+        0.06,
+        0.15,
+        0.4,
+        0.61
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": null,
+      "tea": null,
+      "matcha": null,
+      "milk": null
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 15.14.57.jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "thai-tea-frappuccino",
+    "name": "Thai Tea Frappuccino",
+    "category": "frappe",
+    "ingredients": [
+      "شاي تايلندي"
+    ],
+    "image": "assets/generated/thumbnails/thai-tea-frappuccino.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 15.14.57.jpeg",
+    "sourceIndex": 109,
+    "imageCrop": {
+      "bounds": [
+        0.57,
+        0.15,
+        0.93,
+        0.61
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": null,
+      "tea": true,
+      "matcha": null,
+      "milk": null
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 15.14.57.jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "nutella-matcha-iced-latte",
+    "name": "Nutella Matcha Iced Latte",
+    "category": "matcha",
+    "ingredients": [
+      "نوتيلا",
+      "ماتشا"
+    ],
+    "image": "assets/generated/thumbnails/nutella-matcha-iced-latte.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 15.14.58.jpeg",
+    "sourceIndex": 110,
+    "imageCrop": {
+      "bounds": [
+        0.06,
+        0.2,
+        0.46,
+        0.63
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": null,
+      "tea": null,
+      "matcha": true,
+      "milk": true
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 15.14.58.jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "pink-nutella-iced-latte",
+    "name": "Pink Nutella Iced Latte",
+    "category": "latte",
+    "ingredients": [
+      "نوتيلا"
+    ],
+    "image": "assets/generated/thumbnails/pink-nutella-iced-latte.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 15.14.58.jpeg",
+    "sourceIndex": 110,
+    "imageCrop": {
+      "bounds": [
+        0.53,
+        0.2,
+        0.95,
+        0.63
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": true,
+      "tea": null,
+      "matcha": null,
+      "milk": true
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 15.14.58.jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "oreo-iced-latte",
+    "name": "Oreo Iced Latte",
+    "category": "latte",
+    "ingredients": [
+      "أوريو"
+    ],
+    "image": "assets/generated/thumbnails/oreo-iced-latte.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 15.14.59.jpeg",
+    "sourceIndex": 111,
+    "imageCrop": {
+      "bounds": [
+        0.13,
+        0.32,
+        0.43,
+        0.61
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [
+      "WhatsApp Image 2026-10-05 at 15.15.21.jpeg"
+    ],
+    "contains": {
+      "coffee": true,
+      "tea": null,
+      "matcha": null,
+      "milk": true
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 15.14.59.jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "biscoff-vanilla-iced-latte",
+    "name": "Biscoff Vanilla Iced Latte",
+    "category": "latte",
+    "ingredients": [
+      "بسكويت لوتس",
+      "فانيلا"
+    ],
+    "image": "assets/generated/thumbnails/biscoff-vanilla-iced-latte.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 15.14.59.jpeg",
+    "sourceIndex": 111,
+    "imageCrop": {
+      "bounds": [
+        0.56,
+        0.32,
+        0.87,
+        0.61
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": true,
+      "tea": null,
+      "matcha": null,
+      "milk": true
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 15.14.59.jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "matcha-vanilla-iced-latte",
+    "name": "Matcha Vanilla Iced Latte",
+    "category": "matcha",
+    "ingredients": [
+      "ماتشا",
+      "فانيلا"
+    ],
+    "image": "assets/generated/thumbnails/matcha-vanilla-iced-latte.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 15.15.00 (1).jpeg",
+    "sourceIndex": 112,
+    "imageCrop": {
+      "bounds": [
+        0.14,
+        0.37,
+        0.44,
+        0.71
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [
+      "WhatsApp Image 2026-10-05 at 15.15.02 (1).jpeg"
+    ],
+    "contains": {
+      "coffee": null,
+      "tea": null,
+      "matcha": true,
+      "milk": true
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 15.15.00 (1).jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "iced-irish-latte",
+    "name": "Iced Irish Latte",
+    "category": "latte",
+    "ingredients": [],
+    "image": "assets/generated/thumbnails/iced-irish-latte.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 15.15.00 (1).jpeg",
+    "sourceIndex": 112,
+    "imageCrop": {
+      "bounds": [
+        0.56,
+        0.37,
+        0.86,
+        0.71
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [
+      "WhatsApp Image 2026-10-05 at 15.15.02 (1).jpeg"
+    ],
+    "contains": {
+      "coffee": true,
+      "tea": null,
+      "matcha": null,
+      "milk": true
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 15.15.00 (1).jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "iced-cinnamon-cappuccino",
+    "name": "Iced Cinnamon Cappuccino",
+    "category": "coffee",
+    "ingredients": [
+      "قرفة"
+    ],
+    "image": "assets/generated/thumbnails/iced-cinnamon-cappuccino.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 15.15.00.jpeg",
+    "sourceIndex": 113,
+    "imageCrop": {
+      "bounds": [
+        0.27,
+        0.26,
+        0.5,
+        0.8
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": true,
+      "tea": null,
+      "matcha": null,
+      "milk": true
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 15.15.00.jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "oreo-pink-iced-latte",
+    "name": "Oreo Pink Iced Latte",
+    "category": "latte",
+    "ingredients": [
+      "أوريو"
+    ],
+    "image": "assets/generated/thumbnails/oreo-pink-iced-latte.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 15.15.00.jpeg",
+    "sourceIndex": 113,
+    "imageCrop": {
+      "bounds": [
+        0.49,
+        0.25,
+        0.74,
+        0.8
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": true,
+      "tea": null,
+      "matcha": null,
+      "milk": true
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 15.15.00.jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "coconut-water-americano",
+    "name": "Coconut Water Americano",
+    "category": "coffee",
+    "ingredients": [
+      "ماء جوز الهند"
+    ],
+    "image": "assets/generated/thumbnails/coconut-water-americano.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 15.15.01 (1).jpeg",
+    "sourceIndex": 114,
+    "imageCrop": {
+      "bounds": [
+        0.005,
+        0.23,
+        0.245,
+        0.54
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": true,
+      "tea": null,
+      "matcha": null,
+      "milk": null
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 15.15.01 (1).jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "coconut-water-iced-matcha",
+    "name": "Coconut Water Iced Matcha",
+    "category": "matcha",
+    "ingredients": [
+      "ماتشا",
+      "ماء جوز الهند"
+    ],
+    "image": "assets/generated/thumbnails/coconut-water-iced-matcha.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 15.15.01 (1).jpeg",
+    "sourceIndex": 114,
+    "imageCrop": {
+      "bounds": [
+        0.255,
+        0.23,
+        0.495,
+        0.54
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": null,
+      "tea": null,
+      "matcha": true,
+      "milk": null
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 15.15.01 (1).jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "coconut-water-espresso-tonic",
+    "name": "Coconut Water Espresso Tonic",
+    "category": "coffee",
+    "ingredients": [
+      "ماء جوز الهند"
+    ],
+    "image": "assets/generated/thumbnails/coconut-water-espresso-tonic.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 15.15.01 (1).jpeg",
+    "sourceIndex": 114,
+    "imageCrop": {
+      "bounds": [
+        0.505,
+        0.23,
+        0.745,
+        0.54
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": true,
+      "tea": null,
+      "matcha": null,
+      "milk": null
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 15.15.01 (1).jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "coconut-water-vanilla-latte",
+    "name": "Coconut Water Vanilla Latte",
+    "category": "latte",
+    "ingredients": [
+      "فانيلا",
+      "ماء جوز الهند"
+    ],
+    "image": "assets/generated/thumbnails/coconut-water-vanilla-latte.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 15.15.01 (1).jpeg",
+    "sourceIndex": 114,
+    "imageCrop": {
+      "bounds": [
+        0.755,
+        0.23,
+        0.995,
+        0.54
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": true,
+      "tea": null,
+      "matcha": null,
+      "milk": true
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 15.15.01 (1).jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "tiramisu-frappuccino",
+    "name": "Tiramisu Frappuccino",
+    "category": "frappe",
+    "ingredients": [
+      "كريمة تيراميسو"
+    ],
+    "image": "assets/generated/thumbnails/tiramisu-frappuccino.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 15.15.01.jpeg",
+    "sourceIndex": 115,
+    "imageCrop": {
+      "bounds": [
+        0.20500000000000002,
+        0.285,
+        0.395,
+        0.5
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": null,
+      "tea": null,
+      "matcha": null,
+      "milk": null
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 15.15.01.jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "nutella-frappuccino",
+    "name": "Nutella Frappuccino",
+    "category": "frappe",
+    "ingredients": [
+      "نوتيلا"
+    ],
+    "image": "assets/generated/thumbnails/nutella-frappuccino.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 15.15.01.jpeg",
+    "sourceIndex": 115,
+    "imageCrop": {
+      "bounds": [
+        0.605,
+        0.285,
+        0.795,
+        0.5
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": null,
+      "tea": null,
+      "matcha": null,
+      "milk": null
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 15.15.01.jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "lotus-biscoff-frappuccino",
+    "name": "Lotus Biscoff Frappuccino",
+    "category": "frappe",
+    "ingredients": [
+      "بسكويت لوتس"
+    ],
+    "image": "assets/generated/thumbnails/lotus-biscoff-frappuccino.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 15.15.01.jpeg",
+    "sourceIndex": 115,
+    "imageCrop": {
+      "bounds": [
+        0.805,
+        0.285,
+        0.995,
+        0.5
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": null,
+      "tea": null,
+      "matcha": null,
+      "milk": null
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 15.15.01.jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "iced-americano",
+    "name": "Iced Americano",
+    "category": "coffee",
+    "ingredients": [],
+    "image": "assets/generated/thumbnails/iced-americano.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 15.15.02 (1).jpeg",
+    "sourceIndex": 116,
+    "imageCrop": {
+      "bounds": [
+        0.405,
+        0.22,
+        0.595,
+        0.49
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": true,
+      "tea": null,
+      "matcha": null,
+      "milk": null
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 15.15.02 (1).jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "butterscotch-pink-iced-latte",
+    "name": "Butterscotch Pink Iced Latte",
+    "category": "latte",
+    "ingredients": [],
+    "image": "assets/generated/thumbnails/butterscotch-pink-iced-latte.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 15.15.02 (1).jpeg",
+    "sourceIndex": 116,
+    "imageCrop": {
+      "bounds": [
+        0.805,
+        0.22,
+        0.9950000000000001,
+        0.49
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": true,
+      "tea": null,
+      "matcha": null,
+      "milk": true
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 15.15.02 (1).jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "blue-coconut-water-iced-matcha",
+    "name": "Blue Coconut Water Iced Matcha",
+    "category": "matcha",
+    "ingredients": [
+      "ماتشا",
+      "ماء جوز الهند"
+    ],
+    "image": "assets/generated/thumbnails/blue-coconut-water-iced-matcha.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 15.15.02.jpeg",
+    "sourceIndex": 117,
+    "imageCrop": {
+      "bounds": [
+        0.08,
+        0.29,
+        0.41,
+        0.62
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": null,
+      "tea": null,
+      "matcha": true,
+      "milk": null
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 15.15.02.jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "espresso-coconut-water",
+    "name": "Espresso Coconut Water",
+    "category": "coffee",
+    "ingredients": [
+      "ماء جوز الهند"
+    ],
+    "image": "assets/generated/thumbnails/espresso-coconut-water.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 15.15.02.jpeg",
+    "sourceIndex": 117,
+    "imageCrop": {
+      "bounds": [
+        0.59,
+        0.29,
+        0.97,
+        0.62
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": true,
+      "tea": null,
+      "matcha": null,
+      "milk": null
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 15.15.02.jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "iced-coffee",
+    "name": "Iced Coffee",
+    "category": "coffee",
+    "ingredients": [],
+    "image": "assets/generated/thumbnails/iced-coffee.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 15.15.04 (1).jpeg",
+    "sourceIndex": 118,
+    "imageCrop": {
+      "bounds": [
+        0.3933333333333333,
+        0.16,
+        0.6333333333333333,
+        0.3
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": true,
+      "tea": null,
+      "matcha": null,
+      "milk": null
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 15.15.04 (1).jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "caramel-latte",
+    "name": "Caramel Latte",
+    "category": "latte",
+    "ingredients": [
+      "كراميل"
+    ],
+    "image": "assets/generated/thumbnails/caramel-latte.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 15.15.04 (1).jpeg",
+    "sourceIndex": 118,
+    "imageCrop": {
+      "bounds": [
+        0.3933333333333333,
+        0.405,
+        0.6333333333333333,
+        0.5449999999999999
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": true,
+      "tea": null,
+      "matcha": null,
+      "milk": true
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 15.15.04 (1).jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "vanilla-latte",
+    "name": "Vanilla Latte",
+    "category": "latte",
+    "ingredients": [
+      "فانيلا"
+    ],
+    "image": "assets/generated/thumbnails/vanilla-latte.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 15.15.04 (1).jpeg",
+    "sourceIndex": 118,
+    "imageCrop": {
+      "bounds": [
+        0.7266666666666666,
+        0.405,
+        0.9666666666666666,
+        0.5449999999999999
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": true,
+      "tea": null,
+      "matcha": null,
+      "milk": true
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 15.15.04 (1).jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "hazelnut-coffee",
+    "name": "Hazelnut Coffee",
+    "category": "coffee",
+    "ingredients": [
+      "بندق"
+    ],
+    "image": "assets/generated/thumbnails/hazelnut-coffee.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 15.15.04 (1).jpeg",
+    "sourceIndex": 118,
+    "imageCrop": {
+      "bounds": [
+        0.06,
+        0.65,
+        0.3,
+        0.79
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": true,
+      "tea": null,
+      "matcha": null,
+      "milk": null
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 15.15.04 (1).jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "irish-coffee",
+    "name": "Irish Coffee",
+    "category": "coffee",
+    "ingredients": [],
+    "image": "assets/generated/thumbnails/irish-coffee.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 15.15.04 (1).jpeg",
+    "sourceIndex": 118,
+    "imageCrop": {
+      "bounds": [
+        0.3933333333333333,
+        0.65,
+        0.6333333333333333,
+        0.79
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": true,
+      "tea": null,
+      "matcha": null,
+      "milk": null
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 15.15.04 (1).jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "dalgona-coffee",
+    "name": "Dalgona Coffee",
+    "category": "coffee",
+    "ingredients": [],
+    "image": "assets/generated/thumbnails/dalgona-coffee.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 15.15.04 (1).jpeg",
+    "sourceIndex": 118,
+    "imageCrop": {
+      "bounds": [
+        0.7266666666666666,
+        0.65,
+        0.9666666666666666,
+        0.79
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": true,
+      "tea": null,
+      "matcha": null,
+      "milk": null
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 15.15.04 (1).jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "vanilla-pink-iced-latte",
+    "name": "Vanilla Pink Iced Latte",
+    "category": "latte",
+    "ingredients": [
+      "فانيلا"
+    ],
+    "image": "assets/generated/thumbnails/vanilla-pink-iced-latte.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 15.15.04.jpeg",
+    "sourceIndex": 119,
+    "imageCrop": {
+      "bounds": [
+        0.07,
+        0.06,
+        0.46,
+        0.44
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": true,
+      "tea": null,
+      "matcha": null,
+      "milk": true
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 15.15.04.jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "lemon-mint-smoothie",
+    "name": "Lemon Mint Smoothie",
+    "category": "smoothie",
+    "ingredients": [
+      "ليمون",
+      "نعناع"
+    ],
+    "image": "assets/generated/thumbnails/lemon-mint-smoothie.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 15.15.16.jpeg",
+    "sourceIndex": 131,
+    "imageCrop": {
+      "bounds": [
+        0.27,
+        0.2,
+        0.88,
+        0.86
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": null,
+      "tea": null,
+      "matcha": null,
+      "milk": null
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 15.15.16.jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "taro-salted-caramel-iced-latte",
+    "name": "Taro Salted Caramel Iced Latte",
+    "category": "latte",
+    "ingredients": [
+      "كراميل",
+      "تارو"
+    ],
+    "image": "assets/generated/thumbnails/taro-salted-caramel-iced-latte.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 15.15.18 (3).jpeg",
+    "sourceIndex": 138,
+    "imageCrop": {
+      "bounds": [
+        0.33,
+        0.22,
+        0.68,
+        0.67
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": true,
+      "tea": null,
+      "matcha": null,
+      "milk": true
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 15.15.18 (3).jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "iced-matcha-coffee",
+    "name": "Iced Matcha Coffee",
+    "category": "matcha",
+    "ingredients": [
+      "ماتشا"
+    ],
+    "image": "assets/generated/thumbnails/iced-matcha-coffee.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 15.15.19 (1).jpeg",
+    "sourceIndex": 140,
+    "imageCrop": {
+      "bounds": [
+        0.45,
+        0.15,
+        0.9,
+        0.65
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": true,
+      "tea": null,
+      "matcha": true,
+      "milk": null
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 15.15.19 (1).jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "matcha-coffee-frappuccino",
+    "name": "Matcha Coffee Frappuccino",
+    "category": "frappe",
+    "ingredients": [
+      "ماتشا"
+    ],
+    "image": "assets/generated/thumbnails/matcha-coffee-frappuccino.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 15.15.19.jpeg",
+    "sourceIndex": 141,
+    "imageCrop": {
+      "bounds": [
+        0.29,
+        0.22,
+        0.73,
+        0.79
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": true,
+      "tea": null,
+      "matcha": true,
+      "milk": null
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 15.15.19.jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "sugar-iced-cappuccino",
+    "name": "Sugar Iced Cappuccino",
+    "category": "coffee",
+    "ingredients": [],
+    "image": "assets/generated/thumbnails/sugar-iced-cappuccino.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 15.15.21 (1).jpeg",
+    "sourceIndex": 142,
+    "imageCrop": {
+      "bounds": [
+        0.52,
+        0.14,
+        0.93,
+        0.6
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": true,
+      "tea": null,
+      "matcha": null,
+      "milk": true
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 15.15.21 (1).jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "honey-soda",
+    "name": "Honey Soda",
+    "category": "fresh",
+    "ingredients": [
+      "عسل"
+    ],
+    "image": "assets/generated/thumbnails/honey-soda.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 15.15.21 (2).jpeg",
+    "sourceIndex": 143,
+    "imageCrop": {
+      "bounds": [
+        0.035,
+        0.15,
+        0.225,
+        0.36
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": null,
+      "tea": null,
+      "matcha": null,
+      "milk": null
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 15.15.21 (2).jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "honey-lime-soda",
+    "name": "Honey Lime Soda",
+    "category": "fresh",
+    "ingredients": [
+      "عسل",
+      "ليمون أخضر"
+    ],
+    "image": "assets/generated/thumbnails/honey-lime-soda.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 15.15.21 (2).jpeg",
+    "sourceIndex": 143,
+    "imageCrop": {
+      "bounds": [
+        0.28500000000000003,
+        0.15,
+        0.475,
+        0.36
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": null,
+      "tea": null,
+      "matcha": null,
+      "milk": null
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 15.15.21 (2).jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "orange-espresso-soda",
+    "name": "Orange Espresso Soda",
+    "category": "coffee",
+    "ingredients": [
+      "برتقال"
+    ],
+    "image": "assets/generated/thumbnails/orange-espresso-soda.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 15.15.21 (2).jpeg",
+    "sourceIndex": 143,
+    "imageCrop": {
+      "bounds": [
+        0.535,
+        0.15,
+        0.725,
+        0.36
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": true,
+      "tea": null,
+      "matcha": null,
+      "milk": null
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 15.15.21 (2).jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "orange-americano",
+    "name": "Orange Americano",
+    "category": "coffee",
+    "ingredients": [
+      "برتقال"
+    ],
+    "image": "assets/generated/thumbnails/orange-americano.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 15.15.21 (2).jpeg",
+    "sourceIndex": 143,
+    "imageCrop": {
+      "bounds": [
+        0.785,
+        0.15,
+        0.975,
+        0.36
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": true,
+      "tea": null,
+      "matcha": null,
+      "milk": null
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 15.15.21 (2).jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "iced-caramel-chocolate-coffee",
+    "name": "Iced Caramel Chocolate Coffee",
+    "category": "coffee",
+    "ingredients": [
+      "كراميل",
+      "شوكولاتة"
+    ],
+    "image": "assets/generated/thumbnails/iced-caramel-chocolate-coffee.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 15.15.21 (3).jpeg",
+    "sourceIndex": 144,
+    "imageCrop": {
+      "bounds": [
+        0.45,
+        0.1,
+        0.91,
+        0.73
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": true,
+      "tea": null,
+      "matcha": null,
+      "milk": null
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 15.15.21 (3).jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "nutella-iced-latte",
+    "name": "Nutella Iced Latte",
+    "category": "latte",
+    "ingredients": [
+      "نوتيلا"
+    ],
+    "image": "assets/generated/thumbnails/nutella-iced-latte.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 15.15.21.jpeg",
+    "sourceIndex": 145,
+    "imageCrop": {
+      "bounds": [
+        0.6866666666666666,
+        0.17,
+        0.98,
+        0.59
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": true,
+      "tea": null,
+      "matcha": null,
+      "milk": true
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 15.15.21.jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "black-forest-frappe",
+    "name": "Black Forest Frappe",
+    "category": "frappe",
+    "ingredients": [],
+    "image": "assets/generated/thumbnails/black-forest-frappe.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 15.15.22 (1).jpeg",
+    "sourceIndex": 146,
+    "imageCrop": {
+      "bounds": [
+        0.025,
+        0.26,
+        0.24,
+        0.55
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": null,
+      "tea": null,
+      "matcha": null,
+      "milk": null
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 15.15.22 (1).jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "tiramisu-frappe",
+    "name": "Tiramisu Frappe",
+    "category": "frappe",
+    "ingredients": [
+      "كريمة تيراميسو"
+    ],
+    "image": "assets/generated/thumbnails/tiramisu-frappe.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 15.15.22 (1).jpeg",
+    "sourceIndex": 146,
+    "imageCrop": {
+      "bounds": [
+        0.275,
+        0.26,
+        0.49,
+        0.55
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": null,
+      "tea": null,
+      "matcha": null,
+      "milk": null
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 15.15.22 (1).jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "ovaltine-frappe",
+    "name": "Ovaltine Frappe",
+    "category": "frappe",
+    "ingredients": [],
+    "image": "assets/generated/thumbnails/ovaltine-frappe.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 15.15.22 (1).jpeg",
+    "sourceIndex": 146,
+    "imageCrop": {
+      "bounds": [
+        0.525,
+        0.26,
+        0.74,
+        0.55
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": null,
+      "tea": null,
+      "matcha": null,
+      "milk": null
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 15.15.22 (1).jpeg",
+    "cleanPhotoReference": false
+  },
+  {
+    "id": "oreo-mocha",
+    "name": "Oreo Mocha",
+    "category": "mocha",
+    "ingredients": [
+      "أوريو"
+    ],
+    "image": "assets/generated/thumbnails/oreo-mocha.webp",
+    "source": "assets/source-images/WhatsApp Image 2026-10-05 at 15.15.22.jpeg",
+    "sourceIndex": 147,
+    "imageCrop": {
+      "bounds": [
+        0.28,
+        0.26,
+        0.73,
+        0.84
+      ],
+      "fit": "contain",
+      "reviewed": true
+    },
+    "duplicateSources": [],
+    "contains": {
+      "coffee": true,
+      "tea": null,
+      "matcha": null,
+      "milk": null
+    },
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "editReference": "assets/source-images/WhatsApp Image 2026-10-05 at 15.15.22.jpeg",
+    "cleanPhotoReference": false
+  }
+]

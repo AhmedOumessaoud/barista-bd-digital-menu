@@ -1,0 +1,2 @@
+﻿from pathlib import Path
+p=Path('scripts/build_menu.py');s=p.read_text(encoding='utf8');s=s.replace(",'matcha biscoff iced latte':'biscoff iced matcha mocha'",'').replace(",'iced latte matcha tiramisu cream':'iced matcha mocha tiramisu cream'",'');s=s.replace('base={78:',"base={49:['ماتشا','حليب','شراب بلو كوراساو','شراب الفراولة','أوريو'],42:['موز','عسل','حليب','إسبريسو'],41:['عسل','أوريو','حليب','إسبريسو'],36:['ماتشا','حليب'],78:");p.write_text(s,encoding='utf8')

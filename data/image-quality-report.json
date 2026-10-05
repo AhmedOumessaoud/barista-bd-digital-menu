@@ -1,0 +1,2834 @@
+{
+  "reviewedImages": 202,
+  "approach": "Individually reviewed normalized photographic bounds, contained without stretching or further CSS cover crops. Original detail is preserved; source-resolution limits are retained.",
+  "images": [
+    {
+      "id": "oreo-pink-iced-matcha",
+      "sourceIndex": 49,
+      "cropPixels": [
+        567,
+        869
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "honey-banana-iced-latte",
+      "sourceIndex": 42,
+      "cropPixels": [
+        512,
+        737
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "iced-matcha-latte",
+      "sourceIndex": 36,
+      "cropPixels": [
+        595,
+        701
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "honey-oreo-iced-latte",
+      "sourceIndex": 41,
+      "cropPixels": [
+        561,
+        673
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "mango-forest-iced-matcha",
+      "sourceIndex": 7,
+      "cropPixels": [
+        617,
+        799
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "oreo-pink-iced-latte-lemon-cream",
+      "sourceIndex": 76,
+      "cropPixels": [
+        449,
+        743
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "caramel-macchiato",
+      "sourceIndex": 79,
+      "cropPixels": [
+        561,
+        596
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "espresso",
+      "sourceIndex": 78,
+      "cropPixels": [
+        640,
+        449
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "cappuccino",
+      "sourceIndex": 83,
+      "cropPixels": [
+        617,
+        554
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "tropical-sunrise",
+      "sourceIndex": 84,
+      "cropPixels": [
+        430,
+        906
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "peach-raspberry-elegance-smoothie",
+      "sourceIndex": 90,
+      "cropPixels": [
+        583,
+        827
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "tropical-coconut-dream-smoothie",
+      "sourceIndex": 95,
+      "cropPixels": [
+        583,
+        827
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "strawberry-cheesecake-milkshake",
+      "sourceIndex": 0,
+      "cropPixels": [
+        410,
+        707
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "chocolate-brownie-milkshake",
+      "sourceIndex": 1,
+      "cropPixels": [
+        410,
+        707
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "mango-royale-milkshake",
+      "sourceIndex": 2,
+      "cropPixels": [
+        410,
+        707
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "nutella-hazelnut-milkshake",
+      "sourceIndex": 3,
+      "cropPixels": [
+        410,
+        707
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "caramel-coffee-milkshake",
+      "sourceIndex": 4,
+      "cropPixels": [
+        410,
+        707
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "oreo-crunch-milkshake",
+      "sourceIndex": 5,
+      "cropPixels": [
+        410,
+        707
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "strawberry-iced-latte-lemon-cream",
+      "sourceIndex": 6,
+      "cropPixels": [
+        449,
+        729
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "biscoff-honey-matcha-lemon-cream",
+      "sourceIndex": 8,
+      "cropPixels": [
+        415,
+        659
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "brownie-dalgona-coffee",
+      "sourceIndex": 9,
+      "cropPixels": [
+        482,
+        617
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "oreo-banana-iced-latte-tiramisu-cream",
+      "sourceIndex": 10,
+      "cropPixels": [
+        460,
+        813
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "banana-dalgona-coffee",
+      "sourceIndex": 11,
+      "cropPixels": [
+        404,
+        631
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "oreo-matcha-dalgona-mocha",
+      "sourceIndex": 12,
+      "cropPixels": [
+        606,
+        729
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "blue-dalgona-mocha",
+      "sourceIndex": 13,
+      "cropPixels": [
+        606,
+        729
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "strawberry-dalgona-mocha",
+      "sourceIndex": 14,
+      "cropPixels": [
+        606,
+        729
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "lemon-cinnamon-cold-brew",
+      "sourceIndex": 15,
+      "cropPixels": [
+        606,
+        729
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "oreo-caramel-chocolate-dalgona-coffee",
+      "sourceIndex": 16,
+      "cropPixels": [
+        606,
+        729
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "white-chocolate-banana-mocha",
+      "sourceIndex": 17,
+      "cropPixels": [
+        527,
+        841
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "iced-matcha-mocha-tiramisu-cream",
+      "sourceIndex": 18,
+      "cropPixels": [
+        583,
+        715
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "tiramisu-cream-cold-brew",
+      "sourceIndex": 19,
+      "cropPixels": [
+        595,
+        771
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "black-forest-matcha",
+      "sourceIndex": 20,
+      "cropPixels": [
+        628,
+        813
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "vanilla-matcha-tiramisu-cream",
+      "sourceIndex": 21,
+      "cropPixels": [
+        583,
+        827
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "spanish-iced-latte-tiramisu-cream",
+      "sourceIndex": 22,
+      "cropPixels": [
+        572,
+        785
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "coconut-water-cinnamon-iced-matcha",
+      "sourceIndex": 23,
+      "cropPixels": [
+        449,
+        659
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "banana-vanilla-oreo-iced-latte-tiramisu-cream",
+      "sourceIndex": 24,
+      "cropPixels": [
+        617,
+        757
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "vanilla-oreo-pink-iced-latte-tiramisu-cream",
+      "sourceIndex": 25,
+      "cropPixels": [
+        438,
+        715
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "strawberry-pistachio-mocha",
+      "sourceIndex": 26,
+      "cropPixels": [
+        640,
+        757
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "white-chocolate-strawberry-mocha",
+      "sourceIndex": 27,
+      "cropPixels": [
+        662,
+        813
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "espresso-cold-tiramisu-cream",
+      "sourceIndex": 28,
+      "cropPixels": [
+        430,
+        922
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "oreo-coconut-espresso-tiramisu-cream",
+      "sourceIndex": 29,
+      "cropPixels": [
+        430,
+        922
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "iced-latte",
+      "sourceIndex": 30,
+      "cropPixels": [
+        303,
+        463
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "iced-mocha",
+      "sourceIndex": 30,
+      "cropPixels": [
+        303,
+        463
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "strawberry-tiramisu-cream-mocha",
+      "sourceIndex": 31,
+      "cropPixels": [
+        684,
+        869
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "coconut-water-honey-matcha",
+      "sourceIndex": 33,
+      "cropPixels": [
+        583,
+        757
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "oat-milk-english-tea-tiramisu-cream",
+      "sourceIndex": 34,
+      "cropPixels": [
+        628,
+        729
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "black-tea-iced-mocha",
+      "sourceIndex": 35,
+      "cropPixels": [
+        606,
+        757
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "black-tea-matcha-cream",
+      "sourceIndex": 37,
+      "cropPixels": [
+        561,
+        757
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "iced-strawberry-black-tea",
+      "sourceIndex": 38,
+      "cropPixels": [
+        606,
+        813
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "white-chocolate-caramel-black-tea",
+      "sourceIndex": 39,
+      "cropPixels": [
+        595,
+        785
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "thai-iced-tea-mocha",
+      "sourceIndex": 40,
+      "cropPixels": [
+        606,
+        729
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "banana-salted-caramel-black-tea",
+      "sourceIndex": 43,
+      "cropPixels": [
+        543,
+        814
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "orange-iced-black-tea",
+      "sourceIndex": 44,
+      "cropPixels": [
+        606,
+        813
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "vanilla-black-tea-dark-chocolate-sundae",
+      "sourceIndex": 45,
+      "cropPixels": [
+        595,
+        729
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "biscoff-iced-matcha-mocha",
+      "sourceIndex": 46,
+      "cropPixels": [
+        572,
+        729
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "banana-iced-mocha",
+      "sourceIndex": 47,
+      "cropPixels": [
+        568,
+        778
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "strawberry-mango-iced-matcha",
+      "sourceIndex": 48,
+      "cropPixels": [
+        531,
+        878
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "oat-milk-mango-iced-latte",
+      "sourceIndex": 50,
+      "cropPixels": [
+        595,
+        799
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "lemon-cream-cold-brew",
+      "sourceIndex": 51,
+      "cropPixels": [
+        617,
+        799
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "iced-latte-matcha-tiramisu-cream",
+      "sourceIndex": 52,
+      "cropPixels": [
+        572,
+        834
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "blue-iced-black-tea",
+      "sourceIndex": 53,
+      "cropPixels": [
+        617,
+        743
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "lemon-cream-strawberry-matcha",
+      "sourceIndex": 54,
+      "cropPixels": [
+        651,
+        855
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "strawberry-ube-oat-milk-latte",
+      "sourceIndex": 55,
+      "cropPixels": [
+        521,
+        831
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "orange-matcha-lemon-cream",
+      "sourceIndex": 56,
+      "cropPixels": [
+        640,
+        771
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "coconut-water-matcha-lemon-cream",
+      "sourceIndex": 57,
+      "cropPixels": [
+        628,
+        827
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "blue-vanilla-iced-latte",
+      "sourceIndex": 58,
+      "cropPixels": [
+        595,
+        813
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "ube-strawberry-iced-matcha",
+      "sourceIndex": 59,
+      "cropPixels": [
+        581,
+        878
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "vanilla-mint-mocha",
+      "sourceIndex": 60,
+      "cropPixels": [
+        640,
+        785
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "blue-mint-latte",
+      "sourceIndex": 61,
+      "cropPixels": [
+        482,
+        729
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "apple-cold-brew-lemon-cream",
+      "sourceIndex": 62,
+      "cropPixels": [
+        640,
+        855
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "oreo-matcha-tiramisu-cream",
+      "sourceIndex": 63,
+      "cropPixels": [
+        606,
+        869
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "oat-milk-ube-oreo-latte",
+      "sourceIndex": 64,
+      "cropPixels": [
+        628,
+        743
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "oat-milk-caramel-iced-latte",
+      "sourceIndex": 65,
+      "cropPixels": [
+        640,
+        897
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "caramel-americano-lemon-cream",
+      "sourceIndex": 66,
+      "cropPixels": [
+        696,
+        729
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "coconut-water-matcha-cream",
+      "sourceIndex": 67,
+      "cropPixels": [
+        539,
+        841
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "honey-cold-brew-honey-cream",
+      "sourceIndex": 68,
+      "cropPixels": [
+        640,
+        869
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "strawberry-dalgona-coffee",
+      "sourceIndex": 69,
+      "cropPixels": [
+        684,
+        855
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "caramel-cold-brew-choco-cream",
+      "sourceIndex": 70,
+      "cropPixels": [
+        651,
+        911
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "strawberry-iced-matcha-lemon-cream",
+      "sourceIndex": 71,
+      "cropPixels": [
+        550,
+        785
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "espresso-lemon-coconut-water-honey-cream",
+      "sourceIndex": 72,
+      "cropPixels": [
+        438,
+        757
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "dalgona-honey-matcha",
+      "sourceIndex": 73,
+      "cropPixels": [
+        662,
+        827
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "cookies-cream-milkshake",
+      "sourceIndex": 80,
+      "cropPixels": [
+        404,
+        821
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "mango-milkshake",
+      "sourceIndex": 81,
+      "cropPixels": [
+        437,
+        821
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "mocha-latte",
+      "sourceIndex": 82,
+      "cropPixels": [
+        561,
+        610
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "shirley-temple",
+      "sourceIndex": 85,
+      "cropPixels": [
+        440,
+        906
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "blue-lagoon",
+      "sourceIndex": 86,
+      "cropPixels": [
+        451,
+        937
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "cucumber-mint-cooler",
+      "sourceIndex": 87,
+      "cropPixels": [
+        389,
+        891
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "caff-latte",
+      "sourceIndex": 88,
+      "cropPixels": [
+        606,
+        589
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "virgin-pi-a-colada",
+      "sourceIndex": 89,
+      "cropPixels": [
+        620,
+        799
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "green-detox-supreme-smoothie",
+      "sourceIndex": 91,
+      "cropPixels": [
+        583,
+        827
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "chocolate-hazelnut-smoothie",
+      "sourceIndex": 92,
+      "cropPixels": [
+        583,
+        827
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "avocado-honey-cream-smoothie",
+      "sourceIndex": 93,
+      "cropPixels": [
+        583,
+        827
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "passion-fruit-fizz",
+      "sourceIndex": 94,
+      "cropPixels": [
+        563,
+        998
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "berry-velvet-smoothie",
+      "sourceIndex": 96,
+      "cropPixels": [
+        583,
+        827
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "mango-passion-bliss-smoothie",
+      "sourceIndex": 97,
+      "cropPixels": [
+        583,
+        827
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "taro-iced-matcha",
+      "sourceIndex": 98,
+      "cropPixels": [
+        230,
+        530
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "blue-frappuccino",
+      "sourceIndex": 98,
+      "cropPixels": [
+        267,
+        576
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "pistachio-date-smoothie",
+      "sourceIndex": 99,
+      "cropPixels": [
+        628,
+        925
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "thai-tea-white-mocha",
+      "sourceIndex": 100,
+      "cropPixels": [
+        253,
+        392
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "thai-tea-pink-mocha",
+      "sourceIndex": 100,
+      "cropPixels": [
+        253,
+        392
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "thai-tea-taro-mocha",
+      "sourceIndex": 100,
+      "cropPixels": [
+        253,
+        392
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "matcha-frappuccino",
+      "sourceIndex": 101,
+      "cropPixels": [
+        195,
+        449
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": true
+    },
+    {
+      "id": "mango-frappuccino",
+      "sourceIndex": 101,
+      "cropPixels": [
+        195,
+        449
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": true
+    },
+    {
+      "id": "strawberry-frappuccino",
+      "sourceIndex": 101,
+      "cropPixels": [
+        195,
+        449
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": true
+    },
+    {
+      "id": "toffee-nut-frappuccino",
+      "sourceIndex": 102,
+      "cropPixels": [
+        152,
+        240
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": true
+    },
+    {
+      "id": "hazelnut-frappuccino",
+      "sourceIndex": 102,
+      "cropPixels": [
+        152,
+        240
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": true
+    },
+    {
+      "id": "oreo-frappuccino",
+      "sourceIndex": 102,
+      "cropPixels": [
+        152,
+        240
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": true
+    },
+    {
+      "id": "vanilla-bean-frappuccino",
+      "sourceIndex": 102,
+      "cropPixels": [
+        152,
+        240
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": true
+    },
+    {
+      "id": "java-chip-frappuccino",
+      "sourceIndex": 102,
+      "cropPixels": [
+        152,
+        240
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": true
+    },
+    {
+      "id": "mocha-frappuccino",
+      "sourceIndex": 102,
+      "cropPixels": [
+        152,
+        240
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": true
+    },
+    {
+      "id": "coffee-frappuccino",
+      "sourceIndex": 102,
+      "cropPixels": [
+        152,
+        240
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": true
+    },
+    {
+      "id": "caramel-frappuccino",
+      "sourceIndex": 102,
+      "cropPixels": [
+        152,
+        240
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": true
+    },
+    {
+      "id": "espresso-frappe",
+      "sourceIndex": 102,
+      "cropPixels": [
+        152,
+        240
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": true
+    },
+    {
+      "id": "biscoff-iced-matcha",
+      "sourceIndex": 105,
+      "cropPixels": [
+        353,
+        567
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "oreo-iced-matcha",
+      "sourceIndex": 105,
+      "cropPixels": [
+        337,
+        567
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "butterfly-pea-tea-iced-matcha",
+      "sourceIndex": 106,
+      "cropPixels": [
+        221,
+        611
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "thai-tea-iced-matcha",
+      "sourceIndex": 106,
+      "cropPixels": [
+        240,
+        611
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "iced-cappuccino",
+      "sourceIndex": 107,
+      "cropPixels": [
+        261,
+        379
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "brown-sugar-oreo-matcha-latte",
+      "sourceIndex": 108,
+      "cropPixels": [
+        359,
+        631
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "orange-espresso-iced-latte",
+      "sourceIndex": 108,
+      "cropPixels": [
+        359,
+        631
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "banana-vanilla-frappuccino",
+      "sourceIndex": 109,
+      "cropPixels": [
+        348,
+        707
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "thai-tea-frappuccino",
+      "sourceIndex": 109,
+      "cropPixels": [
+        369,
+        707
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "nutella-matcha-iced-latte",
+      "sourceIndex": 110,
+      "cropPixels": [
+        449,
+        603
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "pink-nutella-iced-latte",
+      "sourceIndex": 110,
+      "cropPixels": [
+        471,
+        603
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "oreo-iced-latte",
+      "sourceIndex": 111,
+      "cropPixels": [
+        253,
+        367
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "biscoff-vanilla-iced-latte",
+      "sourceIndex": 111,
+      "cropPixels": [
+        261,
+        367
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "matcha-vanilla-iced-latte",
+      "sourceIndex": 112,
+      "cropPixels": [
+        254,
+        430
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "iced-irish-latte",
+      "sourceIndex": 112,
+      "cropPixels": [
+        254,
+        430
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "iced-cinnamon-cappuccino",
+      "sourceIndex": 113,
+      "cropPixels": [
+        212,
+        622
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": true
+    },
+    {
+      "id": "oreo-pink-iced-latte",
+      "sourceIndex": 113,
+      "cropPixels": [
+        230,
+        634
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "coconut-water-americano",
+      "sourceIndex": 114,
+      "cropPixels": [
+        221,
+        357
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "coconut-water-iced-matcha",
+      "sourceIndex": 114,
+      "cropPixels": [
+        221,
+        357
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "coconut-water-espresso-tonic",
+      "sourceIndex": 114,
+      "cropPixels": [
+        221,
+        357
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "coconut-water-vanilla-latte",
+      "sourceIndex": 114,
+      "cropPixels": [
+        221,
+        357
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "tiramisu-frappuccino",
+      "sourceIndex": 115,
+      "cropPixels": [
+        195,
+        330
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": true
+    },
+    {
+      "id": "nutella-frappuccino",
+      "sourceIndex": 115,
+      "cropPixels": [
+        195,
+        330
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": true
+    },
+    {
+      "id": "lotus-biscoff-frappuccino",
+      "sourceIndex": 115,
+      "cropPixels": [
+        195,
+        330
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": true
+    },
+    {
+      "id": "iced-americano",
+      "sourceIndex": 116,
+      "cropPixels": [
+        160,
+        341
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": true
+    },
+    {
+      "id": "butterscotch-pink-iced-latte",
+      "sourceIndex": 116,
+      "cropPixels": [
+        160,
+        341
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": true
+    },
+    {
+      "id": "blue-coconut-water-iced-matcha",
+      "sourceIndex": 117,
+      "cropPixels": [
+        370,
+        463
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "espresso-coconut-water",
+      "sourceIndex": 117,
+      "cropPixels": [
+        426,
+        463
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "iced-coffee",
+      "sourceIndex": 118,
+      "cropPixels": [
+        184,
+        193
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": true
+    },
+    {
+      "id": "caramel-latte",
+      "sourceIndex": 118,
+      "cropPixels": [
+        184,
+        193
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": true
+    },
+    {
+      "id": "vanilla-latte",
+      "sourceIndex": 118,
+      "cropPixels": [
+        184,
+        193
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": true
+    },
+    {
+      "id": "hazelnut-coffee",
+      "sourceIndex": 118,
+      "cropPixels": [
+        184,
+        193
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": true
+    },
+    {
+      "id": "irish-coffee",
+      "sourceIndex": 118,
+      "cropPixels": [
+        184,
+        193
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": true
+    },
+    {
+      "id": "dalgona-coffee",
+      "sourceIndex": 118,
+      "cropPixels": [
+        184,
+        193
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": true
+    },
+    {
+      "id": "vanilla-pink-iced-latte",
+      "sourceIndex": 119,
+      "cropPixels": [
+        411,
+        566
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "americano",
+      "sourceIndex": 121,
+      "cropPixels": [
+        149,
+        157
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": true
+    },
+    {
+      "id": "macchiato",
+      "sourceIndex": 121,
+      "cropPixels": [
+        149,
+        157
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": true
+    },
+    {
+      "id": "flat-white",
+      "sourceIndex": 121,
+      "cropPixels": [
+        149,
+        157
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": true
+    },
+    {
+      "id": "berry-chocolate-delight-shake",
+      "sourceIndex": 122,
+      "cropPixels": [
+        317,
+        528
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "chocolate-fudge-shake",
+      "sourceIndex": 124,
+      "cropPixels": [
+        317,
+        528
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "strawberry-bliss-shake",
+      "sourceIndex": 125,
+      "cropPixels": [
+        317,
+        528
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "peach-blue-espresso-tonic",
+      "sourceIndex": 126,
+      "cropPixels": [
+        563,
+        722
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "salted-caramel-shake",
+      "sourceIndex": 127,
+      "cropPixels": [
+        317,
+        528
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "lemon-mint-smoothie",
+      "sourceIndex": 131,
+      "cropPixels": [
+        574,
+        1104
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "strawberry-banana-smoothie",
+      "sourceIndex": 132,
+      "cropPixels": [
+        163,
+        287
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": true
+    },
+    {
+      "id": "mango-smoothie",
+      "sourceIndex": 132,
+      "cropPixels": [
+        163,
+        287
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": true
+    },
+    {
+      "id": "blueberry-smoothie",
+      "sourceIndex": 132,
+      "cropPixels": [
+        163,
+        287
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": true
+    },
+    {
+      "id": "green-detox-smoothie",
+      "sourceIndex": 132,
+      "cropPixels": [
+        163,
+        287
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": true
+    },
+    {
+      "id": "peanut-butter-smoothie",
+      "sourceIndex": 132,
+      "cropPixels": [
+        163,
+        287
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": true
+    },
+    {
+      "id": "chocolate-smoothie",
+      "sourceIndex": 132,
+      "cropPixels": [
+        163,
+        287
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": true
+    },
+    {
+      "id": "tropical-smoothie",
+      "sourceIndex": 132,
+      "cropPixels": [
+        163,
+        287
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": true
+    },
+    {
+      "id": "avocado-smoothie",
+      "sourceIndex": 132,
+      "cropPixels": [
+        163,
+        287
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": true
+    },
+    {
+      "id": "cherry-almond-smoothie",
+      "sourceIndex": 132,
+      "cropPixels": [
+        163,
+        287
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": true
+    },
+    {
+      "id": "vanilla-milkshake",
+      "sourceIndex": 133,
+      "cropPixels": [
+        167,
+        376
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": true
+    },
+    {
+      "id": "chocolate-milkshake",
+      "sourceIndex": 133,
+      "cropPixels": [
+        167,
+        376
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": true
+    },
+    {
+      "id": "strawberry-milkshake",
+      "sourceIndex": 133,
+      "cropPixels": [
+        167,
+        376
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": true
+    },
+    {
+      "id": "banana-milkshake",
+      "sourceIndex": 133,
+      "cropPixels": [
+        167,
+        376
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": true
+    },
+    {
+      "id": "coffee-milkshake",
+      "sourceIndex": 133,
+      "cropPixels": [
+        167,
+        376
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": true
+    },
+    {
+      "id": "butterscotch-milkshake",
+      "sourceIndex": 133,
+      "cropPixels": [
+        167,
+        376
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": true
+    },
+    {
+      "id": "lemon-iced-tea",
+      "sourceIndex": 134,
+      "cropPixels": [
+        291,
+        353
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "peach-iced-tea",
+      "sourceIndex": 134,
+      "cropPixels": [
+        291,
+        353
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "mango-iced-tea",
+      "sourceIndex": 134,
+      "cropPixels": [
+        291,
+        353
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "green-lime-iced-tea",
+      "sourceIndex": 134,
+      "cropPixels": [
+        291,
+        353
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "hibiscus-iced-tea",
+      "sourceIndex": 134,
+      "cropPixels": [
+        291,
+        353
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "ginger-iced-tea",
+      "sourceIndex": 134,
+      "cropPixels": [
+        291,
+        353
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "oreo-monster-iced-latte",
+      "sourceIndex": 136,
+      "cropPixels": [
+        696,
+        998
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "matcha-biscoff-iced-latte",
+      "sourceIndex": 137,
+      "cropPixels": [
+        390,
+        639
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "taro-salted-caramel-iced-latte",
+      "sourceIndex": 138,
+      "cropPixels": [
+        358,
+        691
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "rose-falooda",
+      "sourceIndex": 139,
+      "cropPixels": [
+        167,
+        399
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": true
+    },
+    {
+      "id": "lemon-mint-cooler",
+      "sourceIndex": 139,
+      "cropPixels": [
+        167,
+        399
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": true
+    },
+    {
+      "id": "watermelon-slush",
+      "sourceIndex": 139,
+      "cropPixels": [
+        167,
+        399
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": true
+    },
+    {
+      "id": "coconut-shake",
+      "sourceIndex": 139,
+      "cropPixels": [
+        167,
+        399
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": true
+    },
+    {
+      "id": "pineapple-cooler",
+      "sourceIndex": 139,
+      "cropPixels": [
+        167,
+        399
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": true
+    },
+    {
+      "id": "kulfi-badam-shake",
+      "sourceIndex": 139,
+      "cropPixels": [
+        167,
+        399
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": true
+    },
+    {
+      "id": "sabja-lemon-drink",
+      "sourceIndex": 139,
+      "cropPixels": [
+        167,
+        399
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": true
+    },
+    {
+      "id": "chocolate-cold-coffee",
+      "sourceIndex": 139,
+      "cropPixels": [
+        167,
+        399
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": true
+    },
+    {
+      "id": "iced-matcha-coffee",
+      "sourceIndex": 140,
+      "cropPixels": [
+        617,
+        800
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "matcha-coffee-frappuccino",
+      "sourceIndex": 141,
+      "cropPixels": [
+        451,
+        876
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "sugar-iced-cappuccino",
+      "sourceIndex": 142,
+      "cropPixels": [
+        562,
+        736
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "honey-soda",
+      "sourceIndex": 143,
+      "cropPixels": [
+        260,
+        336
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "honey-lime-soda",
+      "sourceIndex": 143,
+      "cropPixels": [
+        260,
+        336
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "orange-espresso-soda",
+      "sourceIndex": 143,
+      "cropPixels": [
+        260,
+        336
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "orange-americano",
+      "sourceIndex": 143,
+      "cropPixels": [
+        260,
+        336
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "iced-caramel-chocolate-coffee",
+      "sourceIndex": 144,
+      "cropPixels": [
+        543,
+        839
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "nutella-iced-latte",
+      "sourceIndex": 145,
+      "cropPixels": [
+        402,
+        672
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "black-forest-frappe",
+      "sourceIndex": 146,
+      "cropPixels": [
+        261,
+        375
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "tiramisu-frappe",
+      "sourceIndex": 146,
+      "cropPixels": [
+        261,
+        375
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "ovaltine-frappe",
+      "sourceIndex": 146,
+      "cropPixels": [
+        261,
+        375
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    },
+    {
+      "id": "oreo-mocha",
+      "sourceIndex": 147,
+      "cropPixels": [
+        504,
+        813
+      ],
+      "thumbnailPixels": [
+        480,
+        560
+      ],
+      "reviewed": true,
+      "lowResolutionSource": false
+    }
+  ]
+}

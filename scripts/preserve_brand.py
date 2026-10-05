@@ -1,0 +1,2 @@
+﻿from pathlib import Path
+p=Path('scripts/build_menu.py');s=p.read_text(encoding='utf8').replace("Path('data/generated-image-manifest.json')","Path('data/branded-image-manifest.json')").replace("Path('data/studio-reviewed-ids.json')","Path('data/branded-reviewed-ids.json')").replace("'AI studio recreation based on supplied poster'","'AI photo with official Mall Al Dikka logo replacing the previous cup brand'");p.write_text(s,encoding='utf8')

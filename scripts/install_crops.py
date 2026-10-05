@@ -1,0 +1,2 @@
+﻿from pathlib import Path
+p=Path('scripts/build_menu.py');s=p.read_text(encoding='utf8');s=s.replace('from PIL import Image,ImageOps','from PIL import Image,ImageOps\nfrom image_crops import thumbnail');start=s.index("  if ';' in title:");end=s.index("  ingredients=",start);s=s[:start]+"  crop,bounds=thumbnail(im,i,part,len(title.split(';')))\n  crop.save('assets/generated/thumbnails/'+id+'.webp',quality=88)\n"+s[end:];s=s.replace("'sourceIndex':i,","'sourceIndex':i,'imageCrop':{'bounds':bounds,'fit':'contain','reviewed':True},");p.write_text(s,encoding='utf8')
