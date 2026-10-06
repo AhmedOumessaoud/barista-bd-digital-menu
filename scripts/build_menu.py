@@ -53,6 +53,8 @@ if framed_path.exists():
  for m in menu:
   if m['id'] in framed and m['id'] not in retained:
    m['image']=framed[m['id']]['image'];m['brandOverlayBox']=framed[m['id']]['box']
+from drink_details import enrich
+enrich(menu,categories)
 Path('data/menu-data.js').write_text('window.MENU_CATEGORIES = '+json.dumps(categories,ensure_ascii=False)+';\nwindow.MENU_DATA = '+json.dumps(menu,ensure_ascii=False,indent=2)+';\n',encoding='utf8')
 Path('data/image-audit.json').write_text(json.dumps({'totalSourceImages':len(sources),'uniqueDrinks':len(menu),'duplicatesDetected':sum(len(m['duplicateSources']) for m in menu),'method':'All 148 posters visually reviewed in indexed contact sheets. Titles and visible recipes compared; multi-drink posters split into entries. Equivalent variants grouped without deleting originals. SHA256 retained for exact-byte comparisons. Ingredient lists intentionally partial. Unknown presence is null, not false. V60 origin guide is reference-only. Selected clear standalone posters preferred over collections.','drinks':menu,'sources':audit},ensure_ascii=False,indent=2),encoding='utf8')
 Image.open('assets/logo/mall-al-dikka-logo.png.jpeg').convert('RGB').resize((240,240),Image.Resampling.LANCZOS).save('assets/generated/logo.webp',quality=90)

@@ -32,7 +32,19 @@ window.MENU_DATA = [
       "milk": null
     },
     "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
-    "imageTreatment": "Approved existing generated photo retained without regeneration"
+    "imageTreatment": "Approved existing generated photo retained without regeneration",
+    "description": "ماتشا — ماتشا، حليب، شراب بلو كوراساو، شراب الفراولة.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "ماتشا"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "honey-banana-iced-latte",
@@ -65,7 +77,19 @@ window.MENU_DATA = [
       "milk": true
     },
     "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
-    "imageTreatment": "Approved existing generated photo retained without regeneration"
+    "imageTreatment": "Approved existing generated photo retained without regeneration",
+    "description": "لاتيه — موز، عسل، حليب، إسبريسو.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "لاتيه"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "iced-matcha-latte",
@@ -98,7 +122,19 @@ window.MENU_DATA = [
       "milk": true
     },
     "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
-    "imageTreatment": "Approved existing generated photo retained without regeneration"
+    "imageTreatment": "Approved existing generated photo retained without regeneration",
+    "description": "ماتشا — ماتشا، حليب.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "ماتشا"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "honey-oreo-iced-latte",
@@ -131,7 +167,19 @@ window.MENU_DATA = [
       "milk": true
     },
     "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
-    "imageTreatment": "Approved existing generated photo retained without regeneration"
+    "imageTreatment": "Approved existing generated photo retained without regeneration",
+    "description": "لاتيه — عسل، أوريو، حليب، إسبريسو.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "لاتيه"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "mango-forest-iced-matcha",
@@ -162,7 +210,19 @@ window.MENU_DATA = [
       "milk": null
     },
     "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
-    "imageTreatment": "Approved existing generated photo retained without regeneration"
+    "imageTreatment": "Approved existing generated photo retained without regeneration",
+    "description": "ماتشا — مانجو، ماتشا.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "ماتشا"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "oreo-pink-iced-latte-lemon-cream",
@@ -193,7 +253,19 @@ window.MENU_DATA = [
       "milk": true
     },
     "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
-    "imageTreatment": "Approved existing generated photo retained without regeneration"
+    "imageTreatment": "Approved existing generated photo retained without regeneration",
+    "description": "لاتيه — أوريو، ليمون.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "لاتيه"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "caramel-macchiato",
@@ -228,14 +300,23 @@ window.MENU_DATA = [
       "milk": null
     },
     "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
-    "imageTreatment": "Approved existing generated photo retained without regeneration"
+    "imageTreatment": "Approved existing generated photo retained without regeneration",
+    "description": "قهوة — إسبريسو، حليب، فانيلا، كراميل.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "قهوة"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "espresso",
     "name": "Espresso",
     "category": "coffee",
     "ingredients": [
-      "قهوة"
+      "قهوة",
+      "إسبريسو"
     ],
     "image": "assets/generated/studio/espresso.webp",
     "source": "assets/source-images/WhatsApp Image 2026-10-05 at 14.38.43 (2).jpeg",
@@ -260,7 +341,15 @@ window.MENU_DATA = [
       "milk": null
     },
     "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
-    "imageTreatment": "Approved existing generated photo retained without regeneration"
+    "imageTreatment": "Approved existing generated photo retained without regeneration",
+    "description": "قهوة — قهوة، إسبريسو.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "قهوة"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "cappuccino",
@@ -294,7 +383,15 @@ window.MENU_DATA = [
       "milk": true
     },
     "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
-    "imageTreatment": "Approved existing generated photo retained without regeneration"
+    "imageTreatment": "Approved existing generated photo retained without regeneration",
+    "description": "قهوة — إسبريسو، حليب.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "قهوة"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "tropical-sunrise",
@@ -326,7 +423,15 @@ window.MENU_DATA = [
       "milk": null
     },
     "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
-    "imageTreatment": "Approved existing generated photo retained without regeneration"
+    "imageTreatment": "Approved existing generated photo retained without regeneration",
+    "description": "مشروبات منعشة — برتقال، أناناس، غرينادين.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "مشروبات منعشة"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "peach-raspberry-elegance-smoothie",
@@ -360,7 +465,19 @@ window.MENU_DATA = [
       "milk": null
     },
     "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
-    "imageTreatment": "Approved existing generated photo retained without regeneration"
+    "imageTreatment": "Approved existing generated photo retained without regeneration",
+    "description": "سموذي — خوخ، توت العليق، زبادي يوناني، عصير تفاح.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "سموذي"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "tropical-coconut-dream-smoothie",
@@ -394,7 +511,19 @@ window.MENU_DATA = [
       "milk": null
     },
     "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
-    "imageTreatment": "Approved existing generated photo retained without regeneration"
+    "imageTreatment": "Approved existing generated photo retained without regeneration",
+    "description": "سموذي — أناناس، مانجو، حليب جوز الهند، موز.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "سموذي"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "strawberry-cheesecake-milkshake",
@@ -424,7 +553,19 @@ window.MENU_DATA = [
       "milk": true
     },
     "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
-    "imageTreatment": "Approved existing generated photo retained without regeneration"
+    "imageTreatment": "Approved existing generated photo retained without regeneration",
+    "description": "ميلك شيك — فراولة.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "ميلك شيك"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "chocolate-brownie-milkshake",
@@ -457,7 +598,19 @@ window.MENU_DATA = [
       "milk": true
     },
     "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
-    "imageTreatment": "Approved existing generated photo retained without regeneration"
+    "imageTreatment": "Approved existing generated photo retained without regeneration",
+    "description": "ميلك شيك — شوكولاتة، براوني.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "ميلك شيك"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "mango-royale-milkshake",
@@ -487,7 +640,19 @@ window.MENU_DATA = [
       "milk": true
     },
     "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
-    "imageTreatment": "Approved existing generated photo retained without regeneration"
+    "imageTreatment": "Approved existing generated photo retained without regeneration",
+    "description": "ميلك شيك — مانجو.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "ميلك شيك"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "nutella-hazelnut-milkshake",
@@ -518,14 +683,27 @@ window.MENU_DATA = [
       "milk": true
     },
     "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
-    "imageTreatment": "Approved existing generated photo retained without regeneration"
+    "imageTreatment": "Approved existing generated photo retained without regeneration",
+    "description": "ميلك شيك — نوتيلا، بندق.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "ميلك شيك"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "caramel-coffee-milkshake",
     "name": "Caramel Coffee Milkshake",
     "category": "shake",
     "ingredients": [
-      "كراميل"
+      "كراميل",
+      "قهوة"
     ],
     "image": "assets/generated/studio/caramel-coffee-milkshake.webp",
     "source": "assets/source-images/WhatsApp Image 2026-10-05 at 14.37.25 (1).jpeg",
@@ -548,7 +726,19 @@ window.MENU_DATA = [
       "milk": true
     },
     "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
-    "imageTreatment": "Approved existing generated photo retained without regeneration"
+    "imageTreatment": "Approved existing generated photo retained without regeneration",
+    "description": "ميلك شيك — كراميل، قهوة.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "ميلك شيك"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "oreo-crunch-milkshake",
@@ -578,7 +768,19 @@ window.MENU_DATA = [
       "milk": true
     },
     "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
-    "imageTreatment": "Approved existing generated photo retained without regeneration"
+    "imageTreatment": "Approved existing generated photo retained without regeneration",
+    "description": "ميلك شيك — أوريو.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "ميلك شيك"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "strawberry-iced-latte-lemon-cream",
@@ -611,7 +813,19 @@ window.MENU_DATA = [
       "milk": true
     },
     "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
-    "imageTreatment": "Approved existing generated photo retained without regeneration"
+    "imageTreatment": "Approved existing generated photo retained without regeneration",
+    "description": "لاتيه — فراولة، ليمون.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "لاتيه"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "biscoff-honey-matcha-lemon-cream",
@@ -646,14 +860,23 @@ window.MENU_DATA = [
       "milk": null
     },
     "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
-    "imageTreatment": "Approved existing generated photo retained without regeneration"
+    "imageTreatment": "Approved existing generated photo retained without regeneration",
+    "description": "ماتشا — بسكويت لوتس، عسل، ليمون، ماتشا.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "ماتشا"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "brownie-dalgona-coffee",
     "name": "Brownie Dalgona Coffee",
     "category": "coffee",
     "ingredients": [
-      "براوني"
+      "براوني",
+      "قهوة"
     ],
     "image": "assets/generated/studio/brownie-dalgona-coffee.webp",
     "source": "assets/source-images/WhatsApp Image 2026-10-05 at 14.37.28 (1).jpeg",
@@ -676,7 +899,15 @@ window.MENU_DATA = [
       "milk": null
     },
     "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
-    "imageTreatment": "Approved existing generated photo retained without regeneration"
+    "imageTreatment": "Approved existing generated photo retained without regeneration",
+    "description": "قهوة — براوني، قهوة.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "قهوة"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "oreo-banana-iced-latte-tiramisu-cream",
@@ -708,14 +939,27 @@ window.MENU_DATA = [
       "milk": true
     },
     "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
-    "imageTreatment": "Approved existing generated photo retained without regeneration"
+    "imageTreatment": "Approved existing generated photo retained without regeneration",
+    "description": "لاتيه — أوريو، موز، كريمة تيراميسو.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "لاتيه"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "banana-dalgona-coffee",
     "name": "Banana Dalgona Coffee",
     "category": "coffee",
     "ingredients": [
-      "موز"
+      "موز",
+      "قهوة"
     ],
     "image": "assets/generated/studio/banana-dalgona-coffee.webp",
     "source": "assets/source-images/WhatsApp Image 2026-10-05 at 14.37.28.jpeg",
@@ -738,7 +982,15 @@ window.MENU_DATA = [
       "milk": null
     },
     "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
-    "imageTreatment": "Approved existing generated photo retained without regeneration"
+    "imageTreatment": "Approved existing generated photo retained without regeneration",
+    "description": "قهوة — موز، قهوة.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "قهوة"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "oreo-matcha-dalgona-mocha",
@@ -769,7 +1021,15 @@ window.MENU_DATA = [
       "milk": null
     },
     "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
-    "imageTreatment": "Approved existing generated photo retained without regeneration"
+    "imageTreatment": "Approved existing generated photo retained without regeneration",
+    "description": "ماتشا — أوريو، ماتشا.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "ماتشا"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "blue-dalgona-mocha",
@@ -797,7 +1057,15 @@ window.MENU_DATA = [
       "milk": null
     },
     "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
-    "imageTreatment": "Approved existing generated photo retained without regeneration"
+    "imageTreatment": "Approved existing generated photo retained without regeneration",
+    "description": "موكا من قائمة مول الدكة.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "موكا"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "strawberry-dalgona-mocha",
@@ -827,7 +1095,15 @@ window.MENU_DATA = [
       "milk": null
     },
     "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
-    "imageTreatment": "Approved existing generated photo retained without regeneration"
+    "imageTreatment": "Approved existing generated photo retained without regeneration",
+    "description": "موكا — فراولة.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "موكا"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "lemon-cinnamon-cold-brew",
@@ -835,7 +1111,8 @@ window.MENU_DATA = [
     "category": "cold",
     "ingredients": [
       "ليمون",
-      "قرفة"
+      "قرفة",
+      "قهوة كولد برو"
     ],
     "image": "assets/generated/studio/lemon-cinnamon-cold-brew.webp",
     "source": "assets/source-images/WhatsApp Image 2026-10-05 at 14.37.30 (1).jpeg",
@@ -858,7 +1135,19 @@ window.MENU_DATA = [
       "milk": null
     },
     "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
-    "imageTreatment": "Approved existing generated photo retained without regeneration"
+    "imageTreatment": "Approved existing generated photo retained without regeneration",
+    "description": "كولد برو — ليمون، قرفة، قهوة كولد برو.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "كولد برو"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "oreo-caramel-chocolate-dalgona-coffee",
@@ -867,7 +1156,8 @@ window.MENU_DATA = [
     "ingredients": [
       "كراميل",
       "أوريو",
-      "شوكولاتة"
+      "شوكولاتة",
+      "قهوة"
     ],
     "image": "assets/generated/studio/oreo-caramel-chocolate-dalgona-coffee.webp",
     "source": "assets/source-images/WhatsApp Image 2026-10-05 at 14.37.30.jpeg",
@@ -890,7 +1180,15 @@ window.MENU_DATA = [
       "milk": null
     },
     "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
-    "imageTreatment": "Approved existing generated photo retained without regeneration"
+    "imageTreatment": "Approved existing generated photo retained without regeneration",
+    "description": "قهوة — كراميل، أوريو، شوكولاتة، قهوة.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "قهوة"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "white-chocolate-banana-mocha",
@@ -898,7 +1196,8 @@ window.MENU_DATA = [
     "category": "mocha",
     "ingredients": [
       "موز",
-      "شوكولاتة"
+      "شوكولاتة",
+      "شوكولاتة بيضاء"
     ],
     "image": "assets/generated/studio/white-chocolate-banana-mocha.webp",
     "source": "assets/source-images/WhatsApp Image 2026-10-05 at 14.37.31 (1).jpeg",
@@ -921,7 +1220,15 @@ window.MENU_DATA = [
       "milk": null
     },
     "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
-    "imageTreatment": "Approved existing generated photo retained without regeneration"
+    "imageTreatment": "Approved existing generated photo retained without regeneration",
+    "description": "موكا — موز، شوكولاتة، شوكولاتة بيضاء.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "موكا"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "iced-matcha-mocha-tiramisu-cream",
@@ -954,14 +1261,27 @@ window.MENU_DATA = [
       "milk": null
     },
     "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
-    "imageTreatment": "Approved existing generated photo retained without regeneration"
+    "imageTreatment": "Approved existing generated photo retained without regeneration",
+    "description": "ماتشا — ماتشا، كريمة تيراميسو.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "ماتشا"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "tiramisu-cream-cold-brew",
     "name": "Tiramisu Cream Cold Brew",
     "category": "cold",
     "ingredients": [
-      "كريمة تيراميسو"
+      "كريمة تيراميسو",
+      "قهوة كولد برو"
     ],
     "image": "assets/generated/framed/tiramisu-cream-cold-brew.webp",
     "source": "assets/source-images/WhatsApp Image 2026-10-05 at 14.37.31.jpeg",
@@ -991,7 +1311,19 @@ window.MENU_DATA = [
       41.5541095890411,
       38.74612244897959
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "كولد برو — كريمة تيراميسو، قهوة كولد برو.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "كولد برو"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "black-forest-matcha",
@@ -1028,7 +1360,15 @@ window.MENU_DATA = [
       41.03802395209581,
       34.75238709677419
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "ماتشا — ماتشا.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "ماتشا"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "vanilla-matcha-tiramisu-cream",
@@ -1067,7 +1407,15 @@ window.MENU_DATA = [
       38.24166666666667,
       37.94645045045045
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "ماتشا — ماتشا، كريمة تيراميسو، فانيلا.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "ماتشا"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "spanish-iced-latte-tiramisu-cream",
@@ -1104,7 +1452,19 @@ window.MENU_DATA = [
       36.390750000000004,
       35.39277108433735
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "لاتيه — كريمة تيراميسو.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "لاتيه"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "coconut-water-cinnamon-iced-matcha",
@@ -1143,7 +1503,23 @@ window.MENU_DATA = [
       31.459999999999997,
       27.243318518518514
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "ماتشا — قرفة، ماتشا، ماء جوز الهند.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "ماتشا"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      },
+      {
+        "label": "القاعدة المذكورة",
+        "value": "ماء جوز الهند"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "banana-vanilla-oreo-iced-latte-tiramisu-cream",
@@ -1183,7 +1559,19 @@ window.MENU_DATA = [
       33.9991124260355,
       32.99964444444444
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "لاتيه — أوريو، موز، كريمة تيراميسو، فانيلا.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "لاتيه"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "vanilla-oreo-pink-iced-latte-tiramisu-cream",
@@ -1222,7 +1610,19 @@ window.MENU_DATA = [
       43.05306164383561,
       32.142784
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "لاتيه — أوريو، كريمة تيراميسو، فانيلا.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "لاتيه"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "strawberry-pistachio-mocha",
@@ -1260,7 +1660,15 @@ window.MENU_DATA = [
       41.262271875,
       38.57674576271187
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "موكا — فراولة، فستق.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "موكا"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "white-chocolate-strawberry-mocha",
@@ -1268,7 +1676,8 @@ window.MENU_DATA = [
     "category": "mocha",
     "ingredients": [
       "فراولة",
-      "شوكولاتة"
+      "شوكولاتة",
+      "شوكولاتة بيضاء"
     ],
     "image": "assets/generated/framed/white-chocolate-strawberry-mocha.webp",
     "source": "assets/source-images/WhatsApp Image 2026-10-05 at 14.37.38.jpeg",
@@ -1298,14 +1707,23 @@ window.MENU_DATA = [
       38.62344827586207,
       38.734036363636356
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "موكا — فراولة، شوكولاتة، شوكولاتة بيضاء.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "موكا"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "espresso-cold-tiramisu-cream",
     "name": "Espresso Cold Tiramisu Cream",
     "category": "coffee",
     "ingredients": [
-      "كريمة تيراميسو"
+      "كريمة تيراميسو",
+      "إسبريسو"
     ],
     "image": "assets/generated/framed/espresso-cold-tiramisu-cream.webp",
     "source": "assets/source-images/WhatsApp Image 2026-10-05 at 14.37.39 (1).jpeg",
@@ -1335,7 +1753,15 @@ window.MENU_DATA = [
       36.887522727272724,
       31.131733333333333
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "قهوة — كريمة تيراميسو، إسبريسو.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "قهوة"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "oreo-coconut-espresso-tiramisu-cream",
@@ -1343,7 +1769,8 @@ window.MENU_DATA = [
     "category": "coffee",
     "ingredients": [
       "أوريو",
-      "كريمة تيراميسو"
+      "كريمة تيراميسو",
+      "إسبريسو"
     ],
     "image": "assets/generated/framed/oreo-coconut-espresso-tiramisu-cream.webp",
     "source": "assets/source-images/WhatsApp Image 2026-10-05 at 14.37.39 (2).jpeg",
@@ -1373,7 +1800,15 @@ window.MENU_DATA = [
       37.893214285714286,
       31.63659842519685
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "قهوة — أوريو، كريمة تيراميسو، إسبريسو.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "قهوة"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "iced-latte",
@@ -1415,7 +1850,19 @@ window.MENU_DATA = [
       36.91550815217391,
       32.99964444444444
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "لاتيه من قائمة مول الدكة.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "لاتيه"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "iced-mocha",
@@ -1450,7 +1897,19 @@ window.MENU_DATA = [
       35.44176315789474,
       31.78910188679245
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "موكا من قائمة مول الدكة.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "موكا"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "strawberry-tiramisu-cream-mocha",
@@ -1488,7 +1947,15 @@ window.MENU_DATA = [
       47.44858757062147,
       50.00103960396039
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "موكا — فراولة، كريمة تيراميسو.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "موكا"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "coconut-water-honey-matcha",
@@ -1527,7 +1994,19 @@ window.MENU_DATA = [
       40.92142857142857,
       36.74064285714285
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "ماتشا — عسل، ماتشا، ماء جوز الهند.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "ماتشا"
+      },
+      {
+        "label": "القاعدة المذكورة",
+        "value": "ماء جوز الهند"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "oat-milk-english-tea-tiramisu-cream",
@@ -1566,7 +2045,19 @@ window.MENU_DATA = [
       38.18943529411765,
       32.27069918699187
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "شاي مثلج — كريمة تيراميسو، حليب الشوفان، شاي إنجليزي.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "شاي مثلج"
+      },
+      {
+        "label": "الحليب المذكور",
+        "value": "حليب الشوفان"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "black-tea-iced-mocha",
@@ -1603,7 +2094,19 @@ window.MENU_DATA = [
       34.377873563218394,
       29.732554307116107
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "موكا — شاي أسود.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "موكا"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "black-tea-matcha-cream",
@@ -1641,7 +2144,15 @@ window.MENU_DATA = [
       39.418078488372096,
       32.63701098901099
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "ماتشا — ماتشا، شاي أسود.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "ماتشا"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "iced-strawberry-black-tea",
@@ -1679,7 +2190,19 @@ window.MENU_DATA = [
       38.35414012738853,
       35.48184615384615
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "شاي مثلج — فراولة، شاي أسود.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "شاي مثلج"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "white-chocolate-caramel-black-tea",
@@ -1688,7 +2211,8 @@ window.MENU_DATA = [
     "ingredients": [
       "كراميل",
       "شوكولاتة",
-      "شاي أسود"
+      "شاي أسود",
+      "شوكولاتة بيضاء"
     ],
     "image": "assets/generated/framed/white-chocolate-caramel-black-tea.webp",
     "source": "assets/source-images/WhatsApp Image 2026-10-05 at 14.38.36 (4).jpeg",
@@ -1718,7 +2242,15 @@ window.MENU_DATA = [
       39.26691447368422,
       36.22633070866142
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "شاي مثلج — كراميل، شوكولاتة، شاي أسود، شوكولاتة بيضاء.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "شاي مثلج"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "thai-iced-tea-mocha",
@@ -1753,7 +2285,19 @@ window.MENU_DATA = [
       38.048924731182794,
       35.52698069498069
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "موكا من قائمة مول الدكة.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "موكا"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "banana-salted-caramel-black-tea",
@@ -1762,7 +2306,8 @@ window.MENU_DATA = [
     "ingredients": [
       "كراميل",
       "موز",
-      "شاي أسود"
+      "شاي أسود",
+      "كراميل مملح"
     ],
     "image": "assets/generated/framed/banana-salted-caramel-black-tea.webp",
     "source": "assets/source-images/WhatsApp Image 2026-10-05 at 14.38.37 (2).jpeg",
@@ -1792,7 +2337,15 @@ window.MENU_DATA = [
       35.76702941176471,
       35.251200000000004
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "شاي مثلج — كراميل، موز، شاي أسود، كراميل مملح.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "شاي مثلج"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "orange-iced-black-tea",
@@ -1830,7 +2383,19 @@ window.MENU_DATA = [
       37.05,
       37.63577292576419
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "شاي مثلج — شاي أسود، برتقال.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "شاي مثلج"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "vanilla-black-tea-dark-chocolate-sundae",
@@ -1839,7 +2404,8 @@ window.MENU_DATA = [
     "ingredients": [
       "شوكولاتة",
       "فانيلا",
-      "شاي أسود"
+      "شاي أسود",
+      "شوكولاتة داكنة"
     ],
     "image": "assets/generated/framed/vanilla-black-tea-dark-chocolate-sundae.webp",
     "source": "assets/source-images/WhatsApp Image 2026-10-05 at 14.38.37 (4).jpeg",
@@ -1869,7 +2435,15 @@ window.MENU_DATA = [
       36.497452095808384,
       32.77864591439689
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "شاي مثلج — شوكولاتة، فانيلا، شاي أسود، شوكولاتة داكنة.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "شاي مثلج"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "biscoff-iced-matcha-mocha",
@@ -1907,7 +2481,19 @@ window.MENU_DATA = [
       40.42559523809524,
       38.90004460966542
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "ماتشا — بسكويت لوتس، ماتشا.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "ماتشا"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "banana-iced-mocha",
@@ -1944,7 +2530,19 @@ window.MENU_DATA = [
       37.013818965517245,
       34.69606299212599
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "موكا — موز.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "موكا"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "strawberry-mango-iced-matcha",
@@ -1983,7 +2581,19 @@ window.MENU_DATA = [
       38.72614792899409,
       36.63423423423423
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "ماتشا — فراولة، مانجو، ماتشا.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "ماتشا"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "oat-milk-mango-iced-latte",
@@ -2021,14 +2631,31 @@ window.MENU_DATA = [
       40.23157894736842,
       28.41562085308057
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "لاتيه — مانجو، حليب الشوفان.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "لاتيه"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      },
+      {
+        "label": "الحليب المذكور",
+        "value": "حليب الشوفان"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "lemon-cream-cold-brew",
     "name": "Lemon Cream Cold Brew",
     "category": "cold",
     "ingredients": [
-      "ليمون"
+      "ليمون",
+      "قهوة كولد برو"
     ],
     "image": "assets/generated/framed/lemon-cream-cold-brew.webp",
     "source": "assets/source-images/WhatsApp Image 2026-10-05 at 14.38.38 (4).jpeg",
@@ -2058,7 +2685,19 @@ window.MENU_DATA = [
       29.278700000000004,
       25.453473684210522
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "كولد برو — ليمون، قهوة كولد برو.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "كولد برو"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "iced-latte-matcha-tiramisu-cream",
@@ -2096,7 +2735,19 @@ window.MENU_DATA = [
       33.79504615384615,
       31.433253731343285
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "ماتشا — ماتشا، كريمة تيراميسو.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "ماتشا"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "blue-iced-black-tea",
@@ -2133,7 +2784,19 @@ window.MENU_DATA = [
       37.3664481707317,
       33.76089302325581
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "شاي مثلج — شاي أسود.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "شاي مثلج"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "lemon-cream-strawberry-matcha",
@@ -2172,7 +2835,15 @@ window.MENU_DATA = [
       36.73548387096774,
       33.945835497835496
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "ماتشا — فراولة، ليمون، ماتشا.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "ماتشا"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "strawberry-ube-oat-milk-latte",
@@ -2211,7 +2882,19 @@ window.MENU_DATA = [
       35.0204081632653,
       31.599206611570246
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "لاتيه — فراولة، حليب الشوفان، أوبي.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "لاتيه"
+      },
+      {
+        "label": "الحليب المذكور",
+        "value": "حليب الشوفان"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "orange-matcha-lemon-cream",
@@ -2250,7 +2933,15 @@ window.MENU_DATA = [
       30.015951724137928,
       28.436767346938773
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "ماتشا — ليمون، ماتشا، برتقال.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "ماتشا"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "coconut-water-matcha-lemon-cream",
@@ -2289,7 +2980,19 @@ window.MENU_DATA = [
       34.6947610619469,
       32.010451612903225
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "ماتشا — ليمون، ماتشا، ماء جوز الهند.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "ماتشا"
+      },
+      {
+        "label": "القاعدة المذكورة",
+        "value": "ماء جوز الهند"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "blue-vanilla-iced-latte",
@@ -2326,7 +3029,19 @@ window.MENU_DATA = [
       42.13026,
       38.64839461883408
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "لاتيه — فانيلا.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "لاتيه"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "ube-strawberry-iced-matcha",
@@ -2365,7 +3080,19 @@ window.MENU_DATA = [
       32.77316197183099,
       28.05838961038961
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "ماتشا — فراولة، ماتشا، أوبي.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "ماتشا"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "vanilla-mint-mocha",
@@ -2403,7 +3130,15 @@ window.MENU_DATA = [
       33.35370279720279,
       30.118639004149376
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "موكا — فانيلا، نعناع.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "موكا"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "blue-mint-latte",
@@ -2440,7 +3175,15 @@ window.MENU_DATA = [
       37.88763428571429,
       36.71012903225807
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "لاتيه — نعناع.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "لاتيه"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "apple-cold-brew-lemon-cream",
@@ -2448,7 +3191,8 @@ window.MENU_DATA = [
     "category": "cold",
     "ingredients": [
       "ليمون",
-      "تفاح"
+      "تفاح",
+      "قهوة كولد برو"
     ],
     "image": "assets/generated/framed/apple-cold-brew-lemon-cream.webp",
     "source": "assets/source-images/WhatsApp Image 2026-10-05 at 14.38.40 (3).jpeg",
@@ -2478,7 +3222,19 @@ window.MENU_DATA = [
       44.089301886792455,
       24.50043192488263
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "كولد برو — ليمون، تفاح، قهوة كولد برو.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "كولد برو"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "oreo-matcha-tiramisu-cream",
@@ -2517,7 +3273,15 @@ window.MENU_DATA = [
       44.9455625,
       26.200971962616816
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "ماتشا — أوريو، ماتشا، كريمة تيراميسو.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "ماتشا"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "oat-milk-ube-oreo-latte",
@@ -2556,7 +3320,19 @@ window.MENU_DATA = [
       38.95729838709677,
       36.805952000000005
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "لاتيه — أوريو، حليب الشوفان، أوبي.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "لاتيه"
+      },
+      {
+        "label": "الحليب المذكور",
+        "value": "حليب الشوفان"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "oat-milk-caramel-iced-latte",
@@ -2594,7 +3370,23 @@ window.MENU_DATA = [
       30.60327868852459,
       23.39887364620938
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "لاتيه — كراميل، حليب الشوفان.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "لاتيه"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      },
+      {
+        "label": "الحليب المذكور",
+        "value": "حليب الشوفان"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "caramel-americano-lemon-cream",
@@ -2632,7 +3424,15 @@ window.MENU_DATA = [
       37.240819018404906,
       33.51063247863248
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "قهوة — كراميل، ليمون.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "قهوة"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "coconut-water-matcha-cream",
@@ -2670,14 +3470,27 @@ window.MENU_DATA = [
       36.79150326797386,
       22.372
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "ماتشا — ماتشا، ماء جوز الهند.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "ماتشا"
+      },
+      {
+        "label": "القاعدة المذكورة",
+        "value": "ماء جوز الهند"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "honey-cold-brew-honey-cream",
     "name": "Honey Cold Brew Honey Cream",
     "category": "cold",
     "ingredients": [
-      "عسل"
+      "عسل",
+      "قهوة كولد برو"
     ],
     "image": "assets/generated/framed/honey-cold-brew-honey-cream.webp",
     "source": "assets/source-images/WhatsApp Image 2026-10-05 at 14.38.41 (3).jpeg",
@@ -2707,14 +3520,27 @@ window.MENU_DATA = [
       40.488916149068324,
       27.435311627906977
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "كولد برو — عسل، قهوة كولد برو.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "كولد برو"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "strawberry-dalgona-coffee",
     "name": "Strawberry Dalgona Coffee",
     "category": "coffee",
     "ingredients": [
-      "فراولة"
+      "فراولة",
+      "قهوة"
     ],
     "image": "assets/generated/framed/strawberry-dalgona-coffee.webp",
     "source": "assets/source-images/WhatsApp Image 2026-10-05 at 14.38.41 (4).jpeg",
@@ -2744,14 +3570,23 @@ window.MENU_DATA = [
       48.087385542168676,
       31.311536231884055
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "قهوة — فراولة، قهوة.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "قهوة"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "caramel-cold-brew-choco-cream",
     "name": "Caramel Cold Brew Choco Cream",
     "category": "cold",
     "ingredients": [
-      "كراميل"
+      "كراميل",
+      "قهوة كولد برو"
     ],
     "image": "assets/generated/framed/caramel-cold-brew-choco-cream.webp",
     "source": "assets/source-images/WhatsApp Image 2026-10-05 at 14.38.41 (5).jpeg",
@@ -2781,7 +3616,19 @@ window.MENU_DATA = [
       38.04519677419355,
       34.49013861386138
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "كولد برو — كراميل، قهوة كولد برو.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "كولد برو"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "strawberry-iced-matcha-lemon-cream",
@@ -2820,7 +3667,19 @@ window.MENU_DATA = [
       35.17250000000001,
       24.27523595505618
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "ماتشا — فراولة، ليمون، ماتشا.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "ماتشا"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "espresso-lemon-coconut-water-honey-cream",
@@ -2829,7 +3688,8 @@ window.MENU_DATA = [
     "ingredients": [
       "عسل",
       "ليمون",
-      "ماء جوز الهند"
+      "ماء جوز الهند",
+      "إسبريسو"
     ],
     "image": "assets/generated/framed/espresso-lemon-coconut-water-honey-cream.webp",
     "source": "assets/source-images/WhatsApp Image 2026-10-05 at 14.38.42 (1).jpeg",
@@ -2859,7 +3719,19 @@ window.MENU_DATA = [
       39.47014925373134,
       25.729977528089886
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "قهوة — عسل، ليمون، ماء جوز الهند، إسبريسو.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "قهوة"
+      },
+      {
+        "label": "القاعدة المذكورة",
+        "value": "ماء جوز الهند"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "dalgona-honey-matcha",
@@ -2897,7 +3769,15 @@ window.MENU_DATA = [
       33.22668539325843,
       30.52214492753623
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "ماتشا — عسل، ماتشا.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "ماتشا"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "cookies-cream-milkshake",
@@ -2932,7 +3812,19 @@ window.MENU_DATA = [
       "matcha": null,
       "milk": true
     },
-    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted."
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "description": "ميلك شيك — أوريو، حليب، آيس كريم فانيلا، شوكولاتة.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "ميلك شيك"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "mango-milkshake",
@@ -2967,7 +3859,19 @@ window.MENU_DATA = [
       "matcha": null,
       "milk": true
     },
-    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted."
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "description": "ميلك شيك — مانجو، حليب، آيس كريم فانيلا.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "ميلك شيك"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "mocha-latte",
@@ -3000,7 +3904,15 @@ window.MENU_DATA = [
       "matcha": null,
       "milk": true
     },
-    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted."
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "description": "موكا — إسبريسو، حليب، شوكولاتة.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "موكا"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "shirley-temple",
@@ -3031,7 +3943,15 @@ window.MENU_DATA = [
       "matcha": null,
       "milk": null
     },
-    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted."
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "description": "مشروبات منعشة — مشروب الزنجبيل الغازي، غرينادين، ليمون أخضر.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "مشروبات منعشة"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "blue-lagoon",
@@ -3062,7 +3982,15 @@ window.MENU_DATA = [
       "matcha": null,
       "milk": null
     },
-    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted."
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "description": "مشروبات منعشة — شراب بلو كوراساو، ليمون، ليمونادة.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "مشروبات منعشة"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "cucumber-mint-cooler",
@@ -3094,7 +4022,19 @@ window.MENU_DATA = [
       "matcha": null,
       "milk": null
     },
-    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted."
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "description": "مشروبات منعشة — خيار، نعناع، ليمون، ماء غازي.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "مشروبات منعشة"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "caff-latte",
@@ -3127,7 +4067,15 @@ window.MENU_DATA = [
       "matcha": null,
       "milk": true
     },
-    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted."
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "description": "لاتيه — إسبريسو، حليب.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "لاتيه"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "virgin-pi-a-colada",
@@ -3157,7 +4105,15 @@ window.MENU_DATA = [
       "matcha": null,
       "milk": null
     },
-    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted."
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "description": "مشروبات منعشة — أناناس، كريمة جوز الهند.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "مشروبات منعشة"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "green-detox-supreme-smoothie",
@@ -3191,7 +4147,19 @@ window.MENU_DATA = [
       "matcha": null,
       "milk": null
     },
-    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted."
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "description": "سموذي — تفاح أخضر، سبانخ، خيار، أناناس.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "سموذي"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "chocolate-hazelnut-smoothie",
@@ -3201,7 +4169,8 @@ window.MENU_DATA = [
       "موز",
       "كاكاو",
       "بندق",
-      "حليب"
+      "حليب",
+      "شوكولاتة"
     ],
     "image": "assets/generated/thumbnails/chocolate-hazelnut-smoothie.webp",
     "source": "assets/source-images/WhatsApp Image 2026-10-05 at 14.38.45 (4).jpeg",
@@ -3223,7 +4192,19 @@ window.MENU_DATA = [
       "matcha": null,
       "milk": null
     },
-    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted."
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "description": "سموذي — موز، كاكاو، بندق، حليب.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "سموذي"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "avocado-honey-cream-smoothie",
@@ -3256,7 +4237,19 @@ window.MENU_DATA = [
       "matcha": null,
       "milk": null
     },
-    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted."
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "description": "سموذي — أفوكادو، موز، حليب، زبادي يوناني.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "سموذي"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "passion-fruit-fizz",
@@ -3285,7 +4278,15 @@ window.MENU_DATA = [
       "matcha": null,
       "milk": null
     },
-    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted."
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "description": "مشروبات منعشة — فاكهة الباشن.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "مشروبات منعشة"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "berry-velvet-smoothie",
@@ -3319,7 +4320,19 @@ window.MENU_DATA = [
       "matcha": null,
       "milk": null
     },
-    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted."
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "description": "سموذي — فراولة، توت أزرق، توت العليق، زبادي يوناني.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "سموذي"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "mango-passion-bliss-smoothie",
@@ -3352,7 +4365,19 @@ window.MENU_DATA = [
       "matcha": null,
       "milk": null
     },
-    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted."
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "description": "سموذي — مانجو، فاكهة الباشن، زبادي يوناني، برتقال.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "سموذي"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "taro-iced-matcha",
@@ -3392,7 +4417,19 @@ window.MENU_DATA = [
       25.833,
       22.143
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "ماتشا — ماتشا، تارو.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "ماتشا"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "blue-frappuccino",
@@ -3431,7 +4468,19 @@ window.MENU_DATA = [
       26.667,
       22.857
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "فرابيه من قائمة مول الدكة.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "فرابيه"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "pistachio-date-smoothie",
@@ -3464,7 +4513,19 @@ window.MENU_DATA = [
       "matcha": null,
       "milk": null
     },
-    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted."
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "description": "سموذي — تمر، فستق، موز، حليب.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "سموذي"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "thai-tea-white-mocha",
@@ -3501,7 +4562,15 @@ window.MENU_DATA = [
       37.5,
       35.0
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "موكا — شاي تايلندي.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "موكا"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "thai-tea-pink-mocha",
@@ -3538,7 +4607,15 @@ window.MENU_DATA = [
       39.167,
       35.714
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "موكا — شاي تايلندي.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "موكا"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "thai-tea-taro-mocha",
@@ -3576,7 +4653,15 @@ window.MENU_DATA = [
       39.167,
       33.214
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "موكا — شاي تايلندي، تارو.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "موكا"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "matcha-frappuccino",
@@ -3613,7 +4698,19 @@ window.MENU_DATA = [
       30.833,
       18.929
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "فرابيه — ماتشا.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "فرابيه"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "mango-frappuccino",
@@ -3650,7 +4747,19 @@ window.MENU_DATA = [
       30.0,
       19.286
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "فرابيه — مانجو.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "فرابيه"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "strawberry-frappuccino",
@@ -3687,13 +4796,27 @@ window.MENU_DATA = [
       20.833,
       20.357
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "فرابيه — فراولة.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "فرابيه"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "toffee-nut-frappuccino",
     "name": "Toffee Nut Frappuccino",
     "category": "frappe",
-    "ingredients": [],
+    "ingredients": [
+      "توفي"
+    ],
     "image": "assets/generated/thumbnails/toffee-nut-frappuccino.webp",
     "source": "assets/source-images/WhatsApp Image 2026-10-05 at 15.14.54.jpeg",
     "sourceIndex": 102,
@@ -3714,7 +4837,19 @@ window.MENU_DATA = [
       "matcha": null,
       "milk": null
     },
-    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted."
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "description": "فرابيه — توفي.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "فرابيه"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "hazelnut-frappuccino",
@@ -3743,7 +4878,19 @@ window.MENU_DATA = [
       "matcha": null,
       "milk": null
     },
-    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted."
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "description": "فرابيه — بندق.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "فرابيه"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "oreo-frappuccino",
@@ -3772,7 +4919,19 @@ window.MENU_DATA = [
       "matcha": null,
       "milk": null
     },
-    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted."
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "description": "فرابيه — أوريو.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "فرابيه"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "vanilla-bean-frappuccino",
@@ -3801,7 +4960,19 @@ window.MENU_DATA = [
       "matcha": null,
       "milk": null
     },
-    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted."
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "description": "فرابيه — فانيلا.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "فرابيه"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "java-chip-frappuccino",
@@ -3828,7 +4999,19 @@ window.MENU_DATA = [
       "matcha": null,
       "milk": null
     },
-    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted."
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "description": "فرابيه من قائمة مول الدكة.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "فرابيه"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "mocha-frappuccino",
@@ -3855,13 +5038,27 @@ window.MENU_DATA = [
       "matcha": null,
       "milk": null
     },
-    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted."
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "description": "فرابيه من قائمة مول الدكة.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "فرابيه"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "coffee-frappuccino",
     "name": "Coffee Frappuccino",
     "category": "frappe",
-    "ingredients": [],
+    "ingredients": [
+      "قهوة"
+    ],
     "image": "assets/generated/thumbnails/coffee-frappuccino.webp",
     "source": "assets/source-images/WhatsApp Image 2026-10-05 at 15.14.54.jpeg",
     "sourceIndex": 102,
@@ -3884,7 +5081,19 @@ window.MENU_DATA = [
       "matcha": null,
       "milk": null
     },
-    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted."
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "description": "فرابيه — قهوة.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "فرابيه"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "caramel-frappuccino",
@@ -3913,13 +5122,27 @@ window.MENU_DATA = [
       "matcha": null,
       "milk": null
     },
-    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted."
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "description": "فرابيه — كراميل.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "فرابيه"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "espresso-frappe",
     "name": "Espresso Frappuccino",
     "category": "frappe",
-    "ingredients": [],
+    "ingredients": [
+      "إسبريسو"
+    ],
     "image": "assets/generated/thumbnails/espresso-frappe.webp",
     "source": "assets/source-images/WhatsApp Image 2026-10-05 at 15.14.54.jpeg",
     "sourceIndex": 102,
@@ -3944,7 +5167,19 @@ window.MENU_DATA = [
       "matcha": null,
       "milk": null
     },
-    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted."
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "description": "فرابيه — إسبريسو.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "فرابيه"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "biscoff-iced-matcha",
@@ -3982,7 +5217,19 @@ window.MENU_DATA = [
       26.25,
       22.857
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "ماتشا — بسكويت لوتس، ماتشا.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "ماتشا"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "oreo-iced-matcha",
@@ -4020,7 +5267,19 @@ window.MENU_DATA = [
       26.25,
       22.857
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "ماتشا — أوريو، ماتشا.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "ماتشا"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "butterfly-pea-tea-iced-matcha",
@@ -4057,7 +5316,19 @@ window.MENU_DATA = [
       25.417,
       18.214
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "ماتشا — ماتشا.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "ماتشا"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "thai-tea-iced-matcha",
@@ -4095,7 +5366,19 @@ window.MENU_DATA = [
       25.833,
       18.571
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "ماتشا — ماتشا، شاي تايلندي.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "ماتشا"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "iced-cappuccino",
@@ -4130,7 +5413,19 @@ window.MENU_DATA = [
       33.333,
       29.286
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "قهوة من قائمة مول الدكة.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "قهوة"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "brown-sugar-oreo-matcha-latte",
@@ -4138,7 +5433,8 @@ window.MENU_DATA = [
     "category": "matcha",
     "ingredients": [
       "أوريو",
-      "ماتشا"
+      "ماتشا",
+      "سكر بني"
     ],
     "image": "assets/generated/thumbnails/brown-sugar-oreo-matcha-latte.webp",
     "source": "assets/source-images/WhatsApp Image 2026-10-05 at 15.14.57 (2).jpeg",
@@ -4168,14 +5464,23 @@ window.MENU_DATA = [
       27.083,
       23.929
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "ماتشا — أوريو، ماتشا، سكر بني.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "ماتشا"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "orange-espresso-iced-latte",
     "name": "Orange Espresso Iced Latte",
     "category": "latte",
     "ingredients": [
-      "برتقال"
+      "برتقال",
+      "إسبريسو"
     ],
     "image": "assets/generated/thumbnails/orange-espresso-iced-latte.webp",
     "source": "assets/source-images/WhatsApp Image 2026-10-05 at 15.14.57 (2).jpeg",
@@ -4205,7 +5510,19 @@ window.MENU_DATA = [
       27.083,
       23.929
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "لاتيه — برتقال، إسبريسو.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "لاتيه"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "banana-vanilla-frappuccino",
@@ -4243,7 +5560,19 @@ window.MENU_DATA = [
       29.167,
       17.857
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "فرابيه — موز، فانيلا.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "فرابيه"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "thai-tea-frappuccino",
@@ -4280,7 +5609,19 @@ window.MENU_DATA = [
       27.083,
       17.857
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "فرابيه — شاي تايلندي.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "فرابيه"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "nutella-matcha-iced-latte",
@@ -4318,7 +5659,19 @@ window.MENU_DATA = [
       29.167,
       25.357
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "ماتشا — نوتيلا، ماتشا.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "ماتشا"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "pink-nutella-iced-latte",
@@ -4355,7 +5708,19 @@ window.MENU_DATA = [
       30.0,
       25.714
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "لاتيه — نوتيلا.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "لاتيه"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "oreo-iced-latte",
@@ -4394,7 +5759,19 @@ window.MENU_DATA = [
       33.333,
       28.571
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "لاتيه — أوريو.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "لاتيه"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "biscoff-vanilla-iced-latte",
@@ -4432,7 +5809,19 @@ window.MENU_DATA = [
       33.333,
       28.571
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "لاتيه — بسكويت لوتس، فانيلا.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "لاتيه"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "matcha-vanilla-iced-latte",
@@ -4472,7 +5861,19 @@ window.MENU_DATA = [
       32.083,
       28.571
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "ماتشا — ماتشا، فانيلا.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "ماتشا"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "iced-irish-latte",
@@ -4509,7 +5910,19 @@ window.MENU_DATA = [
       32.083,
       28.571
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "لاتيه من قائمة مول الدكة.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "لاتيه"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "iced-cinnamon-cappuccino",
@@ -4546,7 +5959,19 @@ window.MENU_DATA = [
       22.917,
       17.857
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "قهوة — قرفة.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "قهوة"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "oreo-pink-iced-latte",
@@ -4583,7 +6008,19 @@ window.MENU_DATA = [
       21.25,
       17.857
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "لاتيه — أوريو.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "لاتيه"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "coconut-water-americano",
@@ -4620,7 +6057,19 @@ window.MENU_DATA = [
       26.667,
       22.857
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "قهوة — ماء جوز الهند.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "قهوة"
+      },
+      {
+        "label": "القاعدة المذكورة",
+        "value": "ماء جوز الهند"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "coconut-water-iced-matcha",
@@ -4658,14 +6107,31 @@ window.MENU_DATA = [
       26.667,
       22.857
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "ماتشا — ماتشا، ماء جوز الهند.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "ماتشا"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      },
+      {
+        "label": "القاعدة المذكورة",
+        "value": "ماء جوز الهند"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "coconut-water-espresso-tonic",
     "name": "Coconut Water Espresso Tonic",
     "category": "coffee",
     "ingredients": [
-      "ماء جوز الهند"
+      "ماء جوز الهند",
+      "إسبريسو"
     ],
     "image": "assets/generated/thumbnails/coconut-water-espresso-tonic.webp",
     "source": "assets/source-images/WhatsApp Image 2026-10-05 at 15.15.01 (1).jpeg",
@@ -4695,7 +6161,19 @@ window.MENU_DATA = [
       30.0,
       22.857
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "قهوة — ماء جوز الهند، إسبريسو.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "قهوة"
+      },
+      {
+        "label": "القاعدة المذكورة",
+        "value": "ماء جوز الهند"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "coconut-water-vanilla-latte",
@@ -4733,7 +6211,19 @@ window.MENU_DATA = [
       26.667,
       22.857
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "لاتيه — فانيلا، ماء جوز الهند.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "لاتيه"
+      },
+      {
+        "label": "القاعدة المذكورة",
+        "value": "ماء جوز الهند"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "tiramisu-frappuccino",
@@ -4770,7 +6260,19 @@ window.MENU_DATA = [
       27.5,
       24.286
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "فرابيه — كريمة تيراميسو.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "فرابيه"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "nutella-frappuccino",
@@ -4807,7 +6309,19 @@ window.MENU_DATA = [
       30.0,
       23.571
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "فرابيه — نوتيلا.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "فرابيه"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "lotus-biscoff-frappuccino",
@@ -4844,7 +6358,19 @@ window.MENU_DATA = [
       30.0,
       23.571
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "فرابيه — بسكويت لوتس.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "فرابيه"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "iced-americano",
@@ -4879,13 +6405,27 @@ window.MENU_DATA = [
       30.0,
       25.714
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "قهوة من قائمة مول الدكة.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "قهوة"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "butterscotch-pink-iced-latte",
     "name": "Butterscotch Pink Iced Latte",
     "category": "latte",
-    "ingredients": [],
+    "ingredients": [
+      "باترسكوتش"
+    ],
     "image": "assets/generated/thumbnails/butterscotch-pink-iced-latte.webp",
     "source": "assets/source-images/WhatsApp Image 2026-10-05 at 15.15.02 (1).jpeg",
     "sourceIndex": 116,
@@ -4914,7 +6454,19 @@ window.MENU_DATA = [
       28.333,
       28.571
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "لاتيه — باترسكوتش.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "لاتيه"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "blue-coconut-water-iced-matcha",
@@ -4952,14 +6504,31 @@ window.MENU_DATA = [
       41.25,
       29.286
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "ماتشا — ماتشا، ماء جوز الهند.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "ماتشا"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      },
+      {
+        "label": "القاعدة المذكورة",
+        "value": "ماء جوز الهند"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "espresso-coconut-water",
     "name": "Espresso Coconut Water",
     "category": "coffee",
     "ingredients": [
-      "ماء جوز الهند"
+      "ماء جوز الهند",
+      "إسبريسو"
     ],
     "image": "assets/generated/thumbnails/espresso-coconut-water.webp",
     "source": "assets/source-images/WhatsApp Image 2026-10-05 at 15.15.02.jpeg",
@@ -4989,13 +6558,27 @@ window.MENU_DATA = [
       37.5,
       32.143
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "قهوة — ماء جوز الهند، إسبريسو.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "قهوة"
+      },
+      {
+        "label": "القاعدة المذكورة",
+        "value": "ماء جوز الهند"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "iced-coffee",
     "name": "Iced Coffee",
     "category": "coffee",
-    "ingredients": [],
+    "ingredients": [
+      "قهوة"
+    ],
     "image": "assets/generated/thumbnails/iced-coffee.webp",
     "source": "assets/source-images/WhatsApp Image 2026-10-05 at 15.15.04 (1).jpeg",
     "sourceIndex": 118,
@@ -5024,7 +6607,19 @@ window.MENU_DATA = [
       33.333,
       32.857
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "قهوة — قهوة.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "قهوة"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "caramel-latte",
@@ -5061,7 +6656,15 @@ window.MENU_DATA = [
       33.333,
       28.571
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "لاتيه — كراميل.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "لاتيه"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "vanilla-latte",
@@ -5098,14 +6701,23 @@ window.MENU_DATA = [
       33.333,
       28.571
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "لاتيه — فانيلا.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "لاتيه"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "hazelnut-coffee",
     "name": "Hazelnut Coffee",
     "category": "coffee",
     "ingredients": [
-      "بندق"
+      "بندق",
+      "قهوة"
     ],
     "image": "assets/generated/thumbnails/hazelnut-coffee.webp",
     "source": "assets/source-images/WhatsApp Image 2026-10-05 at 15.15.04 (1).jpeg",
@@ -5135,13 +6747,23 @@ window.MENU_DATA = [
       35.0,
       30.0
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "قهوة — بندق، قهوة.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "قهوة"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "irish-coffee",
     "name": "Irish Coffee",
     "category": "coffee",
-    "ingredients": [],
+    "ingredients": [
+      "قهوة"
+    ],
     "image": "assets/generated/thumbnails/irish-coffee.webp",
     "source": "assets/source-images/WhatsApp Image 2026-10-05 at 15.15.04 (1).jpeg",
     "sourceIndex": 118,
@@ -5170,13 +6792,23 @@ window.MENU_DATA = [
       35.417,
       28.571
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "قهوة — قهوة.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "قهوة"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "dalgona-coffee",
     "name": "Dalgona Coffee",
     "category": "coffee",
-    "ingredients": [],
+    "ingredients": [
+      "قهوة"
+    ],
     "image": "assets/generated/thumbnails/dalgona-coffee.webp",
     "source": "assets/source-images/WhatsApp Image 2026-10-05 at 15.15.04 (1).jpeg",
     "sourceIndex": 118,
@@ -5205,7 +6837,15 @@ window.MENU_DATA = [
       33.333,
       28.571
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "قهوة — قهوة.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "قهوة"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "vanilla-pink-iced-latte",
@@ -5242,7 +6882,19 @@ window.MENU_DATA = [
       37.5,
       28.929
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "لاتيه — فانيلا.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "لاتيه"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "americano",
@@ -5269,7 +6921,15 @@ window.MENU_DATA = [
       "matcha": null,
       "milk": null
     },
-    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted."
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "description": "قهوة من قائمة مول الدكة.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "قهوة"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "macchiato",
@@ -5296,7 +6956,15 @@ window.MENU_DATA = [
       "matcha": null,
       "milk": null
     },
-    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted."
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "description": "قهوة من قائمة مول الدكة.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "قهوة"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "flat-white",
@@ -5323,7 +6991,15 @@ window.MENU_DATA = [
       "matcha": null,
       "milk": null
     },
-    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted."
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "description": "قهوة من قائمة مول الدكة.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "قهوة"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "berry-chocolate-delight-shake",
@@ -5352,7 +7028,15 @@ window.MENU_DATA = [
       "matcha": null,
       "milk": true
     },
-    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted."
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "description": "ميلك شيك — شوكولاتة.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "ميلك شيك"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "chocolate-fudge-shake",
@@ -5381,7 +7065,15 @@ window.MENU_DATA = [
       "matcha": null,
       "milk": true
     },
-    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted."
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "description": "ميلك شيك — شوكولاتة.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "ميلك شيك"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "strawberry-bliss-shake",
@@ -5410,14 +7102,23 @@ window.MENU_DATA = [
       "matcha": null,
       "milk": true
     },
-    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted."
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "description": "ميلك شيك — فراولة.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "ميلك شيك"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "peach-blue-espresso-tonic",
     "name": "Peach Blue Espresso Tonic",
     "category": "coffee",
     "ingredients": [
-      "خوخ"
+      "خوخ",
+      "إسبريسو"
     ],
     "image": "assets/generated/thumbnails/peach-blue-espresso-tonic.webp",
     "source": "assets/source-images/WhatsApp Image 2026-10-05 at 15.15.15 (1).jpeg",
@@ -5439,14 +7140,23 @@ window.MENU_DATA = [
       "matcha": null,
       "milk": null
     },
-    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted."
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "description": "قهوة — خوخ، إسبريسو.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "قهوة"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "salted-caramel-shake",
     "name": "Salted Caramel Shake",
     "category": "shake",
     "ingredients": [
-      "كراميل"
+      "كراميل",
+      "كراميل مملح"
     ],
     "image": "assets/generated/thumbnails/salted-caramel-shake.webp",
     "source": "assets/source-images/WhatsApp Image 2026-10-05 at 15.15.15.jpeg",
@@ -5468,7 +7178,15 @@ window.MENU_DATA = [
       "matcha": null,
       "milk": true
     },
-    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted."
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "description": "ميلك شيك — كراميل، كراميل مملح.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "ميلك شيك"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "lemon-mint-smoothie",
@@ -5506,7 +7224,19 @@ window.MENU_DATA = [
       27.083,
       25.714
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "سموذي — ليمون، نعناع.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "سموذي"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "strawberry-banana-smoothie",
@@ -5536,7 +7266,19 @@ window.MENU_DATA = [
       "matcha": null,
       "milk": null
     },
-    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted."
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "description": "سموذي — فراولة، موز.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "سموذي"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "mango-smoothie",
@@ -5565,7 +7307,19 @@ window.MENU_DATA = [
       "matcha": null,
       "milk": null
     },
-    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted."
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "description": "سموذي — مانجو.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "سموذي"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "blueberry-smoothie",
@@ -5594,7 +7348,19 @@ window.MENU_DATA = [
       "matcha": null,
       "milk": null
     },
-    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted."
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "description": "سموذي — توت أزرق.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "سموذي"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "green-detox-smoothie",
@@ -5621,7 +7387,19 @@ window.MENU_DATA = [
       "matcha": null,
       "milk": null
     },
-    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted."
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "description": "سموذي من قائمة مول الدكة.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "سموذي"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "peanut-butter-smoothie",
@@ -5650,7 +7428,19 @@ window.MENU_DATA = [
       "matcha": null,
       "milk": null
     },
-    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted."
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "description": "سموذي — زبدة الفول السوداني.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "سموذي"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "chocolate-smoothie",
@@ -5679,7 +7469,19 @@ window.MENU_DATA = [
       "matcha": null,
       "milk": null
     },
-    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted."
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "description": "سموذي — شوكولاتة.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "سموذي"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "tropical-smoothie",
@@ -5706,7 +7508,19 @@ window.MENU_DATA = [
       "matcha": null,
       "milk": null
     },
-    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted."
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "description": "سموذي من قائمة مول الدكة.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "سموذي"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "avocado-smoothie",
@@ -5735,7 +7549,19 @@ window.MENU_DATA = [
       "matcha": null,
       "milk": null
     },
-    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted."
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "description": "سموذي — أفوكادو.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "سموذي"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "cherry-almond-smoothie",
@@ -5765,7 +7591,19 @@ window.MENU_DATA = [
       "matcha": null,
       "milk": null
     },
-    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted."
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "description": "سموذي — كرز، لوز.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "سموذي"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "vanilla-milkshake",
@@ -5794,7 +7632,19 @@ window.MENU_DATA = [
       "matcha": null,
       "milk": true
     },
-    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted."
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "description": "ميلك شيك — فانيلا.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "ميلك شيك"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "chocolate-milkshake",
@@ -5823,7 +7673,19 @@ window.MENU_DATA = [
       "matcha": null,
       "milk": true
     },
-    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted."
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "description": "ميلك شيك — شوكولاتة.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "ميلك شيك"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "strawberry-milkshake",
@@ -5852,7 +7714,19 @@ window.MENU_DATA = [
       "matcha": null,
       "milk": true
     },
-    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted."
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "description": "ميلك شيك — فراولة.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "ميلك شيك"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "banana-milkshake",
@@ -5881,13 +7755,27 @@ window.MENU_DATA = [
       "matcha": null,
       "milk": true
     },
-    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted."
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "description": "ميلك شيك — موز.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "ميلك شيك"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "coffee-milkshake",
     "name": "Coffee Milkshake",
     "category": "shake",
-    "ingredients": [],
+    "ingredients": [
+      "قهوة"
+    ],
     "image": "assets/generated/thumbnails/coffee-milkshake.webp",
     "source": "assets/source-images/WhatsApp Image 2026-10-05 at 15.15.17 (2).jpeg",
     "sourceIndex": 133,
@@ -5908,13 +7796,27 @@ window.MENU_DATA = [
       "matcha": null,
       "milk": true
     },
-    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted."
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "description": "ميلك شيك — قهوة.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "ميلك شيك"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "butterscotch-milkshake",
     "name": "Butterscotch Milkshake",
     "category": "shake",
-    "ingredients": [],
+    "ingredients": [
+      "باترسكوتش"
+    ],
     "image": "assets/generated/thumbnails/butterscotch-milkshake.webp",
     "source": "assets/source-images/WhatsApp Image 2026-10-05 at 15.15.17 (2).jpeg",
     "sourceIndex": 133,
@@ -5935,7 +7837,19 @@ window.MENU_DATA = [
       "matcha": null,
       "milk": true
     },
-    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted."
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "description": "ميلك شيك — باترسكوتش.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "ميلك شيك"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "lemon-iced-tea",
@@ -5964,7 +7878,19 @@ window.MENU_DATA = [
       "matcha": null,
       "milk": null
     },
-    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted."
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "description": "شاي مثلج — ليمون.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "شاي مثلج"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "peach-iced-tea",
@@ -5993,7 +7919,19 @@ window.MENU_DATA = [
       "matcha": null,
       "milk": null
     },
-    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted."
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "description": "شاي مثلج — خوخ.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "شاي مثلج"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "mango-iced-tea",
@@ -6022,7 +7960,19 @@ window.MENU_DATA = [
       "matcha": null,
       "milk": null
     },
-    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted."
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "description": "شاي مثلج — مانجو.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "شاي مثلج"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "green-lime-iced-tea",
@@ -6051,7 +8001,19 @@ window.MENU_DATA = [
       "matcha": null,
       "milk": null
     },
-    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted."
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "description": "شاي مثلج — ليمون أخضر.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "شاي مثلج"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "hibiscus-iced-tea",
@@ -6080,7 +8042,19 @@ window.MENU_DATA = [
       "matcha": null,
       "milk": null
     },
-    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted."
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "description": "شاي مثلج — كركديه.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "شاي مثلج"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "ginger-iced-tea",
@@ -6109,7 +8083,19 @@ window.MENU_DATA = [
       "matcha": null,
       "milk": null
     },
-    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted."
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "description": "شاي مثلج — زنجبيل.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "شاي مثلج"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "oreo-monster-iced-latte",
@@ -6138,7 +8124,19 @@ window.MENU_DATA = [
       "matcha": null,
       "milk": true
     },
-    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted."
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "description": "لاتيه — أوريو.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "لاتيه"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "matcha-biscoff-iced-latte",
@@ -6168,7 +8166,19 @@ window.MENU_DATA = [
       "matcha": true,
       "milk": true
     },
-    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted."
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "description": "ماتشا — بسكويت لوتس، ماتشا.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "ماتشا"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "taro-salted-caramel-iced-latte",
@@ -6176,7 +8186,8 @@ window.MENU_DATA = [
     "category": "latte",
     "ingredients": [
       "كراميل",
-      "تارو"
+      "تارو",
+      "كراميل مملح"
     ],
     "image": "assets/generated/thumbnails/taro-salted-caramel-iced-latte.webp",
     "source": "assets/source-images/WhatsApp Image 2026-10-05 at 15.15.18 (3).jpeg",
@@ -6206,7 +8217,19 @@ window.MENU_DATA = [
       35.833,
       28.571
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "لاتيه — كراميل، تارو، كراميل مملح.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "لاتيه"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "rose-falooda",
@@ -6233,7 +8256,15 @@ window.MENU_DATA = [
       "matcha": null,
       "milk": null
     },
-    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted."
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "description": "ميلك شيك من قائمة مول الدكة.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "ميلك شيك"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "lemon-mint-cooler",
@@ -6263,7 +8294,19 @@ window.MENU_DATA = [
       "matcha": null,
       "milk": null
     },
-    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted."
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "description": "مشروبات منعشة — ليمون، نعناع.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "مشروبات منعشة"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "watermelon-slush",
@@ -6292,7 +8335,19 @@ window.MENU_DATA = [
       "matcha": null,
       "milk": null
     },
-    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted."
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "description": "مشروبات منعشة — بطيخ.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "مشروبات منعشة"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "coconut-shake",
@@ -6319,7 +8374,15 @@ window.MENU_DATA = [
       "matcha": null,
       "milk": true
     },
-    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted."
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "description": "ميلك شيك من قائمة مول الدكة.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "ميلك شيك"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "pineapple-cooler",
@@ -6349,7 +8412,19 @@ window.MENU_DATA = [
       "matcha": null,
       "milk": null
     },
-    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted."
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "description": "مشروبات منعشة — تفاح، أناناس.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "مشروبات منعشة"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "kulfi-badam-shake",
@@ -6376,7 +8451,15 @@ window.MENU_DATA = [
       "matcha": null,
       "milk": true
     },
-    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted."
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "description": "ميلك شيك من قائمة مول الدكة.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "ميلك شيك"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "sabja-lemon-drink",
@@ -6405,14 +8488,23 @@ window.MENU_DATA = [
       "matcha": null,
       "milk": null
     },
-    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted."
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "description": "مشروبات منعشة — ليمون.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "مشروبات منعشة"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "chocolate-cold-coffee",
     "name": "Chocolate Cold Coffee",
     "category": "coffee",
     "ingredients": [
-      "شوكولاتة"
+      "شوكولاتة",
+      "قهوة"
     ],
     "image": "assets/generated/thumbnails/chocolate-cold-coffee.webp",
     "source": "assets/source-images/WhatsApp Image 2026-10-05 at 15.15.18.jpeg",
@@ -6434,14 +8526,23 @@ window.MENU_DATA = [
       "matcha": null,
       "milk": null
     },
-    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted."
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "description": "قهوة — شوكولاتة، قهوة.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "قهوة"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "iced-matcha-coffee",
     "name": "Iced Matcha Coffee",
     "category": "matcha",
     "ingredients": [
-      "ماتشا"
+      "ماتشا",
+      "قهوة"
     ],
     "image": "assets/generated/thumbnails/iced-matcha-coffee.webp",
     "source": "assets/source-images/WhatsApp Image 2026-10-05 at 15.15.19 (1).jpeg",
@@ -6471,14 +8572,27 @@ window.MENU_DATA = [
       31.667,
       24.286
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "ماتشا — ماتشا، قهوة.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "ماتشا"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "matcha-coffee-frappuccino",
     "name": "Matcha Coffee Frappuccino",
     "category": "frappe",
     "ingredients": [
-      "ماتشا"
+      "ماتشا",
+      "قهوة"
     ],
     "image": "assets/generated/thumbnails/matcha-coffee-frappuccino.webp",
     "source": "assets/source-images/WhatsApp Image 2026-10-05 at 15.15.19.jpeg",
@@ -6508,7 +8622,19 @@ window.MENU_DATA = [
       26.667,
       26.786
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "فرابيه — ماتشا، قهوة.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "فرابيه"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "sugar-iced-cappuccino",
@@ -6543,7 +8669,19 @@ window.MENU_DATA = [
       35.0,
       27.857
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "قهوة من قائمة مول الدكة.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "قهوة"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "honey-soda",
@@ -6580,7 +8718,15 @@ window.MENU_DATA = [
       41.667,
       28.571
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "مشروبات منعشة — عسل.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "مشروبات منعشة"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "honey-lime-soda",
@@ -6618,14 +8764,23 @@ window.MENU_DATA = [
       41.667,
       27.857
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "مشروبات منعشة — عسل، ليمون أخضر.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "مشروبات منعشة"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "orange-espresso-soda",
     "name": "Orange Espresso Soda",
     "category": "coffee",
     "ingredients": [
-      "برتقال"
+      "برتقال",
+      "إسبريسو"
     ],
     "image": "assets/generated/thumbnails/orange-espresso-soda.webp",
     "source": "assets/source-images/WhatsApp Image 2026-10-05 at 15.15.21 (2).jpeg",
@@ -6655,7 +8810,15 @@ window.MENU_DATA = [
       37.5,
       27.857
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "قهوة — برتقال، إسبريسو.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "قهوة"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "orange-americano",
@@ -6692,7 +8855,15 @@ window.MENU_DATA = [
       37.5,
       27.143
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "قهوة — برتقال.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "قهوة"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "iced-caramel-chocolate-coffee",
@@ -6700,7 +8871,8 @@ window.MENU_DATA = [
     "category": "coffee",
     "ingredients": [
       "كراميل",
-      "شوكولاتة"
+      "شوكولاتة",
+      "قهوة"
     ],
     "image": "assets/generated/thumbnails/iced-caramel-chocolate-coffee.webp",
     "source": "assets/source-images/WhatsApp Image 2026-10-05 at 15.15.21 (3).jpeg",
@@ -6722,7 +8894,19 @@ window.MENU_DATA = [
       "matcha": null,
       "milk": null
     },
-    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted."
+    "extractionNote": "Visually reviewed poster. Ingredient list is partial; optional ingredients and uncertain base ingredients omitted.",
+    "description": "قهوة — كراميل، شوكولاتة، قهوة.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "قهوة"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "nutella-iced-latte",
@@ -6759,7 +8943,19 @@ window.MENU_DATA = [
       20.833,
       15.0
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "لاتيه — نوتيلا.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "لاتيه"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "black-forest-frappe",
@@ -6794,7 +8990,19 @@ window.MENU_DATA = [
       30.0,
       25.714
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "فرابيه من قائمة مول الدكة.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "فرابيه"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "tiramisu-frappe",
@@ -6831,7 +9039,19 @@ window.MENU_DATA = [
       30.0,
       25.714
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "فرابيه — كريمة تيراميسو.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "فرابيه"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "ovaltine-frappe",
@@ -6866,7 +9086,19 @@ window.MENU_DATA = [
       30.0,
       25.714
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "فرابيه من قائمة مول الدكة.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "فرابيه"
+      },
+      {
+        "label": "التقديم",
+        "value": "بارد"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   },
   {
     "id": "oreo-mocha",
@@ -6903,6 +9135,14 @@ window.MENU_DATA = [
       28.333,
       23.214
     ],
-    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration"
+    "imageTreatment": "Original photograph with official logo overlay covering the reviewed old cup-brand bounds; no AI regeneration",
+    "description": "موكا — أوريو.",
+    "details": [
+      {
+        "label": "نوع المشروب",
+        "value": "موكا"
+      }
+    ],
+    "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات."
   }
 ];

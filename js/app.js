@@ -49,6 +49,12 @@ function render() {
  const query=normalize($('search').value.trim());
  const list=data.filter(d=>(category==='all'||d.category===category)&&(!favoritesOnly||favorites.has(d.id))&&normalize([d.name,categories[d.category],...d.ingredients].join(' ')).includes(query));
  $('clear').hidden=!query; $('count').textContent=`${list.length} مشروب`; $('empty').hidden=!!list.length; $('grid').replaceChildren();
+ document.body.classList.toggle('favorites-view',favoritesOnly);
+ $('menu-title').textContent=favoritesOnly?'مشروباتك المفضلة':'اختار مشروبك';
+ const emptyFavorite=favoritesOnly&&!favorites.size;
+ $('empty').querySelector('h3').textContent=emptyFavorite?'المفضلة ديالك باقي خاوية':'ما لقيناش هاد المشروب';
+ $('empty').querySelector('p').textContent=emptyFavorite?'فتح تفاصيل أي مشروب وضغط على القلب باش تحفظو هنا.':'جرّب اسم آخر أو اختار فئة أخرى.';
+ $('reset').textContent=favoritesOnly?'اكتشف المشروبات':'عرض جميع المشروبات';
  const fragment=document.createDocumentFragment();
  for(const drink of list){
   const card=make('button','card');card.type='button';card.setAttribute('aria-label',`شوف تفاصيل ${drink.name}`);
@@ -63,7 +69,13 @@ function render() {
 function reset(){category='all';favoritesOnly=false;$('search').value='';$('favorites-nav').setAttribute('aria-pressed','false');renderCategories();render();}
 function updateQuantity(){ $('quantity').value=quantity; $('minus').disabled=quantity===1; }
 function updateFavorite(){const saved=favorites.has(selected.id);$('favorite').textContent=saved?'♥ في المفضلة':'♡ أضف للمفضلة';$('favorite').setAttribute('aria-pressed',String(saved));}
-function openDrink(drink,button){selected=drink;opener=button;quantity=1;updateQuantity();$('detail-name').textContent=drink.name;$('detail-category').textContent=categories[drink.category];$('detail-image').src=drink.image;$('detail-image').alt=drink.name;const visual=$('detail-image').parentElement;mountPhoto(visual,$('detail-image'),drink);$('poster').href=drink.source;$('ingredients').replaceChildren(...drink.ingredients.map(i=>make('li','',i)));$('ingredient-note').textContent=drink.ingredients.length?'بعض المكونات الظاهرة في الوصفة. اسأل فريقنا عن الحساسية والتعديلات.':'اسأل فريقنا عن المكونات والحساسية والتعديلات.';$('order-status').textContent='';updateFavorite();document.body.classList.add('locked');$('details').showModal();$('close').focus();}
+function renderDrinkDetails(drink){
+ $('detail-description').textContent=drink.description||'';$('drink-facts').replaceChildren();
+ for(const fact of drink.details||[]){const row=make('div','drink-fact');row.append(make('dt','',fact.label),make('dd','',fact.value));$('drink-facts').append(row);}
+ $('ingredient-note').textContent=drink.ingredientNote||'سَوّل الفريق على المكونات والحساسية.';
+ if(!drink.ingredients.length)$('ingredients').append(make('li','','تفاصيل المكونات عند الفريق'));
+}
+function openDrink(drink,button){selected=drink;opener=button;quantity=1;updateQuantity();$('detail-name').textContent=drink.name;$('detail-category').textContent=categories[drink.category];$('detail-image').src=drink.image;$('detail-image').alt=drink.name;const visual=$('detail-image').parentElement;mountPhoto(visual,$('detail-image'),drink);$('poster').href=drink.source;$('ingredients').replaceChildren(...drink.ingredients.map(i=>make('li','',i)));$('ingredient-note').textContent=drink.ingredients.length?'بعض المكونات الظاهرة في الوصفة. اسأل فريقنا عن الحساسية والتعديلات.':'اسأل فريقنا عن المكونات والحساسية والتعديلات.';$('order-status').textContent='';renderDrinkDetails(drink);updateFavorite();document.body.classList.add('locked');$('details').showModal();$('close').focus();}
 $('close').addEventListener('click',()=>$('details').close());
 $('details').addEventListener('close',()=>{document.body.classList.remove('locked');if(opener?.isConnected)opener.focus();else $('search').focus();});
 $('details').addEventListener('click',e=>{if(e.target===$('details')){const r=$('details').getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom)$('details').close();}});
@@ -74,6 +86,8 @@ $('order').addEventListener('click',()=>{if(!/^[1-9]\d{7,14}$/.test(WHATSAPP_NUM
 $('favorite').addEventListener('click',()=>{if(favorites.has(selected.id))favorites.delete(selected.id);else favorites.add(selected.id);try{localStorage.setItem('mall-al-dikka-favorites',JSON.stringify([...favorites]));}catch{}updateFavorite();render();});
 $('search').addEventListener('input',render);$('clear').addEventListener('click',()=>{$('search').value='';render();$('search').focus();});$('reset').addEventListener('click',reset);
 $('search-nav').addEventListener('click',()=>{$('menu').scrollIntoView();$('search').focus({preventScroll:true});});
-$('favorites-nav').addEventListener('click',()=>{favoritesOnly=!favoritesOnly;$('favorites-nav').setAttribute('aria-pressed',String(favoritesOnly));render();$('menu').scrollIntoView();});
+$('favorites-nav').addEventListener('click',()=>{favoritesOnly=!favoritesOnly;category='all';$('search').value='';$('favorites-nav').setAttribute('aria-pressed',String(favoritesOnly));renderCategories();render();$('menu').scrollIntoView();});
+document.querySelectorAll('.bottom-nav a,.explore').forEach(link=>link.addEventListener('click',()=>{if(favoritesOnly)reset();}));
 renderCategories();render();
+
 
