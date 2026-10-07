@@ -1,4 +1,4 @@
-window.MENU_CATEGORIES = {"matcha": "ماتشا", "latte": "لاتيه", "coffee": "قهوة", "tea": "شاي مثلج", "mocha": "موكا", "cold": "كولد برو", "shake": "ميلك شيك", "smoothie": "سموذي", "frappe": "فرابيه", "fresh": "مشروبات منعشة"};
+window.MENU_CATEGORIES = {"matcha": "ماتشا", "latte": "لاتيه", "coffee": "قهوة", "tea": "شاي مثلج", "mocha": "موكا", "cold": "كولد برو", "shake": "ميلك شيك", "smoothie": "سموذي", "frappe": "فرابيه", "fresh": "مشروبات منعشة", "mojito": "موهيتو | Mojitos"};
 window.MENU_DATA = [
   {
     "id": "oreo-pink-iced-matcha",
@@ -101,7 +101,7 @@ window.MENU_DATA = [
       "ماتشا",
       "حليب"
     ],
-    "image": "assets/generated/optimized/iced-matcha-latte.webp",
+    "image": "assets/mojitos/Iced_Matcha_Latte.png",
     "source": "assets/source-images/WhatsApp Image 2026-10-05 at 14.38.36 (1).jpeg",
     "sourceIndex": 36,
     "imageCrop": {
@@ -137,7 +137,9 @@ window.MENU_DATA = [
       }
     ],
     "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات.",
-    "originalImage": "assets/generated/branded/iced-matcha-latte.webp"
+    "originalImage": "assets/generated/branded/iced-matcha-latte.webp",
+    "individualImage": true,
+    "brandOverlay": false
   },
   {
     "id": "honey-oreo-iced-latte",
@@ -9002,5 +9004,149 @@ window.MENU_DATA = [
     "ingredientNote": "المكونات والنكهات المذكورة في اسم المشروب والوصفة؛ اللائحة قد تكون غير كاملة. سَوّل الفريق على الحساسية والتعديلات.",
     "individualImage": true,
     "originalImage": "assets/imgg/05_Oreo_Mocha.jpg"
+  },
+  {
+    "id": "blueberry-mojito",
+    "name": "Blueberry Mojito",
+    "category": "mojito",
+    "ingredients": [],
+    "image": "assets/mojitos/blueberry-mojito.png",
+    "individualImage": true
+  },
+  {
+    "id": "classic-mojito",
+    "name": "Classic Mojito",
+    "category": "mojito",
+    "ingredients": [],
+    "image": "assets/mojitos/classic-mojito.png",
+    "individualImage": true
+  },
+  {
+    "id": "detox-juice-cucumber-lemon",
+    "name": "Detox Juice Cucumber Lemon",
+    "category": "fresh",
+    "ingredients": [],
+    "image": "assets/mojitos/Detox_Juice_Cucumber_Lemon.png",
+    "individualImage": true
+  },
+  {
+    "id": "energy-drink-cocktail",
+    "name": "Energy Drink Cocktail",
+    "category": "fresh",
+    "ingredients": [],
+    "image": "assets/mojitos/Energy_Drink_Cocktail.png",
+    "individualImage": true
+  },
+  {
+    "id": "ice-tea-house-blend-mint-lemon",
+    "name": "Ice Tea House Blend Mint Lemon",
+    "category": "tea",
+    "ingredients": [],
+    "image": "assets/mojitos/Ice_Tea_House_Blend_Mint_Lemon.png",
+    "individualImage": true
+  },
+  {
+    "id": "kinder-milkshake",
+    "name": "Kinder Milkshake",
+    "category": "shake",
+    "ingredients": [],
+    "image": "assets/mojitos/Kinder_Milkshake.png",
+    "individualImage": true
+  },
+  {
+    "id": "lemon-ginger-infusion",
+    "name": "Lemon Ginger Infusion",
+    "category": "tea",
+    "ingredients": [],
+    "image": "assets/mojitos/Lemon_Ginger_Infusion.png",
+    "individualImage": true
+  },
+  {
+    "id": "mango-mojito",
+    "name": "Mango Mojito",
+    "category": "mojito",
+    "ingredients": [],
+    "image": "assets/mojitos/mango-mojito.png",
+    "individualImage": true
+  },
+  {
+    "id": "oreo-milkshake",
+    "name": "Oreo Milkshake",
+    "category": "shake",
+    "ingredients": [],
+    "image": "assets/mojitos/Oreo_Milkshake.png",
+    "individualImage": true
+  },
+  {
+    "id": "passion-fruit-mojito",
+    "name": "Passion Fruit Mojito",
+    "category": "mojito",
+    "ingredients": [],
+    "image": "assets/mojitos/passion-fruit-mojito.png",
+    "individualImage": true
+  },
+  {
+    "id": "peach-mojito",
+    "name": "Peach Mojito",
+    "category": "mojito",
+    "ingredients": [],
+    "image": "assets/mojitos/peach-mojito.png",
+    "individualImage": true
+  },
+  {
+    "id": "pineapple-mojito",
+    "name": "Pineapple Mojito",
+    "category": "mojito",
+    "ingredients": [],
+    "image": "assets/mojitos/pineapple-mojito.png",
+    "individualImage": true
+  },
+  {
+    "id": "pomegranate-mojito",
+    "name": "Pomegranate Mojito",
+    "category": "mojito",
+    "ingredients": [],
+    "image": "assets/mojitos/pomegranate-mojito.png",
+    "individualImage": true
+  },
+  {
+    "id": "red-fruits-smoothie",
+    "name": "Red Fruits Smoothie",
+    "category": "smoothie",
+    "ingredients": [],
+    "image": "assets/mojitos/Red_Fruits_Smoothie.png",
+    "individualImage": true
+  },
+  {
+    "id": "snickers-milkshake",
+    "name": "Snickers Milkshake",
+    "category": "shake",
+    "ingredients": [],
+    "image": "assets/mojitos/Snickers_Milkshake.png",
+    "individualImage": true
+  },
+  {
+    "id": "strawberry-mojito",
+    "name": "Strawberry Mojito",
+    "category": "mojito",
+    "ingredients": [],
+    "image": "assets/mojitos/strawberry-mojito.png",
+    "individualImage": true
+  },
+  {
+    "id": "virgin-mojito-classic-mint-lime",
+    "name": "Virgin Mojito Classic Mint Lime",
+    "category": "mojito",
+    "ingredients": [],
+    "image": "assets/mojitos/virgin-mojito-classic-mint-lime.png",
+    "individualImage": true
+  },
+  {
+    "id": "watermelon-mojito",
+    "name": "Watermelon Mojito",
+    "category": "mojito",
+    "ingredients": [],
+    "image": "assets/mojitos/watermelon-mojito.png",
+    "individualImage": true
   }
 ];
