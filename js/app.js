@@ -22,7 +22,8 @@ const photoFrames = {
 function mountPhoto(visual,img,drink){
  visual.querySelector('.source-frame')?.remove();
  visual.querySelector('.brand-badge')?.remove();
- const frame=photoFrames[drink.id];
+ visual.classList.toggle('individual-photo',!!drink.individualImage);
+ const frame=drink.individualImage?null:photoFrames[drink.id];
  img.hidden=!!frame;
  if(!frame){img.src=drink.image;if(drink.brandOverlay)visual.append(brandBadge(drink));return;}
  const [left,top,right,bottom]=frame.bounds;
