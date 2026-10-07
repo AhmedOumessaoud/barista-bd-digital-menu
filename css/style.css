@@ -41,3 +41,20 @@ html{scroll-padding-top:130px}.header{padding:12px 16px;min-height:76px}.brand{g
 .welcome-flavors .explore{padding:16px 26px;min-height:56px;font-size:17px;font-weight:700;gap:24px;background:#54230d;box-shadow:0 8px 22px #54230d18}
 @media(max-width:850px) and (min-width:601px){.welcome-flavors{min-height:460px;margin-inline:-28px;padding:28px 22px}.welcome-flavors .welcome-copy{width:41%}.welcome-flavors h1{font-size:38px}.welcome-flavors p{font-size:16px}.welcome-flavors .eyebrow{font-size:15px}}
 @media(max-width:600px){.welcome-flavors{display:block;min-height:650px;margin:12px -14px 22px;padding:28px 20px 340px;border-radius:18px;background-image:linear-gradient(to bottom,#fff3df 0%,#fff3df 42%,transparent 57%),url('../assets/generated/hero-flavors-mobile.webp');background-size:100% 100%,auto 360px;background-position:center,left bottom;background-repeat:no-repeat}.welcome-flavors .welcome-copy{width:100%;padding:0;text-align:center}.welcome-flavors .eyebrow{font-size:14px;padding-bottom:7px}.welcome-flavors h1{font-size:clamp(35px,10vw,45px);line-height:1.16;margin:16px 0;letter-spacing:-.8px}.welcome-flavors h1 em{padding:8px 16px;margin-top:6px}.welcome-flavors p{font-size:15px;line-height:1.7;margin:17px 0 12px}.welcome-flavors .explore{font-size:14px;padding:12px 22px;min-height:46px;margin-top:0}}
+
+/* Stronger, more legible Arabic typography across the menu. */
+body{font-weight:700}
+.header-note{font-size:14px}.brand strong{font-size:28px}
+.eyebrow{font-size:14px}.intro-line{font-size:13px}
+input{font-size:17px;font-weight:700}.chip{font-size:16px;font-weight:700}
+.section-heading h2{font-size:33px}.section-heading #count{font-size:14px}
+.card-category{font-size:13px}.card-action{font-size:13px}
+.bottom-nav a,.bottom-nav button{font-size:13px;font-weight:700}
+.detail-copy h3{font-size:17px}.favorite{font-size:15px;font-weight:700}
+.ingredients li,.muted,.order-status,.poster-link{font-size:14px}
+.drink-description{font-size:18px}.drink-fact{font-size:16px}
+footer p{font-size:15px}.empty p{font-size:17px}
+.welcome-flavors .eyebrow{font-size:20px}.welcome-flavors p{font-size:21px;font-weight:700}
+.welcome-flavors .explore{font-size:19px}.welcome-flavors h1{font-size:clamp(38px,4.5vw,66px)}
+@media(max-width:850px) and (min-width:601px){.welcome-flavors h1{font-size:39px}.welcome-flavors p{font-size:18px}.welcome-flavors .eyebrow{font-size:17px}}
+@media(max-width:600px){.brand strong{font-size:26px}.header-note{font-size:12px}.chip{font-size:15px}.section-heading .eyebrow{font-size:12px}.section-heading h2{font-size:28px}.section-heading #count{font-size:12px}.card-category{font-size:12px}.card-action{font-size:12px}.welcome-flavors .eyebrow{font-size:16px}.welcome-flavors h1{font-size:clamp(35px,10.5vw,47px)}.welcome-flavors p{font-size:17px}.welcome-flavors .explore{font-size:16px}.empty p{font-size:16px}}
