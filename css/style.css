@@ -58,3 +58,14 @@ footer p{font-size:15px}.empty p{font-size:17px}
 .welcome-flavors .explore{font-size:19px}.welcome-flavors h1{font-size:clamp(38px,4.5vw,66px)}
 @media(max-width:850px) and (min-width:601px){.welcome-flavors h1{font-size:39px}.welcome-flavors p{font-size:18px}.welcome-flavors .eyebrow{font-size:17px}}
 @media(max-width:600px){.brand strong{font-size:26px}.header-note{font-size:12px}.chip{font-size:15px}.section-heading .eyebrow{font-size:12px}.section-heading h2{font-size:28px}.section-heading #count{font-size:12px}.card-category{font-size:12px}.card-action{font-size:12px}.welcome-flavors .eyebrow{font-size:16px}.welcome-flavors h1{font-size:clamp(35px,10.5vw,47px)}.welcome-flavors p{font-size:17px}.welcome-flavors .explore{font-size:16px}.empty p{font-size:16px}}
+
+.social-links{display:flex;justify-content:center;flex-wrap:wrap;gap:12px;margin-top:22px}
+.social-links a,.social-links button{display:inline-flex;align-items:center;justify-content:center;gap:9px;min-height:48px;padding:12px 20px;border:1px solid var(--line);border-radius:28px;background:#fffdf9;color:var(--brown);font-weight:700;font-size:15px}
+.social-links svg{width:20px;height:20px;fill:none;stroke:currentColor;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
+.social-links button:disabled{cursor:default;opacity:.65}
+.social-links a:hover{background:var(--brown);color:var(--cream)}
+
+/* Header social controls remain compact on mobile. */
+.header .social-links{margin:0;flex-wrap:nowrap;gap:8px}
+.header .social-links a,.header .social-links button{padding:10px 14px;font-size:13px;min-height:44px}
+@media(max-width:600px){.header{flex-wrap:wrap;gap:10px}.header .header-note{display:none}.header .social-links{gap:6px}.header .social-links a,.header .social-links button{width:44px;padding:10px}.header .social-links span{display:none}}

@@ -1,5 +1,5 @@
 ﻿/* Replace this value with the café's international number, digits only. */
-const WHATSAPP_NUMBER = "REPLACE_WITH_CLIENT_NUMBER";
+const WHATSAPP_NUMBER = "212727420053";
 const data = window.MENU_DATA;
 const categories = window.MENU_CATEGORIES;
 const $ = id => document.getElementById(id);
